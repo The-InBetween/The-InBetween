@@ -625,11 +625,6 @@ hash = "85c1250e94f089d798a50785578a1d79ecaac7c69ea7dec66782d25a43a051ca"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers-fabric.pw.toml"
-hash = "d42b3565f574b9057173fc6f2d9b88998b4b55a7310538343488c3fe9844cf6b"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "e3cb9bf5ad9c3c932499f7e5a582139b285b341e8269d1fc72f7bcdf7a225ba8"
 metafile = true
