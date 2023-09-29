@@ -2,6 +2,8 @@
 
 Pack in development, nothing to see for now.
 
+---
+
 ### Troubleshooting and Support
 
 If you encounter any issues or need assistance, consult the [Issues](https://github.com/Conquerix/mc-modpack-kit/issues) page or reach out via my GitHub profile.
