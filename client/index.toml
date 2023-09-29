@@ -1095,6 +1095,11 @@ hash = "f9a734d8a79203324131ee34611d8e58a94e168ef23d10dcfd3536612725fa7e"
 metafile = true
 
 [[files]]
+file = "mods/sidekick.pw.toml"
+hash = "0b3aa7a2c2dd32d68739756fdd20800f97f6ae447105531252df6e7a5852ab63"
+metafile = true
+
+[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "e042a31030aeef75b55c1d23d8728fad0beeffe983c3dfe82200e31c5ca37fa8"
 metafile = true
