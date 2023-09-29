@@ -625,11 +625,6 @@ hash = "e3cb9bf5ad9c3c932499f7e5a582139b285b341e8269d1fc72f7bcdf7a225ba8"
 metafile = true
 
 [[files]]
-file = "mods/healing-campfire.pw.toml"
-hash = "d44db4986bac613fe7d39f3795b3311b232acd1d14194c8da372b9a2c8ac95ce"
-metafile = true
-
-[[files]]
 file = "mods/iammusicplayer.pw.toml"
 hash = "bcd5cd82bd82204c4ab63193b666106fd15135ad79b6d0a986894bf121229a96"
 metafile = true
