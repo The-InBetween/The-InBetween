@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.2...client-v0.1.3) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/guard-villagers-fabric:** Removed mod because it causes crashes with DashLoader ([e032131](https://github.com/Conquerix/The-InBetween/commit/e032131d26d769d2d47d8875f99b76ac6626628e))
+
 ## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.1...client-v0.1.2) (2023-09-29)
 
 
