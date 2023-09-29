@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.7](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.6...client-v0.1.7) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/healing-campfire:** Removed mod because not needed of the client ([48fb6fc](https://github.com/Conquerix/The-InBetween/commit/48fb6fc1f66ad9f0c9055d6fe0f2923a33fdac57))
+
 ## [0.1.6](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.5...client-v0.1.6) (2023-09-29)
 
 
