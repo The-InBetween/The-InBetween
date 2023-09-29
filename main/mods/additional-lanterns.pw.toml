@@ -1,0 +1,13 @@
+name = "Additional Lanterns"
+filename = "additionallanterns-1.0.5-fabric-mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb49478a5bb6bd24ff98e74ef92a908a5be3d85b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4591453
+project-id = 501590

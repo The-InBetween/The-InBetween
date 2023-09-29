@@ -1,0 +1,13 @@
+name = "Glowing Ores (Vanilla, Mythic Metals, Better End/Nether & more!)"
+filename = "Glowing Modded Ores V3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41b644a3995bbf564b5c77ef4992d7e3bcc26168"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4672092
+project-id = 721519

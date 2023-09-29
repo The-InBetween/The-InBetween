@@ -1,0 +1,13 @@
+name = "mc-project-v2"
+author = "Conquerix"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2b6c208ee87e1b550617daee049a6c42f92dc49b3f1a588e221aecc8594ba354"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"

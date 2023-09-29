@@ -1,0 +1,13 @@
+name = "EMI Trades (Villager Trading EMI Plugin)"
+filename = "EMITrades-fabric-1.0.2+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1343aeee6535f0131e44f9a0365f7420bb5bde91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4171479
+project-id = 735523

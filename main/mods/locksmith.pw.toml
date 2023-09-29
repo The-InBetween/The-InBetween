@@ -1,0 +1,13 @@
+name = "Locksmith"
+filename = "locksmith-fabric-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51bb3113adcb3f9642f8496f059dffb7b38be6e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4650917
+project-id = 544352

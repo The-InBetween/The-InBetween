@@ -1,0 +1,13 @@
+name = "Leaf Decay"
+filename = "leaf-decay-1.5.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0016ae00e795c14ebb235b1f8a121dc8c8c71b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4031471
+project-id = 320528

@@ -1,0 +1,13 @@
+name = "Table Top Craft (Fabric)"
+filename = "table_top_craft-1.19-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "abf560de770ccff8de18e78685f87f8a8fb5d435"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4618004
+project-id = 729535

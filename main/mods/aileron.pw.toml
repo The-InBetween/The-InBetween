@@ -1,0 +1,13 @@
+name = "Aileron"
+filename = "aileron-1.19-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4aca33ab5eeab10584d00be9e501dcce9825ec7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4376422
+project-id = 649925

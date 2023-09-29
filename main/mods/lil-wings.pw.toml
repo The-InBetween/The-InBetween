@@ -1,0 +1,13 @@
+name = "Lil' Wings"
+filename = "lilwings-fabric-1.19.2-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36bb844572bb7530d52e518bd10a2db410b90020"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4325684
+project-id = 561277

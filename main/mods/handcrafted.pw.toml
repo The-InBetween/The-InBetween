@@ -1,0 +1,13 @@
+name = "Handcrafted"
+filename = "handcrafted-fabric-1.19.2-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d64eeadc7dd3c64a8467754f85bc7c10f0b46cf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4437458
+project-id = 538214

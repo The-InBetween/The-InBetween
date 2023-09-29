@@ -1,0 +1,13 @@
+name = "Portable Jukebox"
+filename = "portablejukebox-fabric-1.19-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b852c5eab1c55d4787a16a1ac6e0e7c5c1dfc3ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3887529
+project-id = 438849

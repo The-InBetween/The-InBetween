@@ -1,0 +1,13 @@
+name = "CTOV - Gazebo compat"
+filename = "ctov-gazebos-add-on-v1-0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b62a0e480524d0af34bace5b82b342e0c30a793"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4620616
+project-id = 883456

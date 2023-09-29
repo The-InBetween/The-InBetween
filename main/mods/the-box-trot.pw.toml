@@ -1,0 +1,13 @@
+name = "The Box Trot"
+filename = "the-box-trot-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EmMd2auW/versions/1.4/the-box-trot-1.4.jar"
+hash-format = "sha1"
+hash = "b04b509f7ad70baca2b0e03456c097b91a597700"
+
+[update]
+[update.modrinth]
+mod-id = "EmMd2auW"
+version = "iRiXITVh"

@@ -1,0 +1,13 @@
+name = "Twigs"
+filename = "twigs-3.0.0-fabric-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b2f2d3a92bfa7e613de1a587c04a39f802f143b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4531594
+project-id = 496913

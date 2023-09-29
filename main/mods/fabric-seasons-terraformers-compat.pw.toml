@@ -1,0 +1,13 @@
+name = "Fabric Seasons: Terraformers Compat"
+filename = "fabric-seasons-terraformers-compat-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e780ac99b7d260ee0561d989f9e22e7ab08622a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4533733
+project-id = 860990

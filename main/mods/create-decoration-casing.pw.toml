@@ -1,0 +1,13 @@
+name = "Create Decoration Casing"
+filename = "Create_Deco_Casing_3.0.0_1.19_Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17bc721239bf7ff70f685e6411c052d312f182c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4619038
+project-id = 782293

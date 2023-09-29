@@ -1,0 +1,13 @@
+name = "All Stone to Tools"
+filename = "AllStoneToToolsFabric-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b76d26e3dd8309e703ff2e68f83c467e4b86c476"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4027073
+project-id = 451571

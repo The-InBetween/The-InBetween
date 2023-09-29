@@ -1,0 +1,13 @@
+name = "Coffee Delight"
+filename = "CoffeeDelight-Fabric-1.19.2-1.3Fix3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5655787a8639120dd67b3748f873c905b2bf6395"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4626095
+project-id = 835597

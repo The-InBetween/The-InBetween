@@ -1,0 +1,13 @@
+name = "AutoTag"
+filename = "autotag-2.0.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ff8bc50a7e8241b358fa8fe4c631e58d79183fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3989400
+project-id = 618433

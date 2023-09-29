@@ -1,0 +1,13 @@
+name = "Comforts (Fabric 1.16.5 - 1.19.2)"
+filename = "comforts-fabric-6.0.4+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bda5e30a409e778427236cc207676b15c7189fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4449066
+project-id = 433539

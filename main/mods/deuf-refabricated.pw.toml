@@ -1,0 +1,13 @@
+name = "DEUF Refabricated"
+filename = "DEUF_Refabricated-MC1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9601f256f01bf667d1bcf59b68dccd71127d639"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4527352
+project-id = 858101

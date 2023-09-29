@@ -1,0 +1,13 @@
+name = "Underwater Enchanting"
+filename = "underwaterenchanting-1.19.2-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56ebbe0549d49006204a09ae0376995711a797a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4400089
+project-id = 348758

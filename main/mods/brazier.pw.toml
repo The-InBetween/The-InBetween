@@ -1,0 +1,13 @@
+name = "Brazier"
+filename = "brazier-fabric-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c9a34edfcd390a0de45f73201d8cb27cac7e9ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4672334
+project-id = 402616

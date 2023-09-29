@@ -1,0 +1,13 @@
+name = "Unstructured [Fabric/Forge]"
+filename = "unstructured-0.5.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b8ffebbae94a98d6558191cc5bcad55ab0cfd66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996842
+project-id = 575348

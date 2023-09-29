@@ -1,0 +1,13 @@
+name = "CTOV - Farmer Delight Compatibility pack"
+filename = "ctov-farmers-delight-compat-v1-2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78d84d608d904d8ca8b331937d6cf3da0cb4fef5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4407112
+project-id = 628469
