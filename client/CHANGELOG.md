@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.1...client-v0.1.2) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/sidekick:** Better creative gamemode, very useful for admins. ([64b6e4c](https://github.com/Conquerix/The-InBetween/commit/64b6e4c76ad79d1ded4e75fa72faedb229fdaaeb))
+
 ## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.0...client-v0.1.1) (2023-09-29)
 
 
