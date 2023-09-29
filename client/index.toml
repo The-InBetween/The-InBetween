@@ -640,6 +640,11 @@ hash = "d44db4986bac613fe7d39f3795b3311b232acd1d14194c8da372b9a2c8ac95ce"
 metafile = true
 
 [[files]]
+file = "mods/iammusicplayer.pw.toml"
+hash = "bcd5cd82bd82204c4ab63193b666106fd15135ad79b6d0a986894bf121229a96"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "9a2f80adb3ee17c60a6ec5e0bb8800aa37345655fcba54cfd2f9da5e768b9887"
 metafile = true
@@ -927,6 +932,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "7dc7ba4a7f8c97672afc2c00aa56406f0e0e5f3f85540fc06c0275a618e5c61d"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "a22a34ac1044eb4d4047c4dabe383556a44dc5e40e6d4cd217d6bd30c42101d2"
 metafile = true
 
 [[files]]
