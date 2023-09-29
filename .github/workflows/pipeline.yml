@@ -149,6 +149,8 @@ jobs:
           loader: ${{ steps.parse.outputs.loader }}
           game-version: ${{ steps.parse.outputs.game-version }}
           upload-curse: ${{ steps.set-mod-vendors.outputs.curseforge }}
+          CURSEFORGE-ID: ${{ secrets.CURSEFORGE_ID }}
+          CURSEFORGE-TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
         if: |
           steps.release-please.outputs.releases_created &&
           (steps.set-mod-vendors.outputs.curseforge)
