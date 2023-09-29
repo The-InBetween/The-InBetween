@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.4...client-v0.1.5) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/ping-wheel:** Removed for now as it wouldn't fit the lore of the server. ([8583183](https://github.com/Conquerix/The-InBetween/commit/858318300a1971366cdfcb38f7a21e91833e889a))
+
 ## [0.1.4](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.3...client-v0.1.4) (2023-09-29)
 
 
