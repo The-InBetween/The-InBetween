@@ -77,10 +77,10 @@ runs:
       - name: Publish to CurseForge
         id: curseforge
         if: inputs.upload-curse == 'true'
-        uses: Kir-Antipov/mc-publish@v3.3
+        uses: Kir-Antipov/mc-publish@v3.2
         with:
-          curseforge-id: ${{ inputs.CURSEFORGE_ID }}
-          curseforge-token: ${{ inputs.CURSEFORGE_TOKEN }}
+          curseforge-id: ${{ inputs.CURSEFORGE-ID }}
+          curseforge-token: ${{ inputs.CURSEFORGE-TOKEN }}
           loaders: ${{ env.loader }}
           game-versions: ${{ env.game-version }}
           changelog-file: CHANGELOG.release.*
