@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.3...client-v0.1.4) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/memory-usage-screen:** Removed be cause not useful and not for all players ([2e33a0a](https://github.com/Conquerix/The-InBetween/commit/2e33a0a8e4afe52ee130296f500fbaf5440f3cce))
+
 ## [0.1.3](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.2...client-v0.1.3) (2023-09-29)
 
 
