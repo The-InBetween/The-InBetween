@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.5...client-v0.1.6) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/exordium:** Removed mod because not really necessary, may add it back later for fine graining performance improvements. ([a1cb92f](https://github.com/Conquerix/The-InBetween/commit/a1cb92f614f94fe4db99289cd06629e578b64fcc))
+
 ## [0.1.5](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.4...client-v0.1.5) (2023-09-29)
 
 
