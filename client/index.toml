@@ -960,11 +960,6 @@ hash = "a7d9c2b72a7d88a854aad2ffcc9be808db556f16c3cec5ab49f730b091627942"
 metafile = true
 
 [[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "4c93be6b53d530ee5d672b242939f06fc8e840b29f6b51ece11878d76c123aff"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7bb7a01388f698292f1ef480f114441ce7b74f17b54c9884857266160d9dbffa"
 metafile = true
