@@ -830,11 +830,6 @@ hash = "52f28c3654a896b0d5c5210abc0a8c870bc554ff9959334003ab5e6e938adaae"
 metafile = true
 
 [[files]]
-file = "mods/memory-usage-screen.pw.toml"
-hash = "7c0cd3fb6fe118a6dd67818a0d131e3260823a55fc85fba9c2f58b76b96797e3"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "16028256de8bb7d44dfe511461f1d904b65769cfe955f02c0a39fb93d21e76b9"
 metafile = true
