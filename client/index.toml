@@ -890,11 +890,6 @@ hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
 metafile = true
 
 [[files]]
-file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "0f54ddd549474fab2774d59b3727bcdd01707ccbcffaf492e2fc48273170c1ba"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
 metafile = true
