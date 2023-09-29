@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.8](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.7...client-v0.1.8) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/no-hostiles-around-campfire:** Removed mod because not needed on the client ([66679b0](https://github.com/Conquerix/The-InBetween/commit/66679b08ad85442573657850608c4cb9300c4c2a))
+
 ## [0.1.7](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.6...client-v0.1.7) (2023-09-29)
 
 
