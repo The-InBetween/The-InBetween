@@ -7,19 +7,10 @@ inputs:
   game-version:
     description: "Current Modpack Game Version"
     required: true
-  upload-modrinth:
-    description: "Should the Modpack Be Uploaded to Modrinth"
-    required: true
   upload-curse:
     description: "Should the Modpack Be Uploaded to CurseForge"
     required: true
 
-  MODRINTH_TOKEN:
-    required: false
-    description: "Token used to uploading modpack to Modrinth"
-  MODRINTH_ID:
-    required: false
-    description: "ID used to uploading modpack to Modrinth"
   CURSEFORGE-TOKEN:
     required: false
     description: "Token used to uploading modpack to Curseforge"
@@ -81,26 +72,6 @@ runs:
         run: |
           echo "::notice ::⚙ Assets from latest release ${{ steps.latest-release.outputs.tag_name }} downloaded successfully!"
           echo "::notice ::⚙ Latest release ${{ steps.latest-release.outputs.tag_name }} description piped into a file successfully!"
-        shell: bash
-        
-      - name: Publish to Modrinth
-        id: modrinth
-        if: inputs.upload-modrinth == 'true'
-        uses: Kir-Antipov/mc-publish@v3.2
-        with:
-          modrinth-id: ${{ inputs.MODRINTH_ID }}
-          modrinth-token: ${{ inputs.MODRINTH_TOKEN }}
-          loaders: ${{ env.loader }}
-          game-versions: ${{ env.game-version }}
-          changelog-file: CHANGELOG.release.*
-          files: "*.mrpack"
-          version: ${{ steps.tag.outputs.tag }}
-          version-type: ${{ steps.release-type.outputs.release-type }}
-
-      - name: Print Modrinth upload status
-        if: steps.modrinth.outcome == 'success'
-        run: |
-          echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to Modrinth with ${{ inputs.MODRINTH_ID }}"
         shell: bash
 
       - name: Publish to CurseForge
