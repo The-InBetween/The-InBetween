@@ -1,6 +1,6 @@
 name = "The InBetween"
 author = "Conquerix"
-version = "client-v0.1.8"
+version = "client-v0.1.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
