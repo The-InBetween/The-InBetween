@@ -79,8 +79,8 @@ runs:
         if: inputs.upload-curse == 'true'
         uses: Kir-Antipov/mc-publish@v3.2
         with:
-          curseforge-id: ${{ inputs.CURSEFORGE_ID }}
-          curseforge-token: ${{ inputs.CURSEFORGE_TOKEN }}
+          curseforge-id: ${{ secrets.CURSEFORGE_ID }}
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           loaders: ${{ env.loader }}
           game-versions: ${{ env.game-version }}
           changelog-file: CHANGELOG.release.*
