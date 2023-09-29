@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.10](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.9...client-v0.1.10) (2023-09-29)
+
+
+### ☀ Modpack Changes
+
+* **client/exordium:** Just testing some CI/CD in github. ([0609608](https://github.com/Conquerix/The-InBetween/commit/0609608453187a9e8d9c3a839916749bd9f115ac))
+
 ## [0.1.9](https://github.com/Conquerix/The-InBetween/compare/client-v0.1.8...client-v0.1.9) (2023-09-29)
 
 
