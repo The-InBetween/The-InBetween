@@ -1,4 +1,4 @@
-# FQSMP-V2 [!TEMPORARY NAME]
+# The InBetween
 
 Pack in development, nothing to see for now.
 
