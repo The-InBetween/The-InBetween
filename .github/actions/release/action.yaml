@@ -91,5 +91,5 @@ runs:
       - name: Print Curseforge upload status
         if: steps.curseforge.outcome == 'success'
         run: |
-          echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to Curseforge with ${{ inputs.CURSEFORGE_ID }}"
+          echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to Curseforge with ${{ secrets.CURSEFORGE_ID }}"
         shell: bash
