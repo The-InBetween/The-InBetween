@@ -5,10 +5,6 @@ inputs:
   release-tag:
     description: 'The release tag to bump the modpack to'
     required: true
-  modpack:
-    description: 'Path to the modpack directory'
-    required: false
-    default: '.'
   pack-file:
     description: 'Path to the pack config file'
     required: false
@@ -22,11 +18,13 @@ runs:
       uses: actions/checkout@v3
 
     - name: Set the version
-      run: sed -i 's/version = "[^"]*"/version = "${{ inputs.release-tag }}"/' ${{ inputs.modpack }}/${{ inputs.pack-file }}
+      run: |
+        sed -i 's/version = "[^"]*"/version = "${{ inputs.release-tag }}"/' client/${{ inputs.pack-file }}
+        sed -i 's/version = "[^"]*"/version = "${{ inputs.release-tag }}"/' server/${{ inputs.pack-file }}
       shell: bash
 
     - name: Push the Updated Version
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         push_options: --force
-        commit_message: "chore(${{ inputs.modpack }}): bump version to ${{ inputs.release-tag }}"
+        commit_message: "chore: bump version to ${{ inputs.release-tag }}"

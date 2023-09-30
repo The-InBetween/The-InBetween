@@ -12,66 +12,15 @@ env:
 
 jobs:
 
-  parse-current-modpacks:
-    name: Parse current modpacks to a list
-
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-
-
-    outputs:
-      modpack_folders: ${{ steps.list_modpacks.outputs.modpack_folders }}
-    
-    steps:
-
-      - name: Check Out Git Repository
-        uses: actions/checkout@v4
-
-
-      - name: List Modpacks
-        id: list_modpacks
-        run: |
-          modpackFolders=()
-          for folder in *; do
-            if [ -d "$folder" ]; then
-              if [ -e "$folder/pack.toml" ]; then
-                modpackFolders+=("$folder")
-              fi
-            fi
-          done
-          
-          echo "modpack_folders=$(jq --compact-output --null-input '$ARGS.positional' --args -- "${modpackFolders[@]}")" >> "$GITHUB_OUTPUT"
-
-      - name: Current detected modpacks
-        run: |
-          echo "::notice ::⚙ Current detected modpacks: ${{ steps.list_modpacks.outputs.modpack_folders }}"
-
   release-please:
-
-    needs:
-      - parse-current-modpacks
-  
-    if: ${{ (needs.parse-current-modpacks.outputs.modpack_folders) != '[]' }}
-
-    strategy:
-      fail-fast: false
-      matrix:
-        modpack: ${{ fromJson(needs.parse-current-modpacks.outputs.modpack_folders) }}
 
     name: Handle Releases
 
     runs-on: ubuntu-latest
 
-    defaults:
-      run:
-        working-directory: ${{ matrix.modpack }}
-
     permissions:
       contents: write
       pull-requests: write
-
 
     steps:      
 
@@ -81,10 +30,8 @@ jobs:
         id: release-please
         uses: google-github-actions/release-please-action@v3
         with:
-          monorepo-tags: true
-          path: ${{ matrix.modpack }}
           release-type: simple
-          package-name: ${{ matrix.modpack }}
+          package-name: The-InBetween
           prerelease: true
           changelog-types: > 
             [{"type":"feat","section":"★ Features","hidden":false},
@@ -98,59 +45,28 @@ jobs:
         with:
           fetch-depth: 0
 
-
-      # --- Bump pack.toml version
-      # Get Latest tag
-      # TODO: Change to release please tag
-      - name: Get Latest tag
-        id: tag
-        uses: WyriHaximus/github-action-get-previous-tag@v1
-        if: ${{ steps.release-please.outputs.releases_created }}
+      # #### Following executed IF new release is triggered.
 
       - name: Bump version
         uses: ./.github/actions/bump-pack
         with:
-          release-tag: ${{ steps.tag.outputs.tag }}
-          modpack: ${{ matrix.modpack }}
+          release-tag: ${{ steps.release-please.outputs.tag_name }}
         if: ${{ steps.release-please.outputs.releases_created }}
-
-
-      # --- Handle the configs
-
-      - name: Parse pack file
-        id: parse
-        uses: ./.github/actions/parse
-        with:
-          modpack: ${{ matrix.modpack }}
-        if: ${{ steps.release-please.outputs.releases_created }}
-
-      - name: Set mod vendors
-        id: set-mod-vendors
-        run: |
-          [[ ! -z "${{ secrets.CURSEFORGE_TOKEN }}" && ! -z "${{ secrets.CURSEFORGE_ID }}" ]] && echo "curseforge=true" >> $GITHUB_OUTPUT || echo "curseforge=false" >> $GITHUB_OUTPUT
-        shell: bash
-        if: ${{ steps.release-please.outputs.releases_created }}
-
 
       # --- Build an release
 
       - name: Build modpack
         uses: ./.github/actions/build
         with:
-          modpack: ${{ matrix.modpack }}
-          release-tag: ${{ steps.tag.outputs.tag }}
-          build-curse: ${{ env.default-release-curseforge }}
+          release-tag: ${{ steps.release-please.outputs.tag_name }}
         if: ${{ steps.release-please.outputs.releases_created }}
 
       - name: Release modpack to vendors
         uses: ./.github/actions/release
         with:
-          modpack: ${{ matrix.modpack }}
-          loader: ${{ steps.parse.outputs.loader }}
-          game-version: ${{ steps.parse.outputs.game-version }}
-          upload-curse: ${{ steps.set-mod-vendors.outputs.curseforge }}
+          loader: "fabric"
+          game-version: "1.19.2"
+          upload-curse: true
           CURSEFORGE-ID: ${{ secrets.CURSEFORGE_ID }}
           CURSEFORGE-TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
-        if: |
-          steps.release-please.outputs.releases_created &&
-          (steps.set-mod-vendors.outputs.curseforge)
+        if: ${{ steps.release-please.outputs.releases_created }}
