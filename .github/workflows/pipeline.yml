@@ -128,7 +128,6 @@ jobs:
         id: set-mod-vendors
         run: |
           [[ ! -z "${{ secrets.CURSEFORGE_TOKEN }}" && ! -z "${{ secrets.CURSEFORGE_ID }}" ]] && echo "curseforge=true" >> $GITHUB_OUTPUT || echo "curseforge=false" >> $GITHUB_OUTPUT
-          [[ ! -z "${{ secrets.GITHUB_TOKEN }}" ]] && echo "github=true" >> $GITHUB_OUTPUT || echo "github=false" >> $GITHUB_OUTPUT
         shell: bash
         if: ${{ steps.release-please.outputs.releases_created }}
 
@@ -150,10 +149,8 @@ jobs:
           loader: ${{ steps.parse.outputs.loader }}
           game-version: ${{ steps.parse.outputs.game-version }}
           upload-curse: ${{ steps.set-mod-vendors.outputs.curseforge }}
-          upload-github: ${{ steps.set-mod-vendors.outputs.github }}
           CURSEFORGE-ID: ${{ secrets.CURSEFORGE_ID }}
           CURSEFORGE-TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
-          GITHUB-TOKEN: ${{ secrets.GITHUB_TOKEN }}
         if: |
           steps.release-please.outputs.releases_created &&
-          (steps.set-mod-vendors.outputs.curseforge || steps.set-mod-vendors.outputs.github)
+          (steps.set-mod-vendors.outputs.curseforge)
