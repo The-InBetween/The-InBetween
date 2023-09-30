@@ -1,0 +1,13 @@
+name = "CTOV - Paladins & Priests compat"
+filename = "ctov-paladins-add-on-v1-0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8ffe6d00ca9eff3eae53ce907bb2dea204af252"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4620628
+project-id = 883457

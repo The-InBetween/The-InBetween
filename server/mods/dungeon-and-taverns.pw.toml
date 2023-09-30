@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns"
+filename = "dungeons-and-taverns-2.0.2 fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "159d79cdb213be2cd71bfbac08658aa4dd900214"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4506849
+project-id = 853794

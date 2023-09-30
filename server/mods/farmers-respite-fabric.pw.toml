@@ -1,0 +1,13 @@
+name = "Farmer's Respite (Fabric)"
+filename = "Farmersrespite-Fabric-2.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f5706402179d26cc1cb62ca9ad16eb24f7a1420"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4658852
+project-id = 811003

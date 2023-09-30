@@ -1,0 +1,13 @@
+name = "Tectonic"
+filename = "tectonic-mod-mc1.19.2-v2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f223260198dc27e7d363b3ace5dc070291958fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4675602
+project-id = 686836

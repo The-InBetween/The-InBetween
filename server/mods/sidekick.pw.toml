@@ -1,0 +1,13 @@
+name = "Sidekick"
+filename = "sidekick-fabric-2.0.5+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2af4f610eec678e4465b4be9aaf108d31421558d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4748864
+project-id = 430573

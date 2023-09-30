@@ -1,0 +1,13 @@
+name = "DashLoader"
+filename = "dashloader-4.1.3+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e7a6748dcffaaa4e118dd61e43390de960336f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3968154
+project-id = 472772

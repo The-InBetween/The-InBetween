@@ -1,0 +1,13 @@
+name = "Ender Zoology [Forge & Fabric]"
+filename = "EnderZoology-v4.0.1-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c3cf7f0ca8e1540e58ce8bdb8cf3b19f25fe41e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4527882
+project-id = 857968

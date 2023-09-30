@@ -1,0 +1,13 @@
+name = "Minekea (Fabric)"
+filename = "minekea-fabric-1.19.1-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9abd6ab9120a905adac10b0659e853ed4a1edbb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4124620
+project-id = 594052

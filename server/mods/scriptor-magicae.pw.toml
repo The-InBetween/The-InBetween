@@ -1,0 +1,13 @@
+name = "Scriptor Magicae"
+filename = "scriptor-0.4.5-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a455ba39ef05bb4fc09ce3203ca00c39dda3c891"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4549560
+project-id = 817436

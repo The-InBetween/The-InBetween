@@ -1,0 +1,13 @@
+name = "Fabric Enchantments"
+filename = "fabric-enchantments-0.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08dc59286d9d5ef3120d51ee0a3cc733e058f255"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4119756
+project-id = 498465

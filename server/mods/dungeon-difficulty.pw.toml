@@ -1,0 +1,13 @@
+name = "Dungeon Difficulty [Fabric]"
+filename = "dungeon_difficulty-2.0.5+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c59232cf624d6095c5d639f6d65b5eaaa784ed44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4676426
+project-id = 645559

@@ -1,0 +1,13 @@
+name = "Additional Structures (Fabric/Quilt)"
+filename = "AdditionalStructures-1.19.x-(v.4.1.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac17c53d470f68a9acbe7d43bd246e2c31f6e1fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4182597
+project-id = 585782

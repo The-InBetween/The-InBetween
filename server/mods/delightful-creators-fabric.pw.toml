@@ -1,0 +1,13 @@
+name = "Delightful Creators [Fabric] (Create Addon)"
+filename = "delightful-creators-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eaed962f7191e6138e0fe5bb91245fc00d31b587"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4698395
+project-id = 873936

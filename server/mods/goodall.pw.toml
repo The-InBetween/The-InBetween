@@ -1,0 +1,13 @@
+name = "Goodall"
+filename = "goodall-1.2.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "583a241f3ee8be0bf3d1fe1e34c8797055e5a290"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4345237
+project-id = 613215

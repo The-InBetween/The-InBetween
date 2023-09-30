@@ -1,0 +1,13 @@
+name = "Connected Glass"
+filename = "connectedglass-1.1.7-fabric-mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "878e0cce4dae6ad485f9e751099a25ba175757ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4629033
+project-id = 383129

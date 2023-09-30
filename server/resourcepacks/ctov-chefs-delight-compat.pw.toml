@@ -1,0 +1,13 @@
+name = "CTOV - Chef's delight compatibility pack"
+filename = "ctov-chefs-delight-add-on-v1-0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b25a027891ebede073f59f4a0fe5b9b37f001910"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4422619
+project-id = 834282

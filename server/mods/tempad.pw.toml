@@ -1,0 +1,13 @@
+name = "Tempad"
+filename = "tempad-fabric-1.19.2-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9a87fe660093da4af76b0b100da682fd4f762b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4586187
+project-id = 514923

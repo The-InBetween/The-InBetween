@@ -1,0 +1,13 @@
+name = "The InBetween"
+author = "Conquerix"
+version = "client-v0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "891b7c8c804d0bf1011de2b6d7421685556060de59a1a8278a590340d5aa4f76"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"

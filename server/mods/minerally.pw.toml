@@ -1,0 +1,13 @@
+name = "Minerally"
+filename = "minerally-1.19.2-0.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26b3ed90d151d547d8d31b3951cf8d6eca2d5807"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4656514
+project-id = 887708

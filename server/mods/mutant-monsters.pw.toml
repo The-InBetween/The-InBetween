@@ -1,0 +1,13 @@
+name = "Mutant Monsters [Forge & Fabric]"
+filename = "MutantMonsters-v4.0.6-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01e8173205995687ebe402838b31038c6e2ec24b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4569848
+project-id = 852665
