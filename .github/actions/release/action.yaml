@@ -10,9 +10,6 @@ inputs:
   upload-curse:
     description: "Should the Modpack Be Uploaded to CurseForge"
     required: true
-  upload-github:
-    description: "Should the Modpack Be Uploaded to Github Releases"
-    required: true
 
   CURSEFORGE-TOKEN:
     required: true
@@ -20,9 +17,6 @@ inputs:
   CURSEFORGE-ID:
     required: true
     description: "ID used to uploading modpack to Curseforge"
-  GITHUB-TOKEN:
-    required: true
-    decription: "ID used to uploading modpack to Github releases"
 
   modpack:
     description: "Modpack directory"
@@ -87,7 +81,6 @@ runs:
         with:
           curseforge-id: ${{ inputs.CURSEFORGE-ID }}
           curseforge-token: ${{ inputs.CURSEFORGE-TOKEN }}
-          github-token: ${{ inputs.GITHUB-TOKEN }}
           loaders: ${{ env.loader }}
           game-versions: ${{ env.game-version }}
           changelog-file: CHANGELOG.release.*
