@@ -23,7 +23,6 @@ runs:
         version: "linux"
 
     - name: Build CurseForge Modpack
-      if: inputs.build-curse == 'true'
       run: |
         cd client
         packwiz curseforge export
