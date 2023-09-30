@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-09-30)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** removed exordium, still testing some CI/CD things ([9c372bc](https://github.com/Conquerix/The-InBetween/commit/9c372bc7b839e85c7efd1801162f48b3f7cc5ff3))
+
 ## 0.1.0 (2023-09-30)
 
 
