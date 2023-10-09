@@ -34,7 +34,7 @@ jobs:
         run: echo "branch=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
 
       - name: Set the New Version
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_options: '--allow-empty'
           skip_dirty_check: true
