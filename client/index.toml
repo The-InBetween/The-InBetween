@@ -490,6 +490,11 @@ hash = "903cc1fc7354d3c52be8f2b7899721aa53beef8e2fb5457a58f16a9c62d06a45"
 metafile = true
 
 [[files]]
+file = "mods/expert-armor.pw.toml"
+hash = "d049cd6cb82871025002e63be1525157e5ed0da16d54c85ca893dd0cda1736f1"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "c180900bb0adea2896704e3931bab92f2c7dd8c68b5cd4843578bae9ff149db0"
 metafile = true

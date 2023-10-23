@@ -1,12 +1,12 @@
 name = "The InBetween"
 author = "Conquerix"
-version = "v0.2.0"
+version = "v0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a273ab9a2c6118444ee5ce8cdd14e1558abceb49049c74b3a3ec0087d4a75228"
+hash = "091f6b68878439159bf4fccdc72cc652c10912940e0cb39f6dc06a954ba15f6f"
 
 [versions]
 fabric = "0.14.21"
