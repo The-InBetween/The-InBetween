@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/v0.1.1...v0.1.2) (2023-10-23)
+
+
+### ☀ Modpack Changes
+
+* **client:** Changed sodium version ([6771c66](https://github.com/Conquerix/The-InBetween/commit/6771c66db16e4e79ce58a5bab73bf53dbe1ba65f))
+* **client:** Updated back sodium because of compatibility issues. ([c8d2404](https://github.com/Conquerix/The-InBetween/commit/c8d2404b27e9b13b2efa4254d09944f4df15ac59))
+
 ## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-10-23)
 
 
