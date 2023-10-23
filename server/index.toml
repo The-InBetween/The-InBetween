@@ -560,11 +560,6 @@ hash = "d2fbc9478ed763c8c0e746dc26b33cad452eb10214660aa0deaa63552cfbd3d6"
 metafile = true
 
 [[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "14478fdd98df74e280c94b27598dc8cecbdf3fd8f4c063232b6b411a30f30cca"
-metafile = true
-
-[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "71c069a69a793adc219234e744367a6eb01f98b20cc025d2aa1915a90efb852f"
 metafile = true
@@ -677,11 +672,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
@@ -1125,11 +1115,6 @@ hash = "041586c4b0119445ffadaf3a16c6cd4092f91a060b160ce6cbc16d560a65a5c8"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "06a413ea02911a2e84bf268cdb87cf34e36f696d3ffe15349e65cf9d6550237d"
 metafile = true
@@ -1372,11 +1357,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "b2b5c11320601e1bccb196404515ad8f6b35ccb6db508db785806d483b71085b"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "3543c9a638c6bed71990a51f9e894abe9d1a3713b2a885f13111ba8603e55adf"
 metafile = true
 
 [[files]]
