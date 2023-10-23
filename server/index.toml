@@ -860,11 +860,6 @@ hash = "ba78d37e2f5c3ce9ee2caeb4b3c9622be1850068fb3591ae0408cfa95d71c685"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "5c90923f6dea8b6f7ecd190f82726d844ad4a738d68d6b048b38c9b939d70ae9"
-metafile = true
-
-[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "9ae575310eb224667e7846a7a29a6e171f343b9986b12f95fb37fb1f8a351078"
 metafile = true
