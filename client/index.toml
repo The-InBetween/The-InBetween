@@ -195,11 +195,6 @@ hash = "10f7256af235c5b3b9f0d93c26c7ff38dcb0a4ca9e933da3dda9c096841b8c70"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "f68284763743781cf3b7285cfd071988952be9645aae3a9e7115af8b5cc64e4b"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components.pw.toml"
 hash = "731ca7e4b551386efbe40e01ed518778d62db30c0ca8cceab8bebf7f6dff326b"
 metafile = true
