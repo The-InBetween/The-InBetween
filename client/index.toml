@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-box-trot.pw.toml"
-hash = "d4b75625df0992b4f99a2de3b7a6503b9a9ee303cca6eaa7fc00ca3962a0199e"
+hash = "4b117b814ef5efe784e6a906d788e93124ae284147540af90f4b6af5e506c0e3"
 metafile = true
 
 [[files]]
@@ -1311,7 +1311,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "eb49dcbbb0cf351278fc6068c9a7450f0feb755ff876569295b418f0c9a72e12"
+hash = "73f13f0d83d1dbc6ff70dc2aed6eb7cd44799a011fe17ae419bd939ff074a7fc"
 metafile = true
 
 [[files]]
