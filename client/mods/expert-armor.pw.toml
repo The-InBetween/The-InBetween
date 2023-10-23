@@ -1,0 +1,13 @@
+name = "Expert Armor [Fabric | Forge]"
+filename = "expert_armor-2.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5674e978b20d56f18d4328533637b73aa7b92303"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4806450
+project-id = 561524
