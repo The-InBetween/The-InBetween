@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Conquerix/The-InBetween/compare/v0.1.2...v0.2.0) (2023-10-23)
+
+
+### ★ Features
+
+* testing CI/CD ([6888268](https://github.com/Conquerix/The-InBetween/commit/68882689660c809e396c7cfe318ba96d0dc15487))
+
 ## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/v0.1.1...v0.1.2) (2023-10-23)
 
 
