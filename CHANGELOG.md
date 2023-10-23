@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/v0.1.1...v0.1.2) (2023-10-23)
+
+
+### ☀ Modpack Changes
+
+* **client:** removed C2ME as it quite useless for clients ([3736c3b](https://github.com/Conquerix/The-InBetween/commit/3736c3bcc2a77589275842a5b07dd00bd8b68176))
+
 ## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-10-23)
 
 
