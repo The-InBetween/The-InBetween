@@ -940,11 +940,6 @@ hash = "bbe3094d52cb1606fa16840d399b07ca7db35536b343ac90ef025702e661727d"
 metafile = true
 
 [[files]]
-file = "mods/pick-up-notifier.pw.toml"
-hash = "a7d9c2b72a7d88a854aad2ffcc9be808db556f16c3cec5ab49f730b091627942"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7bb7a01388f698292f1ef480f114441ce7b74f17b54c9884857266160d9dbffa"
 metafile = true
