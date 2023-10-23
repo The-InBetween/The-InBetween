@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-10-23)
+
+
+### ☀ Modpack Changes
+
+* **client:** Added Iris and Sodium, for performance. ([41eec87](https://github.com/Conquerix/The-InBetween/commit/41eec8712e931d90aaa30d7fc2b2a690a16b3fa8))
+
 ## [0.1.0](https://github.com/Conquerix/The-InBetween/compare/v0.2.0...v0.1.0) (2023-10-23)
 
 
