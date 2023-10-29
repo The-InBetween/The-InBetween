@@ -8,12 +8,12 @@ inputs:
     description: "Current Modpack Game Version"
     required: true
 
-  CURSEFORGE-TOKEN:
+  MODRINTH-TOKEN:
     required: true
-    description: "Token used to uploading modpack to Curseforge"
-  CURSEFORGE-ID:
+    description: "Token used to uploading modpack to Modrinth"
+  MODRINTH-ID:
     required: true
-    description: "ID used to uploading modpack to Curseforge"
+    description: "ID used to uploading modpack to Modrinth"
 
 
 runs:
@@ -66,12 +66,12 @@ runs:
           echo "::notice ::⚙ Latest release ${{ steps.latest-release.outputs.tag_name }} description piped into a file successfully!"
         shell: bash
 
-      - name: Publish to CurseForge
-        id: curseforge
+      - name: Publish to Modrinth
+        id: modrinth
         uses: Kir-Antipov/mc-publish@v3.2
         with:
-          curseforge-id: ${{ inputs.CURSEFORGE-ID }}
-          curseforge-token: ${{ inputs.CURSEFORGE-TOKEN }}
+          modrinth-id: ${{ inputs.MODRINTH-ID }}
+          modrinth-token: ${{ inputs.MODRINTH-TOKEN }}
           loaders: ${{ inputs.loader }}
           game-versions: ${{ inputs.game-version }}
           changelog-file: CHANGELOG.release.*
@@ -79,8 +79,8 @@ runs:
           version: ${{ steps.tag.outputs.tag }}
           version-type: ${{ steps.release-type.outputs.release-type }}
 
-      - name: Print Curseforge upload status
-        if: steps.curseforge.outcome == 'success'
+      - name: Print Modrinth upload status
+        if: steps.modrinth.outcome == 'success'
         run: |
-          echo "::notice ::☀ Modpack successfully uploaded to Curseforge!"
+          echo "::notice ::☀ Modpack successfully uploaded to Modrinth!"
         shell: bash
