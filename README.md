@@ -10,7 +10,7 @@ If you encounter any issues or need assistance, consult the [Issues](https://git
 
 ### License
 
-This project is licensed under the [CC0 1.0 Universal License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ### Acknowledgments
 
