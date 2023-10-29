@@ -1,0 +1,13 @@
+name = "CTOV - Beautify Compat"
+filename = "ctov-beautify-compat-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iunZDj0l/versions/elBmQR7P/ctov-beautify-compat-2.0.jar"
+hash-format = "sha1"
+hash = "b8201794c97213644177b3eaa2cc4a4275c5d50c"
+
+[update]
+[update.modrinth]
+mod-id = "iunZDj0l"
+version = "elBmQR7P"

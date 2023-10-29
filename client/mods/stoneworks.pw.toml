@@ -1,13 +1,13 @@
-name = "Stoneworks [Forge & Fabric]"
-filename = "Stoneworks-v4.0.1-1.19.2-Fabric.jar"
+name = "Stoneworks"
+filename = "Stoneworks-v8.0.0-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/t4FwBQrZ/Stoneworks-v8.0.0-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "6d3086aba9c9c77c1726262a9df450646274088b"
-mode = "metadata:curseforge"
+hash = "aa3cf672107f9707425ee9f80f15fbaeaf493f94"
 
 [update]
-[update.curseforge]
-file-id = 4500773
-project-id = 852663
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "t4FwBQrZ"

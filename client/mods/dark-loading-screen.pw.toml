@@ -1,13 +1,13 @@
 name = "Dark Loading Screen"
-filename = "dark-loading-screen-1.6.12.jar"
-side = "both"
+filename = "dark-loading-screen-1.6.14.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/h3XWIuzM/versions/HLjyJHzA/dark-loading-screen-1.6.14.jar"
 hash-format = "sha1"
-hash = "4e1ab6a2e3ec77bd95a342629de03e3467e8d856"
-mode = "metadata:curseforge"
+hash = "c6ce1e2c34fe4a412183431ea6b323e5e6eaf8f0"
 
 [update]
-[update.curseforge]
-file-id = 3845449
-project-id = 365727
+[update.modrinth]
+mod-id = "h3XWIuzM"
+version = "HLjyJHzA"

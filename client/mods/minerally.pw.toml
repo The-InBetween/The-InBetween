@@ -1,13 +1,13 @@
 name = "Minerally"
-filename = "minerally-1.19.2-0.8.2.jar"
+filename = "minerally-1.20.2-1.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/DKG1CVAt/versions/umi4Pbav/minerally-1.20.2-1.0.jar"
 hash-format = "sha1"
-hash = "26b3ed90d151d547d8d31b3951cf8d6eca2d5807"
-mode = "metadata:curseforge"
+hash = "f4f7a8ca29e1b68f6061343df3b513912778c2c8"
 
 [update]
-[update.curseforge]
-file-id = 4656514
-project-id = 887708
+[update.modrinth]
+mod-id = "DKG1CVAt"
+version = "umi4Pbav"

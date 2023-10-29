@@ -1,0 +1,13 @@
+name = "LibreExpFix"
+filename = "LibreExpFix-0.1-ALPHA.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qOQALrK4/versions/aP90jTOh/LibreExpFix-0.1-ALPHA.jar"
+hash-format = "sha1"
+hash = "0d1c76f1bbaa62c7662fc339632d91b36f89c472"
+
+[update]
+[update.modrinth]
+mod-id = "qOQALrK4"
+version = "aP90jTOh"

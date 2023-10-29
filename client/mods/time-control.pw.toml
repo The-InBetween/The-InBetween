@@ -1,0 +1,13 @@
+name = "Time Control"
+filename = "timecontrol-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mksh0eV4/versions/jzqV4EsC/timecontrol-1.20.1-1.4.1.jar"
+hash-format = "sha1"
+hash = "ca105cd137f599d0b9bd2e2620eaa8e8b6b4c1b3"
+
+[update]
+[update.modrinth]
+mod-id = "Mksh0eV4"
+version = "jzqV4EsC"

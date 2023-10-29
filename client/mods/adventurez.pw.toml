@@ -1,13 +1,13 @@
 name = "AdventureZ"
-filename = "adventurez-1.4.18.jar"
+filename = "adventurez-1.4.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/defK2XM3/versions/zrb4qqdJ/adventurez-1.4.19.jar"
 hash-format = "sha1"
-hash = "e7f7513638c632e07717b73a835cd8db67096fa3"
-mode = "metadata:curseforge"
+hash = "aeac6adc51b901a67131e21f6bf81d4319bdb915"
 
 [update]
-[update.curseforge]
-file-id = 4528227
-project-id = 390991
+[update.modrinth]
+mod-id = "defK2XM3"
+version = "zrb4qqdJ"

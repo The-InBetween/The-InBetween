@@ -1,0 +1,13 @@
+name = "InvTweaks Emu for IPN"
+filename = "InvTweaksEmuForIPN-fabric-1.20-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OPgKEuYO/versions/5rHDrjTq/InvTweaksEmuForIPN-fabric-1.20-1.0.7.jar"
+hash-format = "sha1"
+hash = "5ec59c1341b3734967819005943297fa3cedce51"
+
+[update]
+[update.modrinth]
+mod-id = "OPgKEuYO"
+version = "5rHDrjTq"

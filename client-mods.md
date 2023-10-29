@@ -103,7 +103,6 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 	* [Nether](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-fabric)
 	* [End](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-fabric)
 	* [Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
-* [Unstructured SERVER SIDE, IS OK](https://www.curseforge.com/minecraft/mc-mods/unstructured)
 * [Traverse](https://modrinth.com/mod/traverse)
 * [The Corners, compatibility to be tested](https://modrinth.com/mod/the-corners)
 * [Not Just Biomes](https://modrinth.com/mod/not-just-biomes)
@@ -257,7 +256,6 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Dynamic Fps](https://modrinth.com/mod/dynamic-fps)
 * [DashLoader](https://modrinth.com/mod/dashloader)
 * [Better Beds](https://modrinth.com/mod/better-beds)
-* [Enchantment Level Language Patch](https://modrinth.com/mod/enchlevel-langpatch)
 * [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [ForceCloseWorldLoadingScreen](https://modrinth.com/mod/forcecloseworldloadingscreen)
@@ -289,6 +287,5 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 	* [Origins](https://modrinth.com/mod/origins)
 		* [Statures](https://modrinth.com/mod/tinkerers-statures)
 	* [Pehkui](https://modrinth.com/mod/pehkui)
-	* [Lanyard](https://modrinth.com/mod/lanyard)
 * [Better Compatibility Checker](https://modrinth.com/mod/better-compatibility-checker)
 

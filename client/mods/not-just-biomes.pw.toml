@@ -1,13 +1,13 @@
 name = "Not Just Biomes"
-filename = "not-just-biomes-mc1.19.2-1.0.1.jar"
+filename = "not-just-biomes-mc1.20-1.1.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/EIT1cuHa/versions/Q3H9Zkll/not-just-biomes-mc1.20-1.1.0.jar"
 hash-format = "sha1"
-hash = "d136e1c5bdc9ec0dac147994cbde4451bdafb173"
-mode = "metadata:curseforge"
+hash = "4b5461a88eea090d1619037dfdc56f6035675c4a"
 
 [update]
-[update.curseforge]
-file-id = 4626063
-project-id = 834888
+[update.modrinth]
+mod-id = "EIT1cuHa"
+version = "Q3H9Zkll"

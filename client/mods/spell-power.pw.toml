@@ -1,13 +1,13 @@
-name = "Spell Power Attributes [Fabric]"
-filename = "spell_power-fabric-0.9.12+1.19.jar"
+name = "Spell Power Attributes"
+filename = "spell_power-fabric-0.9.18+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/8ooWzSQP/versions/lME8r1AD/spell_power-fabric-0.9.18%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "af1482ebd02f86bd4b6c844b41aec67c54c0c7a3"
-mode = "metadata:curseforge"
+hash = "2104076a1eda198805a35c831075877ed63ddc1d"
 
 [update]
-[update.curseforge]
-file-id = 4543602
-project-id = 771265
+[update.modrinth]
+mod-id = "8ooWzSQP"
+version = "lME8r1AD"

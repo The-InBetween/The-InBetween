@@ -1,0 +1,13 @@
+name = "Create: Estrogen"
+filename = "Estrogen-3.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/h0aqwKbo/Estrogen-3.0.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "c17d2f826a878da0fec986628839f65fe4d7b2fc"
+
+[update]
+[update.modrinth]
+mod-id = "HhIJW8n1"
+version = "h0aqwKbo"

@@ -1,13 +1,13 @@
 name = "Tempad"
-filename = "tempad-fabric-1.19.2-1.4.5.jar"
+filename = "tempad-fabric-1.20.1-2.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/GCXQL4iE/tempad-fabric-1.20.1-2.1.1.jar"
 hash-format = "sha1"
-hash = "c9a87fe660093da4af76b0b100da682fd4f762b1"
-mode = "metadata:curseforge"
+hash = "c5cc8e721a922ff885a92abf8fd493d96240a159"
 
 [update]
-[update.curseforge]
-file-id = 4586187
-project-id = 514923
+[update.modrinth]
+mod-id = "gKNwt7xu"
+version = "GCXQL4iE"

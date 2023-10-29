@@ -1,0 +1,13 @@
+name = "The Backrooms"
+filename = "thebackrooms-BETA-A0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/83vrcdt0/versions/n7Tdufa4/thebackrooms-BETA-A0.1.5.jar"
+hash-format = "sha1"
+hash = "df5a60bfb3de78af1698d5c351fdf474e2254a8a"
+
+[update]
+[update.modrinth]
+mod-id = "83vrcdt0"
+version = "n7Tdufa4"

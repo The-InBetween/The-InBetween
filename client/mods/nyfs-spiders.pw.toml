@@ -1,13 +1,13 @@
 name = "Nyf's Spiders"
-filename = "spiderstpo-fabric-1.19.2-2.0.3.jar"
+filename = "nyfsspiders-fabric-1.20.1-2.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/cmqFoINR/nyfsspiders-fabric-1.20.1-2.1.1.jar"
 hash-format = "sha1"
-hash = "24f7ea062c856b5044fc83126dc538a0c600244b"
-mode = "metadata:curseforge"
+hash = "57cdc24074718f0a1caab73d3936255891ffa3ca"
 
 [update]
-[update.curseforge]
-file-id = 4139313
-project-id = 686058
+[update.modrinth]
+mod-id = "dOGM7ccu"
+version = "cmqFoINR"

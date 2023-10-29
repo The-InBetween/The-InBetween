@@ -1,13 +1,13 @@
 name = "Elytra Physics"
-filename = "ElytraPhysics-1.1.1.jar"
+filename = "elytra_physics-fabric-2.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jfvCMH0K/versions/uiihaj2v/elytra_physics-fabric-2.0.jar"
 hash-format = "sha1"
-hash = "3f59ea6c2acfb20fac028f0cd13e41f818ef5acf"
-mode = "metadata:curseforge"
+hash = "9767402c8a4f3f0ccc2538749815d02f8ec84d40"
 
 [update]
-[update.curseforge]
-file-id = 4008941
-project-id = 650221
+[update.modrinth]
+mod-id = "jfvCMH0K"
+version = "uiihaj2v"

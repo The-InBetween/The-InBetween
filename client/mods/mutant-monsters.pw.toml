@@ -1,13 +1,13 @@
-name = "Mutant Monsters [Forge & Fabric]"
-filename = "MutantMonsters-v4.0.6-1.19.2-Fabric.jar"
+name = "Mutant Monsters"
+filename = "MutantMonsters-v8.0.4-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/derP0ten/versions/oKXlnH0n/MutantMonsters-v8.0.4-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "01e8173205995687ebe402838b31038c6e2ec24b"
-mode = "metadata:curseforge"
+hash = "5c9a520c65664adac3dd3cd21bc1b6dbe20a9b0c"
 
 [update]
-[update.curseforge]
-file-id = 4569848
-project-id = 852665
+[update.modrinth]
+mod-id = "derP0ten"
+version = "oKXlnH0n"

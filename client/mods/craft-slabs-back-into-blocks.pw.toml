@@ -1,13 +1,13 @@
-name = "Craft slabs back into blocks [Fabric/Forge]"
-filename = "slabstoblocks-1.19.2-0.jar"
+name = "Craft slabs back into blocks"
+filename = "slabstoblocks-1.20.1-1-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/8MosnjaC/versions/lZiHQmlZ/slabstoblocks-1.20.1-1-fabric.jar"
 hash-format = "sha1"
-hash = "08ca8d26de9d85c08d09fd62a10964891d7ebf95"
-mode = "metadata:curseforge"
+hash = "431dad6b4a2afd1cb430dc5c88b4eff128ffddc6"
 
 [update]
-[update.curseforge]
-file-id = 4091041
-project-id = 704296
+[update.modrinth]
+mod-id = "8MosnjaC"
+version = "lZiHQmlZ"
