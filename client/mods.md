@@ -4,409 +4,351 @@ Fabric 1.19.2 pack, most mods on curseforge, on modrinth when needed.
 
 ### Core Mods
 
-#### [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+#### [Create](https://modrinth.com/mod/create-fabric)
 
 Main Tech mod.
 
 Addons:
 
-* [Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric)
-* [Deco Casings](https://www.curseforge.com/minecraft/mc-mods/create-decoration-casing)
-* [Enchants](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry-fabric)
-* [Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
-* [Chisel Compat](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create)
+* [Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+* [Chisel Compat](https://modrinth.com/mod/rechiseled-create)
+* [Estrogen, wtf ?](https://modrinth.com/mod/estrogen)
 
-#### [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) [DONE]
+##### Need to look for more addons on modrinth.
+
+#### [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric)
 
 Main food mod.
 
 Addons:
 
-* [Expanded Delight](https://www.curseforge.com/minecraft/mc-mods/expanded-delight)
-* [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight)
-* [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights-fabric)
-* [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric)
-* [Brewin' and Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric)
-* [Coffee Delight](https://www.curseforge.com/minecraft/mc-mods/coffee-delight)
-* [Chef's Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric)
-* [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight-fabric)
-* [Create Compat](https://www.curseforge.com/minecraft/mc-mods/delightful-creators-fabric)
+* [Expanded Delight](https://modrinth.com/mod/expanded-delight)
+* [Chef's Delight](https://modrinth.com/mod/chefs-delight)
+* [Create Compat](https://modrinth.com/mod/delightful-creators-fabric)
+* [Farmer's Knifes](https://modrinth.com/mod/farmers-knives)
+* [Slice and Dice](https://modrinth.com/mod/slice-and-dice)
+* [Festive Delight](https://modrinth.com/mod/festive-delight)
 
-### Interface [DONE]
+##### Need to look for more addons on modrinth.
 
-#### [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
+#### [EMI](https://modrinth.com/mod/emi)
+
+Better than jei/rei.
+
+Addons:
+
+* [EMI Trades](https://modrinth.com/mod/emitrades)
+* [EMI Loot](https://modrinth.com/mod/emi-loot)
+* [EMIffect](https://modrinth.com/mod/emiffect)
+* [EMI Extra mod integrat](https://modrinth.com/mod/extra-mod-integrations)
+
+### Interface
+
+#### [Elytra Slot](https://modrinth.com/mod/elytra-slot)
 
 Adds a slot for the elytra, needs curio.
 
-#### [Totem Slot](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying)
+#### [Totem Slot](https://modrinth.com/mod/charm-of-undying)
 
 Same as above but for totems.
 
-#### [Tool Stats](https://www.curseforge.com/minecraft/mc-mods/tool-stats)
+#### [Tool Stats](https://modrinth.com/mod/tool-stats)
 
 May be useful to see more info on tools.
 
-#### [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric)
+#### [Equipment Compare](https://modrinth.com/mod/equipment-compare)
 
 Compare pieces of armor with currently equiped items.
 
-#### [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric)
+#### [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
 
 Fancier tooltips for rare items.
 
-#### [Item Highlighter](https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric)
+#### [Item Highlighter](https://modrinth.com/mod/item-highlighter)
 
 Highlight items that you just picked up.
 
-#### [Durability Tooltips](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)
+#### [Durability Tooltips](https://modrinth.com/mod/durability-tooltip)
 
 Why not ?
 
-#### [Vanity Slots](https://www.curseforge.com/minecraft/mc-mods/vanityslots)
-
-Cosmetic armor slots.
-
-#### [Shulker box slot](https://www.curseforge.com/minecraft/mc-mods/shulker-box-slot)
-
-Use shulker boxes as backpacks.
-
-#### [Idwtialsimmoedm](https://www.curseforge.com/minecraft/mc-mods/idwtialsimmoedm)
+#### [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm)
 
 Better enchantment descriptions.
 
-#### [3D Skin Layer](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) 
+#### [3D Skin Layer](https://modrinth.com/mod/3dskinlayers)
 
 Because I like it.
 
-#### [Traveler's Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric)
+#### [Traveler's Titles](https://modrinth.com/mod/travelers-titles)
 
 Displays titles as you enter a new biome of dimension.
 
-#### [Effect Tooltips](https://www.curseforge.com/minecraft/mc-mods/effect-tooltips)
+#### [Effect Tooltips](https://modrinth.com/mod/effect-tooltips)
 
 Get more details on current effect by hovering them with your mouse.
 
-#### [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+#### [AppleSkin](https://modrinth.com/mod/appleskin)
 
 To have more food information.
 
-#### [Anakus' Status Bars](https://www.curseforge.com/minecraft/mc-mods/anakus-status-bars)
+#### [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
 
-Adds some beautiful bars, replacing old vanilla ones.
+Self explanatory.
 
-#### [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel)
+#### [Fix Keyboard on linux](https://modrinth.com/mod/fix-keyboard-on-linux)
 
-Show directions to other players.
+Yay ctrl+a on linux :D
 
-#### [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
-
-To show technical informations in a minimal way.
-
-#### [Toast Manager](https://www.curseforge.com/minecraft/mc-mods/toast-manager)
-
-Hide those fucking toasts.
-
-#### [Keyboard Wizard](https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard)
-
-Better Keybinds settings.
-
-#### [Stendhal](https://www.curseforge.com/minecraft/mc-mods/stendhal)
+#### [Stendhal](https://modrinth.com/mod/stendhal)
 
 Way better books and signs editor.
 
-#### [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+#### [BetterF3](https://modrinth.com/mod/betterf3)
 
 Highliy customizable F3 Menu.
 
-#### [PickUp Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier)
+#### [PickUp Notifier](https://modrinth.com/mod/pick-up-notifier)
 
 Tells you what you just picked up.
 
-#### [MouseTweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+#### [MouseTweaks](https://modrinth.com/mod/mouse-tweaks)
 
 Tweak that mouse!
 
-#### [Too Many Keybinds](https://www.curseforge.com/minecraft/mc-mods/too-many-binds)
-
-Yup, too many.
-
-#### [Memory Usage Screen](https://www.curseforge.com/minecraft/mc-mods/memory-usage-screen)
-
-Displays memory usage on the loading screens.
-
-#### [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
+#### [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 
 Implements Optifine's functionality of having several textures for one item according to its nbt data.
 
-#### [Rebind Narrator](https://www.curseforge.com/minecraft/mc-mods/rebind-narrator)
+#### [Rebind Narrator](https://modrinth.com/mod/rebind-narrator)
 
 Narrator, Narrates all. Narrator off.
 
-#### [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)
+#### [Puzzle](https://modrinth.com/mod/puzzle)
 
 Merge mod menus of those implementing parts of optifine.
 
 #### [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
 
-Make a sound when minecraft finishes loading.
+Make a sound when minecraft finishes loading. (CurseForge only, [LICENSE](https://github.com/haykam821/Pling/blob/master/LICENSE))
 
-#### [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue-fabric)
+#### [Mod Menu](https://modrinth.com/mod/modmenu)
 
 Better mod menus.
 
-#### [Armor Poser](https://www.curseforge.com/minecraft/mc-mods/armor-poser)
+#### [Armor Poser](https://modrinth.com/mod/armor-poser)
 
 Adds a gui to edit armor stands.
 
-#### [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs)
+#### [Amecs](https://modrinth.com/mod/amecs)
 
 Better keybinds.
 
-#### [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
+#### [Zoomify](https://modrinth.com/mod/zoomify)
 
 ZOOOOOOooOOooOOOoooOOOOMMM.
 
-#### [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric)
+#### [Polymorph](https://modrinth.com/mod/polymorph)
 
 Solves recipe conflicts.
 
-#### [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality)
+#### [Visuality](https://modrinth.com/mod/visuality)
 
 Adds more particules for immersion.
 
-#### [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
+#### [Controlling](https://modrinth.com/mod/controlling)
 
 Adds a search bar in keybinds.
 
-#### [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+#### [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 
 More player animations, for better immersion.
 
-#### [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
+#### [Visual Workbench](https://modrinth.com/mod/visual-workbench)
 
 So that others can see what you craft.
 
-#### [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
+#### [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 
 For more lively forests.
 
-#### [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
+#### [Ambient Environment](https://modrinth.com/mod/ambient-environment)
 
 Better grass shading for beautiful landscapes.
 
-#### [Ambience Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)
+#### [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 
 Because I like it.
 
-#### [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium)
+#### [Ambient Sounds](https://modrinth.com/mod/ambientsounds)
 
 Ambient sounds and background musics.
 
-#### [Mindful Darkness](https://www.curseforge.com/minecraft/mc-mods/mindful-darkness)
-
-Bring dark mode to minecraft's interface.
-
-#### [Chunks Fade In](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in)
-
-Better chunk loading visual.
-
-#### [Droplight](https://www.curseforge.com/minecraft/mc-mods/droplight)
-
-Highlight dropped items.
-
-#### [ExtraSounds](https://www.curseforge.com/minecraft/mc-mods/extrasounds)
-
-Adds satisfying sounds to the interface.
-
-#### [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
+#### [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
 
 No more red flashbang.
 
-#### [Suggestion Tweaker](https://www.curseforge.com/minecraft/mc-mods/suggestion-tweaker)
+#### [Suggestion Tweaker](https://modrinth.com/mod/suggestion-tweaker)
 
 Better suggestions when typing in the chat.
 
-#### [Transmog](https://www.curseforge.com/minecraft/mc-mods/transmog)
+#### [Transmog](https://modrinth.com/mod/transmog)
 
 Immersive integration of cosmetic armors.
 
-#### [Auditory](https://www.curseforge.com/minecraft/mc-mods/auditory)
+#### [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 
-Better block sounds.
+Great inventory management.
 
-#### [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
+* [Sorting addon](https://modrinth.com/mod/invtweaks-emu-for-ipn)
 
-Immersive map/mini-map system.
-
-#### [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
-
-Display paintings as blocks instead of entities.
-
-#### [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
-
-With a button and keybind.
-
-#### [Adaptive Tooltips](https://www.curseforge.com/minecraft/mc-mods/adaptive-tooltips)
+#### [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
 
 No more tooltips going out of screen.
 
-#### [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition)
+#### [Trash Slot](https://modrinth.com/mod/trashslot)
 
 Because it's useful.
 
-### World Gen / Biomes / Dimensions [DONE]
+### World Gen / Biomes / Dimensions
 
-#### [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
+#### [Galosphere](https://modrinth.com/mod/galosphere)
 
 New cave biomes, mobs and items.
 
-#### [Towns and Towers](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers)
+#### [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
 
-Well, adds towns and towers..
+Adds new villages, integration with lots of mods.
+
+Addons:
+* [Farmer's Delight Compat](https://modrinth.com/datapack/ctov-farmers-delight-compat)
+* [Chef's Delight Compat](https://modrinth.com/datapack/ctov-chefs-delight-compat)
+* [Beautify Compat](https://modrinth.com/datapack/ctov-beautify-compat)
+* [VillagersPlus Compat](https://modrinth.com/datapack/ctov-villagers-plus-compat)
+* [Friends&Foes Compat](https://modrinth.com/datapack/ctov-friends-and-foes-compat)
+* [Gazebos Compat](https://modrinth.com/datapack/ctov-gazebo-compat)
+* [Paladins&Priests Compat](https://modrinth.com/datapack/ctov-paladins-n-priests-compat)
 
 #### [Yung's Mod suite]
 
-* [Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
-* [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric)
-* [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
-* [Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric)
-* [Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric)
-* [Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric)
-* [Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric)
-* [Better Nether Fortresses](https://legacy.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric)
-* [Extras](https://legacy.curseforge.com/minecraft/mc-mods/yungs-extras-fabric)
+* [Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+* [Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+* [Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+* [Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+* [Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+* [Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+* [Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
+* [Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+* [Better End Island](https://modrinth.com/mod/yungs-better-end-island)
+* [Extras](https://modrinth.com/mod/yungs-extras)
 
-#### [Explorify](https://www.curseforge.com/minecraft/mc-mods/explorify)
+#### [Explorify](https://modrinth.com/datapack/explorify)
 
 New dungeons and structures.
 
-#### [Dungeons and Taverns](https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns)
+#### [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
 
 Well, new dungeons and new taverns..
 
-#### [Philip's ruins](https://www.curseforge.com/minecraft/mc-mods/ruins)
+#### [Philip's ruins](https://modrinth.com/mod/philips-ruins)
 
 Adds ruins.
 
-#### [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric)
-
-Adds villages floating in the sky.
-
-#### [Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
+#### [Moog's Voyager Structures](https://modrinth.com/mod/moogs-voyager-structures)
 
 Adds small structures, useful for travellers to use as shelters.
 
-#### [Awesome dungeons mods]
+#### [Moog's End Structures](https://modrinth.com/mod/mes-moogs-end-structures)
+
+Same but in the end.
+
+#### [Awesome dungeons mods] [ON HOLD FOR NOW]
 
 * [Main Mod](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-fabric)
 * [Nether](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-fabric)
 * [End](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-fabric)
 * [Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
 
-#### [Unstructured](https://www.curseforge.com/minecraft/mc-mods/unstructured)
+#### [Unstructured SERVER SIDE, IS OK](https://www.curseforge.com/minecraft/mc-mods/unstructured)
 
 Adds few high quality structures.
 
-#### [Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse)
+#### [Traverse](https://modrinth.com/mod/traverse)
 
 New, better, vanilla like biomes.
 
-#### [The Corners](https://www.curseforge.com/minecraft/mc-mods/the-corners)
+#### [The Corners, compatibility to be tested](https://modrinth.com/mod/the-corners)
 
 Adds dimensions where you don't want to go.
 
-#### [Not Just Biomes](https://www.curseforge.com/minecraft/mc-mods/not-just-biomes)
+#### [Not Just Biomes](https://modrinth.com/mod/not-just-biomes)
 
 Add a few new biomes and improves vanilla ones.
 
-#### [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
+#### [Ecologics, porting to 1.20 soon, hopefully](https://modrinth.com/mod/ecologics)
 
 Improves some vanilla biomes.
 
-#### [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric)
-
-Adds some more vanilla like structures.
-
-#### [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether)
+#### [Better Nether](https://modrinth.com/mod/betternether)
 
 Lots of new things in the nether.
 
-#### [Better End](https://www.curseforge.com/minecraft/mc-mods/betterend)
+#### [Better End](https://modrinth.com/mod/betterend)
 
 Same as above but for the end.
 
-#### [Eden Rign](https://www.curseforge.com/minecraft/mc-mods/eden-ring)
-
-Adds a new sci-fi themed dimension.
-
-#### [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric)
-
-For a more lively world.
-
-#### [Cinderscape](https://www.curseforge.com/minecraft/mc-mods/cinderscapes)
+#### [Cinderscape](https://modrinth.com/mod/cinderscapes)
 
 Terrestria but for the nether.
 
-#### [Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)
+#### [Tectonic](https://modrinth.com/datapack/tectonic)
 
 Lighter than terralith
 
-#### [ChoiceTheorem's Overhauled Village](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village)
-
-Adds new villages, integration with lots of mods.
-
-#### [Beneath the Wetlands](https://www.curseforge.com/minecraft/mc-mods/beneath-the-wetlands)
-
-Overhauls the swamps.
-
-#### [Deeper Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) [NOT YET]
+#### [Deeper Darker](https://modrinth.com/mod/deeperdarker)
 
 Better Ancient cities.
 
-#### [Aylyth](https://www.curseforge.com/minecraft/mc-mods/aylyth) [NOT YET]
+### Ores, Items and Blocks
 
-Small dark dimension.
+#### [Brewery](https://modrinth.com/mod/brewery)
 
-### Ores, Items and Blocks [DONE]
+Brew drinks !
 
-#### [Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)
+#### [Beautify](https://modrinth.com/mod/beautify-refabricated)
+
+So beautiful !
+
+#### [Mythic Metals](https://modrinth.com/mod/mythicmetals)
 
 A lot of tiers above netherite, very cool mod.
-Addon : [Mythic Metals Decorations](https://www.curseforge.com/minecraft/mc-mods/mythicmetals-decorations)
+Addon : [Mythic Metals Decorations](https://modrinth.com/mod/mythicmetals-decorations)
 
-#### [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)
+#### [Artifacts](https://modrinth.com/mod/artifacts)
 
 Funny and useful items.
 
-#### [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+#### [Comforts](https://modrinth.com/mod/comforts)
 
 Sleeping bags
 
-#### [Drink Beer](https://www.curseforge.com/minecraft/mc-mods/drink-beer-unofficial-clockwerk-edition)
-
-Let's have a beer!
-
-#### [Medieval Deco](https://www.curseforge.com/minecraft/mc-mods/medieval-deco)
-
-Adds some medieval decoration blocks.
-
-#### [Just a Baguette](https://www.curseforge.com/minecraft/mc-mods/just-a-baguette-fabric-forge)
+#### [Just a Baguette](https://modrinth.com/mod/just-a-baguette)
 
 Adds a baguette.
 
-#### [Secret Rooms Remastered](https://www.curseforge.com/minecraft/mc-mods/secret-rooms-remastered)
-
-The good ol' Secret rooms mod.
-
-#### [Consistency](https://www.curseforge.com/minecraft/mc-mods/consistency-fabric)
+#### [Consistency+](https://modrinth.com/mod/consistencyplus)
 
 Brings consistency by adding more variants of existing blocks.
 
-#### [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+#### [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 Adds lots of things.
 
-#### [Macaw's Mods]
+#### [Mystical Oak Tree](https://www.modrinth.com/mod/mystical-oak-tree)
+
+Quite the funny tree.
+
+#### [Macaw's Mods, permission to have it as an override]
 
 * [Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 * [Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
@@ -419,207 +361,155 @@ Adds lots of things.
 * [Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
 
 
-#### [Decorative blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+#### [Decorative blocks](https://modrinth.com/mod/decorative-blocks)
 
 Miscellaneous decorative blocks.
 
-#### [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
+#### [Handcrafted](https://modrinth.com/mod/handcrafted)
 
 Lots of small things for a warm home.
 
-#### [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
-
-Adds new lights.
-
-#### [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+#### [Connected Glass](https://modrinth.com/mod/connected-glass)
 
 Adds some new glass.
 
-#### [Twigs](https://www.curseforge.com/minecraft/mc-mods/twigs)
+#### [Twigs](https://modrinth.com/mod/twigs)
 
 Lots of new block variants.
 
-#### [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture)
+#### [Another Furniture](https://modrinth.com/mod/another-furniture)
 
 Some more furnitures.
 
-#### [Paladin's Furnitures](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture)
+#### [Paladin's Furnitures, soon for 1.20](https://modrinth.com/mod/paladins-furniture)
 
 Even more furnitures.
 
-#### [Additional Lanterns](https://www.curseforge.com/minecraft/mc-mods/additional-lanterns)
+#### [Additional Lanterns](https://modrinth.com/mod/additional-lanterns)
 
 Because we like lanterns.
 
-#### [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
-
-Adds new blocks craftable in many different ways.
-
-#### [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+#### [Chimes](https://modrinth.com/mod/windchimes)
 
 Adds chimes that float in the wind.
 
-#### [Stoneworks](https://www.curseforge.com/minecraft/mc-mods/stoneworks)
+#### [Stoneworks](https://modrinth.com/mod/stoneworks)
 
 Adds new stone variants.
 
-#### [Clutter](https://www.curseforge.com/minecraft/mc-mods/clutter)
+#### [Clutter](https://modrinth.com/mod/clutter)
 
 Adds quite a lot of new little things.
 
-#### [Infinity Buttons](https://www.curseforge.com/minecraft/mc-mods/infinity-buttons)
+#### [Infinity Buttons](https://modrinth.com/mod/infinitybuttons)
 
 Even more butttooonnss.
 
-#### [Minekea](https://www.curseforge.com/minecraft/mc-mods/minekea-fabric)
-
-We always need more options.
-
-#### [Arcane Lanterns](https://www.curseforge.com/minecraft/mc-mods/arcane-lanterns)
+#### [Arcane Lanterns](https://modrinth.com/mod/arcane-lanterns)
 
 Adds new lanterns with effects.
 
-#### [Minerally](https://www.curseforge.com/minecraft/mc-mods/minerally)
+#### [Minerally](https://modrinth.com/mod/minerally)
 
 Adds new type of ore for vanilla materials.
 
-#### [Half Doors](https://www.curseforge.com/minecraft/mc-mods/half-doors)
-
-Vertical trapdoors.
-
 ### Mobs [DONE]
 
-#### [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
+#### [Friends&Foes](https://modrinth.com/mod/friends-and-foes)
 
-Adds new supernatural mobs to forests.
+Lots of little mobs we like.
 
-#### [Marium's Souls like weaponry](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry)
+#### [VillagersPlus](https://modrinth.com/mod/villagersplus)
 
-Contrary to its name, mainly adds Bosses, as well as items.
+Better villagers !
 
-#### [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)
+#### [Ender Zoology](https://modrinth.com/mod/ender-zoology)
 
 Adds ender mobs and many others.
 
-#### [Useless creature](https://www.curseforge.com/minecraft/mc-mods/useless-creature)
-
-Adds one mobs, a useless creature. A must have.
-
-#### [Better animals +](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
-
-Adds a lot of new animals.
-
-#### [Lil'Wings](https://www.curseforge.com/minecraft/mc-mods/lil-wings)
-
-Adds lots of butterflies, with special usecases.
-
-#### [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
+#### [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul)
 
 Lots of new creepers.
 
-#### [Goodall](https://www.curseforge.com/minecraft/mc-mods/goodall)
-
-Adds some animals.
-
-#### [Probably Chests](https://www.curseforge.com/minecraft/mc-mods/probably-chests)
-
-Adds chests and some non chests.
-
-#### [Little Ants](https://www.curseforge.com/minecraft/mc-mods/little-ants)
-
-Adds ant colonies.
-
-#### [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
+#### [Naturalist](https://modrinth.com/mod/naturalist)
 
 Adds not only mobs but also modifies terrain generation, etc.
 
-#### [Rotten Creatures](https://www.curseforge.com/minecraft/mc-mods/rotten-creatures)
+#### [Rotten Creatures, 1.20 one day ?](https://modrinth.com/mod/rottencreatures)
 
 Adds some new undeads.
 
-#### [Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders)
+#### [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
 
 Improves vanilla spiders.
 
-#### [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)
+#### [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction)
 
 Adds 4 bosses, needs customization.
 
-#### [Guards](https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric)
-
-Adds guards in villages.
-
-#### [Muntant Monsters](https://www.curseforge.com/minecraft/mc-mods/mutant-monsters)
+#### [Muntant Monsters](https://modrinth.com/mod/mutant-monsters)
 
 Why not ?
 
-#### [The Graveyard](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
+#### [The Graveyard](https://modrinth.com/mod/the-graveyard-fabric)
 
 Graveyard themed mod.
 
-#### [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
+#### [AdventureZ](https://modrinth.com/mod/adventurez)
 
 Adds mobs in the overworld and the nether.
 
-### Gameplay [DONE]
+### Gameplay
 
-#### [Dusk](https://www.curseforge.com/minecraft/mc-mods/dusk) [Not Installed yet, packwiz bug]
+#### [Dusk, server side, is ok](https://www.curseforge.com/minecraft/mc-mods/dusk)
 
 Increase mob cap during night.
 
 #### [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
 
-Don't break grass instead of attacking.
+Don't break grass instead of attacking. [LICENSE](https://github.com/Rongmario/CleanCut/blob/master/LICENSE)
 
-#### [VeinMine Enchant](https://www.curseforge.com/minecraft/mc-mods/vein-mining-fabric)
+#### [VeinMine Enchant](https://modrinth.com/mod/vein-mining)
 
 Better than just having a key.
 
-#### [Glowing Ores](https://www.curseforge.com/minecraft/texture-packs/modded-glowing-ores)
+#### [Glowing Ores TO GO IN A RESOURCE PACK CATEGORY](https://www.curseforge.com/minecraft/texture-packs/modded-glowing-ores)
 
 Has a lot of compatibility with modded ores.
 
-#### [Frostiful](https://www.curseforge.com/minecraft/mc-mods/frostiful)
+#### [Frostiful](https://modrinth.com/mod/frostiful)
 
 Makes winter and frost threatening.
 
-#### [Snow! Real Magic](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic-fabric)
+#### [Snow! Real Magic](https://modrinth.com/mod/snow-real-magic)
 
 Better snow behaviour.
 
-#### [Dungeon Difficulty](https://www.curseforge.com/minecraft/mc-mods/dungeon-difficulty)
+#### [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty)
 
 Increases difficulty depending on biome and dungeon.
 
-#### [Locksmith](https://www.curseforge.com/minecraft/mc-mods/locksmith)
-
-Immersive protection with locks and keys.
-
-#### [Fabric Enchantments](https://www.curseforge.com/minecraft/mc-mods/fabric-enchantments)
+#### [Qu Enchantments](https://modrinth.com/mod/qu-enchantments)
 
 Adds various new enchants.
 
-#### [The Box Trot](https://www.curseforge.com/minecraft/mc-mods/the-box-trot)
+#### [The Box Trot, no 1.20 yet :(](https://modrinth.com/mod/the-box-trot)
 
 Metal Gear stealth style.
 
-#### [Scriptor Magicae](https://www.curseforge.com/minecraft/mc-mods/scriptor-magicae)
+#### [Scriptor Magicae](https://modrinth.com/mod/scriptor-magicae)
 
 Interesting magic system.
 
-#### [Sleep Warp](https://www.curseforge.com/minecraft/mc-mods/sleep-warp)
+#### [Sleep Warp](https://modrinth.com/mod/sleep-warp)
 
 Better sleeping system
 
-#### [From the Fog](https://www.curseforge.com/minecraft/mc-mods/from-the-fog) [SERVER ONLY]
-
-Bring herobrine in a cool way.
-
-#### [Aileron](https://www.curseforge.com/minecraft/mc-mods/aileron)
+#### [Aileron, no 1.20 yet :(](https://modrinth.com/mod/aileron)
 
 Way better elytra mechanics, without making them op.
 
-#### [Right Click Harvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
+#### [Right Click Harvest](https://modrinth.com/mod/rightclickharvest)
 
 Harvest with a right click..
 
@@ -627,186 +517,162 @@ Harvest with a right click..
 
 Best one out there.
 
-
-#### [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
+#### [Pehkui](https://modrinth.com/mod/pehkui)
 
 Resize entities.
 
-Addons : [Not installed yet]
+#### [Yuushya Modelling](https://modrinth.com/mod/yuushya-modelling)
 
-* [Resizer Tools](https://www.curseforge.com/minecraft/mc-mods/pehkui-resizer-tools)
+Move blocks like in the sims!!!
 
-#### [Underwater Enchanting](https://www.curseforge.com/minecraft/mc-mods/underwater-enchanting)
+#### [Underwater Enchanting](https://modrinth.com/mod/underwater-enchanting)
 
 Unlocks full level enchant underwater.
 
-#### [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons)
+#### [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)
 
 Add seasons to the world. 
 
 Addons:
 
-* [Extras](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-extras)
-* [Traverse Compat](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-terraformers-compat)
-* [Terralith Compat](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-terralith-compat)
+* [HUD](https://modrinth.com/mod/seasonhud-fabric)
+* [Traverse Compat](https://modrinth.com/mod/fabric-seasons-terraformers-compat)
+* [Terralith Compat](https://modrinth.com/mod/fabric-seasons-terralith-compat)
+* [Farmer's Delight Compat](https://modrinth.com/mod/fabric-seasons-delight-compat)
 
-#### [Crawl](https://www.curseforge.com/minecraft/mc-mods/crawl)
+#### [Crawl](https://modrinth.com/mod/crawl)
 
 Crawl.
 
-#### [Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/leaf-decay)
+#### [Leaf Decay](https://modrinth.com/mod/accelerated-decay)
 
 Decay, fucking leaves !!
 
-#### [HT'S TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop)
+#### [HT'S TreeChop](https://modrinth.com/mod/treechop)
 
 Better chop trees.
 
-#### [Table Top Craft](https://www.curseforge.com/minecraft/mc-mods/table-top-craft-fabric)
+#### [Table Top Craft, 1.20 soon ?](https://www.curseforge.com/minecraft/mc-mods/table-top-craft-fabric)
 
-Play tableboard games with friends.
+Play tableboard games with friends. [LICENSE](https://github.com/andrew0030/Table-Top-Craft/blob/master/LICENSE.txt)
 
 #### [RPG Series]
 
-* [Wizards](https://www.curseforge.com/minecraft/mc-mods/wizards)
-* [Paladins & Priests](https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests)
-* [Gazebos](https://www.curseforge.com/minecraft/mc-mods/gazebos)
+* [Wizards](https://modrinth.com/mod/wizards)
+* [Paladins & Priests](https://modrinth.com/mod/paladins-and-priests)
+* [Gazebos](https://modrinth.com/mod/gazebos)
 
-#### [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
+#### [Trash Cans](https://modrinth.com/mod/trash-cans)
 
 For a cleaner world.
 
-#### [Brazier](https://www.curseforge.com/minecraft/mc-mods/brazier)
+#### [Brazier](https://modrinth.com/mod/brazier)
 
 Adds a multiblock to block the spawn of the mobs.
 
 #### [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric)
 
-Adds a vanilla+ backpack.
+Adds a vanilla+ backpack. [LICENSE](https://github.com/MrCrayfish/Backpacked/blob/multiloader/1.20.X/LICENSE.txt)
 
 #### [Portable Mobs](https://www.curseforge.com/minecraft/mc-mods/portable-mobs)
 
-Cage traps.
+Cage traps. Permission on curseforge page.
 
-#### [Slabs into Blocks](https://www.curseforge.com/minecraft/mc-mods/craft-slabs-back-into-blocks)
+#### [Slabs into Blocks](https://modrinth.com/mod/craft-slabs-back-into-blocks)
 
 Craft slabs back into blocks.
 
-#### [Portable Jukebox](https://www.curseforge.com/minecraft/mc-mods/portable-jukebox)
+### Miscellanous
 
-Adds a portable jukebox.
+#### [Simple Discord Rich Presence](https://modrinth.com/mod/simple-discord-rpc)
 
-### Miscellanous [DONE]
-
-#### [All Stone to tools](https://www.curseforge.com/minecraft/mc-mods/all-stone-to-tools)
-
-Craft stone tools with all stones.
-
-#### [No Hostiles Around Campfires](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
-
-Interesting for travels.
-
-#### [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
-
-Same as above.
-
-#### [Simple Discord Rich Presence](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence)
-[Need to look to all existing alternatives]
 To show players actually playing the modpack.
 
-#### [AutoTag](https://www.curseforge.com/minecraft/mc-mods/autotag)
+#### [AutoTag](https://modrinth.com/mod/autotag)
 
 Automatically add more category tags to all items.
 
-#### [Music Maker Mod](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod)
+#### [Music Maker Mod](https://modrinth.com/mod/music-maker-mod)
 
 Let's make some music.
 
-#### [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge)
+#### [Jump Over Fences](https://modrinth.com/mod/jump-over-fences)
 
 Jump Over Fences.
 
-#### [Wall-Jump! UNOFFICAL](https://www.curseforge.com/minecraft/mc-mods/wall-jump-unofficial-arch)
+#### [Fast Move](https://modrinth.com/mod/fastmove)
 
 Cling to walls, and jump.
 
-#### [Thorium](https://www.curseforge.com/minecraft/mc-mods/thorium)
+#### [Thorium, no 1.20 yet](https://modrinth.com/mod/thorium)
 
 Fixes a lot of small bugs.
 
-#### [Max Health Fix](https://www.curseforge.com/minecraft/mc-mods/max-health-fix)
+#### [Max Health Fix](https://modrinth.com/mod/max-health-fix)
 
 See all your hearts when you login.
 
-#### [Every Compat : Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)
+#### [Every Compat : Wood Good](https://modrinth.com/mod/every-compat)
 
 Integrates all the woods from all the mods together.
 
-#### [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
+#### [Almost Unified](https://modrinth.com/mod/almost-unified)
+
+Better multimod ore compat.
+
+#### [Item Model Fix](https://modrinth.com/mod/modelfix)
 
 Fixes the little seem in held item models.
 
-#### [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+#### [LibreExpFix](https://modrinth.com/mod/libre-exp-fix)
 
 XP Bar won't show 0 when crossing dimensions.
 
-#### [Elytra Physics](https://www.curseforge.com/minecraft/mc-mods/elytra-physics)
+#### [Elytra Physics](https://modrinth.com/mod/elytra-physics)
 
 Elytra act as a cape when not flying.
 
-#### [Lanterns Belong on Walls](https://www.curseforge.com/minecraft/mc-mods/lanterns-bow)
+#### [Elytra Aeronautics](https://modrinth.com/mod/elytra-aeronautics)
+
+Elytras go faster the higher you are.
+
+#### [Lanterns Belong on Walls](https://modrinth.com/mod/lanterns-bow)
 
 Place lanterns on walls.
 
-#### [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+#### [Carry On](https://modrinth.com/mod/carry-on)
 
 Carry mobs and blocks.
 
-#### [Sync](https://www.curseforge.com/minecraft/mc-mods/sync-fabric) [NOT YET]
-
-To have several bodies.
-
-#### [You're in grave danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger)
+#### [Gravestones](https://modrinth.com/mod/gravestones)
 
 Grave mod, instead of corpses.
 
-#### [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
+#### [Backrooms](https://modrinth.com/mod/backrooms)
+
+Since I can't have the corners.
+
+#### [Tempad](https://modrinth.com/mod/tempad)
 
 Cool teleportation system. Admin only.
 
-### Optimisation [DONE]
+### Optimisation
 
-#### [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
+#### [AntiGhost](https://modrinth.com/mod/antighost)
 
 Prevents ghost blocks.
 
-#### [FarSight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric)
-
-See further than the server's render distance.
-
-#### [StarLight](https://www.curseforge.com/minecraft/mc-mods/starlight)
+#### [StarLight](https://modrinth.com/mod/starlight)
 
 Better Lighting engine.
 
-#### [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+#### [Smooth Chunk Save, server side, is ok](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 
 Reduce lag caused by world saving.
-
-#### [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
-
-Optimize minecraft loading.
-
-#### [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)
-
-Better, safer than smooth boot ?
 
 #### [Sodium](https://modrinth.com/mod/sodium)
 
 THE optimization mod. (Modrinth only, no problem for the pack).
-
-#### [Simply no shading](https://www.curseforge.com/minecraft/mc-mods/simply-no-shading) [Crash]
-
-Mimics a small part of optifine's renderer.
 
 #### [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix)
 
@@ -816,187 +682,176 @@ Spare my ram pls. (modrinth only)
 
 General purpose optimization mod.
 
-#### [Lazy Language Loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)
+#### [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader)
 
 Don't reload your entire game only to change language.
 
-#### [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)
+#### [Krypton](https://modrinth.com/mod/krypton)
 
 Network stack optimization.
 
-#### [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+#### [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 
 Better specialized renderer for specific things.
 
-#### [FX's Rail Optimization](https://www.curseforge.com/minecraft/mc-mods/fxs-rail-optimization)
+#### [FX's Rail Optimization, no 1.20 yet](https://modrinth.com/mod/rail-optimization)
 
 Optimize those rails.
 
-#### [ForgetMeChunk](https://www.curseforge.com/minecraft/mc-mods/forgetmechunk)
-
-Fixes a very specific thing for performance.
-
-#### [FixMySpawnR](https://www.curseforge.com/minecraft/mc-mods/fixmyspawnr)
-
-Make spawners less laggy.
-
-#### [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
+#### [FerriteCore](https://modrinth.com/mod/ferrite-core)
 
 Optimize Minecraft memory utilization.
 
-#### [Fast Load](https://www.curseforge.com/minecraft/mc-mods/fastload)
+#### [Fast Load](https://modrinth.com/mod/fastload)
 
 load the world faster.
 
-#### [FastAnim](https://www.curseforge.com/minecraft/mc-mods/fastanim)
+#### [FastAnim](https://modrinth.com/mod/fastanim)
 
 Optimize Entity Animation Rendering.
 
-#### [Exordium](https://www.curseforge.com/minecraft/mc-mods/exordium)
+#### [FastBack](https://modrinth.com/mod/fastback)
+
+Interesting git backup mod.
+
+#### [Exordium](https://modrinth.com/mod/exordium)
 
 Render GUI at a fixed amount of fps, spare performance for the game itself.
 
-#### [Entity Collision Fps Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix-fabric)
-
-Keep high fps even with lots of entities mashed together.
-
-#### [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+#### [Entity Culling](https://modrinth.com/mod/entityculling)
 
 Cull those entities !
 
-#### [Dynamic Fps](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+#### [Dynamic Fps](https://modrinth.com/mod/dynamic-fps)
 
 Reduce fps when in background.
 
-#### [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader)
+#### [DashLoader](https://modrinth.com/mod/dashloader)
 
 Launch quicc.
 
-#### [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)
-
-Well, cull less leaves..
-
-#### [Cull Clouds](https://www.curseforge.com/minecraft/mc-mods/cullclouds)
-
-Cull those clouds too !
-
-#### [C2ME](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric)
+#### [C2ME](https://modrinth.com/mod/c2me-fabric)
 
 MULTITHREADED CHUNK GENERATIONNN, OOOHHH YEAAAHHHH !!
 
-#### [Better FPS - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)
-
-Circular render distance instead of square, and other tweaks.
-
-#### [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
-
-Blend those biomes !
-
-#### [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)
+#### [Better Beds](https://modrinth.com/mod/better-beds)
 
 Make beds more beautiful and less laggy !
 
-#### [Enchantment Level Language Patch](https://www.curseforge.com/minecraft/mc-mods/enchantment-level-language-patch)
+#### [Enchantment Level Language Patch](https://modrinth.com/mod/enchlevel-langpatch)
 
 Display big enchants correctly.
 
-#### [DEUF Refabricated](https://www.curseforge.com/minecraft/mc-mods/deuf-refabricated)
+#### [DEUF Refabricated, server side, is ok](https://www.curseforge.com/minecraft/mc-mods/deuf-refabricated)
 
 Fixes some UUID duplication bug for the entities.
 
 ### Admin Tools
 
-#### [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)
+#### [Scannable](https://modrinth.com/mod/scannable)
 
 Good to find things, will need to be disabled for survival players.
 
-#### [Biome Spawn Point](https://www.curseforge.com/minecraft/mc-mods/biome-spawn-point)
+#### [Biome Spawn Point](https://modrinth.com/mod/biome-spawn-point)
 
 To choose the starting biome, before world generation.
 
-#### [MultiCount](https://www.curseforge.com/minecraft/mc-mods/multicount)
+#### [Styled nicknames](https://modrinth.com/mod/styled-nicknames)
 
-Have several accounts and switch in game.
-Works well with [this mod](https://www.curseforge.com/minecraft/mc-mods/drogtor),
-and maybe [this one too](https://www.curseforge.com/minecraft/mc-mods/styled-nicknames).
+Nickname mod.
 
-#### [ChunkMap](https://www.curseforge.com/minecraft/mc-mods/chunkmap)
+#### [Styled Player list](https://modrinth.com/mod/styledplayerlist)
 
-View chunk loading and generation.
+Custom player list.
 
-#### [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+#### [Styled Side Bar](https://modrinth.com/mod/styled-sidebars)
+
+Custom side bar.
+
+#### [WorldEdit](https://modrinth.com/plugin/worldedit)
 
 WorldEdit.
 
-#### [Yosbr](https://www.curseforge.com/minecraft/mc-mods/yosbr)
+Addons :
+
+* [WECTOOLS](https://modrinth.com/mod/wectools)
+* [WETS](https://modrinth.com/plugin/wets)
+
+#### [IBE Editor](https://modrinth.com/mod/ibe-editor)
+
+Edit Items/Blocks/Entity nbt data.
+
+#### [Custom world border](https://modrinth.com/mod/world-border)
+
+Better than vanilla.
+
+#### [Yosbr](https://modrinth.com/mod/yosbr)
 
 For better option settings in the modpack file.
 
-#### [Observable](https://www.curseforge.com/minecraft/mc-mods/observable)
+#### [Observable](https://modrinth.com/mod/observable)
 
 View TileEntities TPS consumption in game.
 
-#### [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+#### [KubeJS](https://modrinth.com/mod/kubejs)
 
 Addons:
 
-* [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)
-* [MoreJS](https://www.curseforge.com/minecraft/mc-mods/morejs)
-* [Offline Doc](https://www.curseforge.com/minecraft/mc-mods/kubejs-offline)
+* [LootJS](https://modrinth.com/mod/lootjs)
+* [MoreJS](https://modrinth.com/mod/morejs)
+* [Additions](https://modrinth.com/mod/kubejs-additions)
+* [Offline Doc](https://modrinth.com/mod/kubejs-offline)
+* [Ponder](https://modrinth.com/mod/ponder)
 
-#### [Melius' Vanish](https://www.curseforge.com/minecraft/mc-mods/meliusvanish)
+#### [Vanish](https://modrinth.com/mod/vanish)
 
 Vanish mod.
 
-#### [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap)
+#### [Melius' Commands](https://modrinth.com/mod/melius-commands)
+
+Defines custom commands
+
+#### [BlueMap](https://modrinth.com/plugin/bluemap)
 
 Better than DynMap.
 
-#### [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)
+Addons:
+* [Markers](https://modrinth.com/plugin/bmarker)
+* [Offline Players](https://modrinth.com/mod/bluemap-offline-player-markers-(fabric))
+
+#### [Chunky](https://modrinth.com/plugin/chunky)
 
 Pregenerate those fucking chunks!
- 
-#### [Fast Backups](https://www.curseforge.com/minecraft/mc-mods/fastback)
 
-Git powered backups.
-
-#### [Quest Icons](https://www.curseforge.com/minecraft/mc-mods/quest-icons)
-
-Custom Items, useful for icons etc..
-
-#### [Time Control](https://www.curseforge.com/minecraft/mc-mods/time-control)
+#### [Time Control](https://modrinth.com/mod/time-control)
 
 Customize day/night length.
 
-#### [IBE Editor](https://www.curseforge.com/minecraft/mc-mods/ibe-editor)
+#### [Time Stop Clock](https://modrinth.com/mod/time-stop-clock-mod)
 
-Item, Block and Entity NBT editor.
+Control tick time.
 
-#### [CosmicNPCs](https://www.curseforge.com/minecraft/mc-mods/cosmicnpcs)
+#### [Taterzen NPCs](https://modrinth.com/mod/taterzens)
 
 Make custom NPCs.
 
-#### [Configured](https://www.curseforge.com/minecraft/mc-mods/configured-fabric)
-
-Edit server's configs ingame.
-
-#### [Armor Curve](https://www.curseforge.com/minecraft/mc-mods/armor-curve)
-
-Change how armors behave.
-
 #### [Ientity](https://www.curseforge.com/minecraft/mc-mods/identity)
 
-Morph mod.
+Morph mod. [LICENSE](https://github.com/Draylar/identity/blob/arch-1.20.1/LICENSE)
 
-#### [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+#### [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 
 Get rid of mojang's monitoring.
 
-#### [Impersonate](https://www.curseforge.com/minecraft/mc-mods/impersonate)
+#### [Impersonate](https://modrinth.com/mod/impersonate)
 
 Good for fake characters.
 
-#### [Better Command Block UI](https://www.curseforge.com/minecraft/mc-mods/better-command-block-ui)
+#### [Skinshuffle](https://modrinth.com/mod/skinshuffle)
+
+Ingame skin management.
+
+#### [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
 
 AAHHH YEESSSSS
 
@@ -1004,16 +859,6 @@ AAHHH YEESSSSS
 
 May not be needed if we have better plugins.
 
-#### [Photon](https://www.curseforge.com/minecraft/mc-mods/photon)
-
-Make amazing animations, idk how to use it.
-
-#### [StackDeObfuscator](https://www.curseforge.com/minecraft/mc-mods/stackdeobf)
+#### [StackDeObfuscator](https://modrinth.com/mod/stackdeobf)
 
 Make the console stack trace human readable.
-
-#### [CraftTweaker]()
-
-#### [Building Dimension](https://www.curseforge.com/minecraft/mc-mods/building-dimension)
-
-Dimension to be in creative and plan builds together.
