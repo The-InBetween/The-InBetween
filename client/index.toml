@@ -841,6 +841,11 @@ hash = "a92082b5f3ff068fdde6fa01f8273ecc4fbbce9e5cdc702f125ea841231ec3ed"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "eb9ed14436b79290cec3dfe2a87c0b32d0f369859ceb98834a24ee580c61da88"
+metafile = true
+
+[[files]]
 file = "mods/morejs.pw.toml"
 hash = "d4566c5163bbf88b587808fe1174624b73ece9db0e14cfb2fdaa301f962229d3"
 metafile = true

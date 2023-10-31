@@ -69,6 +69,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 * [Xaero's World map](https://modrinth.com/mod/xaeros-world-map)
 * [Xaero's Mini map](https://modrinth.com/mod/xaeros-minimap)
+* [More Chat History](https://modrinth.com/mod/morechathistory)
 
 ## World Gen / Biomes / Dimensions
 
