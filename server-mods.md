@@ -110,6 +110,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Arcane Lanterns](https://modrinth.com/mod/arcane-lanterns)
 * [Minerally](https://modrinth.com/mod/minerally)
 * [Yuushya Townscape](https://modrinth.com/mod/yuushya-townscape)
+* [Modern Dynamics](https://modrinth.com/mod/modern-dynamics)
 
 ## Mobs
 

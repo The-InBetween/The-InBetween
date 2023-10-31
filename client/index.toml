@@ -96,6 +96,11 @@ hash = "9e77ce91a88d6d603b80fd22eb5215ca59af752d5c6b6aa4efe1fb927a75dd12"
 metafile = true
 
 [[files]]
+file = "mods/backpacked-fabric.pw.toml"
+hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
+metafile = true
+
+[[files]]
 file = "mods/backrooms.pw.toml"
 hash = "1720c8565691d808f8cea8e42820b247b859ed43589baa34d229b1f3c2d2e54b"
 metafile = true
@@ -108,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
-metafile = true
-
-[[files]]
-file = "mods/bclib.pw.toml"
-hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
 metafile = true
 
 [[files]]
@@ -136,18 +136,8 @@ hash = "3b459d321d422b95dd13da104e7b88ec301bdc6e07f22215f4be7adcab13c7d8"
 metafile = true
 
 [[files]]
-file = "mods/betterend.pw.toml"
-hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
 metafile = true
 
 [[files]]
@@ -436,11 +426,6 @@ hash = "3be8e2a0f6a01ef550f2154583b26b27a243e4f2a6697d8a433080ae05ff1e1b"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "a104f2d46696f2f65e4915bfe19732277442f756d13eae74eda25c3a79a76abc"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "f6dba75db42d003785e4f34dcd46951e4a144f0d6a49814d578cc5cd6b98d35a"
 metafile = true
@@ -561,6 +546,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "72cb09c1b9cd9d3e8b837b8c226b40247ea6785a5049bb3a12162501103b8259"
 metafile = true
@@ -613,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a4d47f10df4769734a850e6a2cd7342802f92f5e269b27464c86cfd0b5a2182f"
+metafile = true
+
+[[files]]
+file = "mods/identity.pw.toml"
+hash = "89a2dd47f2d4d5da0964bb7e36f733e152ae277e500acc033d66e7fcc0aaaaeb"
 metafile = true
 
 [[files]]
@@ -731,6 +726,51 @@ hash = "199ebd25a5099e903ee66b4a879d67f43497cc5a050ed25972dd832a05c20302"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "0932c8ad1a859145b09e4814bb1b2d18d872a4c819f659c55b6433548fde0ac7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "f0ce44bdefdd14c608f2be0970d56fadfc948cef86fb68c6b4dd95eb48ce6f34"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "e10664b0746bc479d2659d93cea3363ef8eabb7c3b7011a51b4dd66262329fed"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "a04b07592ea5236f1dbc64a1bd4ea86c0751f44c4f1d760a192135d09939e292"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "31feda4688daae1f0803af73ebf36b9fd07dde2823a4b6704d3e9d828a24dd17"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "05bc4fcf75ffecbc7a50670fe1115ace492462926dbe25efe4d5e0a6b62c5806"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "64105b687ee9ed92099baa4c3fe241c627b3613a5c19d30450f21a3a2204e37f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "e6f7b0d17115a0731101464b5d8f5d92bb16587a219c88c0064c032713ea4744"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "5259c2724dbab161467ff62ecd58515615e41589e079f03190c4a305fd83861a"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -773,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
 metafile = true
 
 [[files]]
@@ -1063,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/statement.pw.toml"
 hash = "bca2f1cf90c4954220e9d533ed9bdfd1ff1ba946fadd416d06b01d19514c528f"
+metafile = true
+
+[[files]]
+file = "mods/stellarity.pw.toml"
+hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
 metafile = true
 
 [[files]]
