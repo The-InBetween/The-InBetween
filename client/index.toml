@@ -966,6 +966,11 @@ hash = "080841a8b0577b06811209e2ea409f3901098a3ad3fecbec43005590cf10df4b"
 metafile = true
 
 [[files]]
+file = "mods/portable-mobs.pw.toml"
+hash = "8e7805cefa10f30b004eed2c73239eee3dd7f374e96a4a09d44f6949317d9d60"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
