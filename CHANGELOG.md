@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-10-31)
+
+
+### ☀ Modpack Changes
+
+* **client:** added MoreChatHistory mod ([c627aa0](https://github.com/Conquerix/The-InBetween/commit/c627aa0cfb5cc811448c5e0ef1f8fec99f54ec88))
+
 ## [0.1.0](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.0) (2023-10-31)
 
 
