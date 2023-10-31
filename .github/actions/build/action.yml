@@ -28,8 +28,8 @@ runs:
         packwiz modrinth export
         mv *.mrpack ../The-InBetween-${{ inputs.release-tag }}.zip
         cd ../server
-        packwiz modrinth export        
-        mv *.mrpack ../The-InBetween-server-${{ inputs.release-tag }}.zip
+        #packwiz modrinth export        
+        #mv *.mrpack ../The-InBetween-server-${{ inputs.release-tag }}.zip
         echo "::notice ::⚙ Both client and server packs have been exported as .zip"
       shell: bash
 
