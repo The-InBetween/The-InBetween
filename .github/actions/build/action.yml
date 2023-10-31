@@ -26,11 +26,11 @@ runs:
       run: |
         cd client
         packwiz modrinth export
-        mv *.mrpack ../The-InBetween-${{ inputs.release-tag }}.zip
+        mv *.mrpack ../The-InBetween-${{ inputs.release-tag }}.mrpack
         cd ../server
         #packwiz modrinth export        
-        #mv *.mrpack ../The-InBetween-server-${{ inputs.release-tag }}.zip
-        echo "::notice ::⚙ Both client and server packs have been exported as .zip"
+        #mv *.mrpack ../The-InBetween-server-${{ inputs.release-tag }}.mrpack
+        echo "::notice ::⚙ Both client and server packs have been exported as .mrpack"
       shell: bash
 
     - name: Upload Modrinth Modpack to GitHub Releases
