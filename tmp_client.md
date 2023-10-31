@@ -227,12 +227,6 @@ packwiz modrinth add tinkerers-statures
 packwiz modrinth add pehkui
 packwiz modrinth add better-compatibility-checker
 
-
-* [Main Mod](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-fabric)
-* [Nether](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-fabric)
-* [End](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-fabric)
-* [Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
-
 * [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric)
 * [Portable Mobs](https://www.curseforge.com/minecraft/mc-mods/portable-mobs)
 

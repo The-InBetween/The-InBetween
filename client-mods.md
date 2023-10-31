@@ -179,7 +179,6 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 	* [Gazebos](https://modrinth.com/mod/gazebos)
 * [Trash Cans](https://modrinth.com/mod/trash-cans)
 * [Brazier](https://modrinth.com/mod/brazier)
-* [Portable Mobs](https://www.curseforge.com/minecraft/mc-mods/portable-mobs)
 * [Slabs into Blocks](https://modrinth.com/mod/craft-slabs-back-into-blocks)
 * [Do A Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
 * [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul)
