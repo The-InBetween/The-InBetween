@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.1.3](https://github.com/Conquerix/The-InBetween/compare/v0.1.2...v0.1.3) (2023-10-31)
+
+
+### ☀ Modpack Changes
+
+* **client:** Added alloy forgery, removed dark loading screen, added rechiseled, replaced create with create sodium fix ([59b7b09](https://github.com/Conquerix/The-InBetween/commit/59b7b0927d1c3daaf48b3ea3449f045f1d0317ea))
+
 ## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/v0.1.1...v0.1.2) (2023-10-31)
 
 
