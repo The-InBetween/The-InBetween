@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.1.4](https://github.com/Conquerix/The-InBetween/compare/v0.1.3...v0.1.4) (2023-10-31)
+
+
+### ♻ Bug Fixes
+
+* **client:** Fixed something in CI/CD pipeline ([50bc218](https://github.com/Conquerix/The-InBetween/commit/50bc21824d677fe12b6d8f8f7842616e95628831))
+
 ## [0.1.3](https://github.com/Conquerix/The-InBetween/compare/v0.1.2...v0.1.3) (2023-10-31)
 
 
