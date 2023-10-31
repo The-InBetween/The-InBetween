@@ -65,6 +65,6 @@ jobs:
         with:
           loader: "fabric"
           game-version: "1.20.1"
-          CURSEFORGE-ID: ${{ secrets.MODRINTH_ID }}
-          CURSEFORGE-TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          MODRINTH-ID: ${{ secrets.MODRINTH_ID }}
+          MODRINTH-TOKEN: ${{ secrets.MODRINTH_TOKEN }}
         if: ${{ steps.release-please.outputs.releases_created }}
