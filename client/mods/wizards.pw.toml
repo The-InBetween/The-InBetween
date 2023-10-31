@@ -1,13 +1,13 @@
 name = "Wizards (RPG Series)"
-filename = "wizards-1.0.1+1.20.1.jar"
+filename = "wizards-1.0.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/Ltzv5JAH/wizards-1.0.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/vFBkqvEp/wizards-1.0.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a202e03a3269b0cba4ae165769be0c154bc9368a"
+hash = "fc1192043fb1e3440ac92992e0342254586955e0"
 
 [update]
 [update.modrinth]
 mod-id = "NkGaQMDA"
-version = "Ltzv5JAH"
+version = "vFBkqvEp"
