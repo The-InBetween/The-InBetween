@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/v0.1.1...v0.1.2) (2023-10-31)
+
+
+### ☀ Modpack Changes
+
+* **client:** added 'Name Pain' and 'Ping Spam' ([c389d82](https://github.com/Conquerix/The-InBetween/commit/c389d82a3352b4ecc714b1d96de1634fd5893e35))
+
 ## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-10-31)
 
 
