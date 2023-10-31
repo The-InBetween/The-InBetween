@@ -1,13 +1,13 @@
 name = "Backpacked (Fabric)"
-filename = "backpacked-fabric-1.19.2-2.2.0.jar"
+filename = "backpacked-fabric-1.19.2-2.2.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "376aeace7ab1d7ab794b0e10d6cb4b7be529295b"
+hash = "1ef4970d3142b31d9c9d696c5f3b7eec9abf5c2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4463875
+file-id = 4728984
 project-id = 667380
