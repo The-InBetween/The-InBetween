@@ -366,6 +366,11 @@ hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
 metafile = true
 
 [[files]]
+file = "mods/dungeonz.pw.toml"
+hash = "851747804c74ae872620f04a9a8b9ed97ddd89e69a8cf9172e9a0c516b43708b"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "c3f740612bea93485d917787e8a7fa9def95b110e84b89d251227b06a97ff9b4"
 metafile = true
@@ -1098,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "506aef130b1fb19e3c672048fa8ffe57a104b36e156fd42605d48958efb7dad5"
+metafile = true
+
+[[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "beeb38f3afdccf12b0a0dced3231e289c707bf5797b96428b55b360128035b86"
 metafile = true
 
 [[files]]

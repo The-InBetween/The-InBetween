@@ -131,6 +131,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Arcane Lanterns](https://modrinth.com/mod/arcane-lanterns)
 * [Minerally](https://modrinth.com/mod/minerally)
 * [Modern Dynamics](https://modrinth.com/mod/modern-dynamics)
+* [Spelunkery](https://modrinth.com/mod/spelunkery)
 
 ## Mobs
 
@@ -180,6 +181,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Sanguine](https://modrinth.com/datapack/sanguine)
 * [Manic](https://modrinth.com/datapack/manic)
 * [NerverMore](https://modrinth.com/datapack/nevermore)
+* [DungeonZ](https://modrinth.com/mod/dungeonz)
 
 ## Miscellanous
 
