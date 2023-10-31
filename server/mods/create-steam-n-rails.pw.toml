@@ -1,13 +1,13 @@
 name = "Create: Steam 'n' Rails"
-filename = "Steam_Rails-1.4.3+fabric-mc1.19.2.jar"
+filename = "Steam_Rails-1.5.1+fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8a9f2116f4a610ed5810f01509d8c1a7847c6f1f"
+hash = "e6051de5b0399dd8174536f8168298e0187af288"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4630216
+file-id = 4746990
 project-id = 688231

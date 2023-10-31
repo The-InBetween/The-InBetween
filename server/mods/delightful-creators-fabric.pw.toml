@@ -1,13 +1,13 @@
-name = "Delightful Creators [Fabric] (Create Addon)"
-filename = "delightful-creators-1.1.6.jar"
+name = "Delightful Creators [Fabric] (Create and Farmer's Delight Addon)"
+filename = "delightful-creators-1.1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eaed962f7191e6138e0fe5bb91245fc00d31b587"
+hash = "356f75af434daa067e19dbbf9f09644d13a333bf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4698395
+file-id = 4780527
 project-id = 873936

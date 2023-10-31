@@ -39,7 +39,7 @@ runs:
           --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
           --clobber
         echo "::notice ::☀ Client and server packs have been uploaded to GitHub Releases as a .mrpack"
-        rm *server*.mrpack
+        #rm *server*.mrpack
       shell: bash
       env:
         GITHUB_TOKEN: ${{ github.token }}
