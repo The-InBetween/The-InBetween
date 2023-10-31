@@ -135,6 +135,8 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Minerally](https://modrinth.com/mod/minerally)
 * [Modern Dynamics](https://modrinth.com/mod/modern-dynamics)
 * [Spelunkery](https://modrinth.com/mod/spelunkery)
+* [Rechiseled](https://modrinth.com/mod/rechiseled)
+* [Alloy Forgery](https://modrinth.com/mod/alloy-forgery)
 
 ## Mobs
 
