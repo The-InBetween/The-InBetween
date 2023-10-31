@@ -881,6 +881,11 @@ hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
 
 [[files]]
+file = "mods/name-pain.pw.toml"
+hash = "5c7053a0a056ffa31f98aa865c77206fb4e470554070ef296a63bfde7e5225c1"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "68e53bbbabf572e5bb4efa066a15dcc92ce86ebb75d2bb477a5d8e6c560c533a"
 metafile = true
@@ -958,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
+metafile = true
+
+[[files]]
+file = "mods/pingspam.pw.toml"
+hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
 metafile = true
 
 [[files]]

@@ -70,6 +70,8 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Xaero's World map](https://modrinth.com/mod/xaeros-world-map)
 * [Xaero's Mini map](https://modrinth.com/mod/xaeros-minimap)
 * [More Chat History](https://modrinth.com/mod/morechathistory)
+* [Name Pain](https://modrinth.com/mod/name-pain)
+* [Ping Spam](https://modrinth.com/mod/pingspam)
 
 ## World Gen / Biomes / Dimensions
 
