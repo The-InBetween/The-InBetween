@@ -55,7 +55,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Ambient Environment](https://modrinth.com/mod/ambient-environment)
 * [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 * [Ambient Sounds](https://modrinth.com/mod/ambientsounds)
-* [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
+* [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen)
 * [Suggestion Tweaker](https://modrinth.com/mod/suggestion-tweaker)
 * [Transmog](https://modrinth.com/mod/transmog)
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
@@ -209,7 +209,6 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Borderless Mining](https://modrinth.com/mod/borderless-mining)
 * [Horse Buff](https://modrinth.com/mod/horsebuff)
 * [Attribute Fix](https://modrinth.com/mod/attributefix)
-* [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen)
 * [Max Enchant X](https://modrinth.com/mod/max-enchant-x)
 
 ## Optimisation

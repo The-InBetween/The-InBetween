@@ -26,6 +26,11 @@ hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "6fcabfc6ab190db32ff544ae68ef7e2ecec28df2cbcb598a7884b6b398c2d7a4"
 metafile = true
@@ -251,8 +256,8 @@ hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
@@ -313,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/custom-splash-screen.pw.toml"
 hash = "f198f659f5f32d20d5a503c3599a217e6c2d3c44a139d62f5d899201fefae708"
-metafile = true
-
-[[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
 
 [[files]]
@@ -511,11 +511,6 @@ hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
 file = "mods/fastmove.pw.toml"
 hash = "737a8dc5119254e7ddcd20c1f6e6531860ea77c4cea8b7ecb2abae28108f967d"
 metafile = true
@@ -563,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/frostiful.pw.toml"
 hash = "0782be96e287f2d2a90dbba579707c65b4d486a9e7e6caa336502a9f361fd797"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "e499b4740b54222aa88c67dd4b5355650b9ddbc7bf2fef370bdd1b521c3487f9"
 metafile = true
 
 [[files]]
@@ -1033,6 +1033,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "fe4278916c7a5453dedeb4361817489ae9084bb0f2abba44b5164ec3293a491b"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "8bfcb5409a8507681a38f8c0fdd64e97587bbd4ef088edf808cdd46ddf74af05"
 metafile = true
 
 [[files]]
