@@ -26,7 +26,7 @@ runs:
       run: |
         cd client
         packwiz modrinth export
-        mv *.zip ../The-InBetween-client-${{ inputs.release-tag }}.zip
+        mv *.zip ../The-InBetween-${{ inputs.release-tag }}.zip
         cd ../server
         packwiz modrinth export        
         mv *.zip ../The-InBetween-server-${{ inputs.release-tag }}.zip
@@ -39,6 +39,7 @@ runs:
           --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
           --clobber
         echo "::notice ::☀ Client and server packs have been uploaded to GitHub Releases as a .zip"
+        rm *server*.zip
       shell: bash
       env:
         GITHUB_TOKEN: ${{ github.token }}
