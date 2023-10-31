@@ -35,7 +35,7 @@ runs:
 
     - name: Upload Modrinth Modpack to GitHub Releases
       run: |
-        gh release upload ${{ inputs.release-tag }} *.zip \
+        gh release upload ${{ inputs.release-tag }} *.mrpack \
           --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
           --clobber
         echo "::notice ::☀ Client and server packs have been uploaded to GitHub Releases as a .mrpack"
