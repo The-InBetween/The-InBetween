@@ -546,11 +546,6 @@ hash = "0782be96e287f2d2a90dbba579707c65b4d486a9e7e6caa336502a9f361fd797"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "e499b4740b54222aa88c67dd4b5355650b9ddbc7bf2fef370bdd1b521c3487f9"
-metafile = true
-
-[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "d621a0fd3532a74353d363eff7c8919bf3c3033d759f810c27677eda3bfc0109"
 metafile = true
@@ -993,16 +988,6 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "d57003b9b0f720ea31a1ee4faf958f0448f7bc25f0f3cd410a6efd0d81a47e0a"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "fe4278916c7a5453dedeb4361817489ae9084bb0f2abba44b5164ec3293a491b"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "8bfcb5409a8507681a38f8c0fdd64e97587bbd4ef088edf808cdd46ddf74af05"
 metafile = true
 
 [[files]]
