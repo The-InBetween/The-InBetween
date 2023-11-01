@@ -426,11 +426,6 @@ hash = "9effd1002b11eb4dc90ebd55daa47366f13cd48b2fabde60d627865784d5a46e"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
 metafile = true
