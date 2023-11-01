@@ -526,11 +526,6 @@ hash = "26c1620180c65d816280a96354065a9124696e71c1795b4a020c925cef21e271"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
-metafile = true
-
-[[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
 metafile = true
