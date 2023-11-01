@@ -391,11 +391,6 @@ hash = "6f1bd20a9b2caab06fc122de7026bb1555be5f8063102bd69f4f0e47fd53eef6"
 metafile = true
 
 [[files]]
-file = "mods/elytra-physics.pw.toml"
-hash = "4a54dd84593f1e7fabddd950398566d9fab23dd5bde25fb7fd8bb44d0cc5385e"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
