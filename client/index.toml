@@ -1206,11 +1206,6 @@ hash = "e910a683a61b0569ec1a8bb9a811afd58bd777cc60c911c6561daa2800432738"
 metafile = true
 
 [[files]]
-file = "mods/time-stop-clock-mod.pw.toml"
-hash = "7460249c29fc24f5c55f664d14bc7ca5f54e4eb5d004ae71a3287b93dbe6d417"
-metafile = true
-
-[[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "b4dc484c42fdbc3052629e984338f52768daa84fedcd414c83d381b0798cc144"
 metafile = true
