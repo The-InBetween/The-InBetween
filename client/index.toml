@@ -186,11 +186,6 @@ hash = "7e5eb9b88836a9f66c9c8f24d51bc9001546a0bb8b2b40b95a1b79647a5d115a"
 metafile = true
 
 [[files]]
-file = "mods/chefs-delight.pw.toml"
-hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
-metafile = true
-
-[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "e291de29548596119100097a03c0a7ad5adf241c6094b54ae5a5993cb20a92a9"
 metafile = true
@@ -283,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/ctov-beautify-compat.pw.toml"
 hash = "a1c94db18b2c206b3573e5614109ce23409ce2e667d6671dcaf82bef54124eed"
-metafile = true
-
-[[files]]
-file = "mods/ctov-chefs-delight-compat.pw.toml"
-hash = "82b3bb88bd350fe7537af8dd3900f37d41301d640dc2e6860dd6d36cf86dcd9b"
 metafile = true
 
 [[files]]
