@@ -636,16 +636,6 @@ hash = "3d9b2eaf60c3abc7e39022e3a6faacc582cd87fc5d4fd5218292e672991b6ffa"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
-metafile = true
-
-[[files]]
-file = "mods/invtweaks-emu-for-ipn.pw.toml"
-hash = "3aeaaacd45fa963df580cdc3070e86b5d7a61848227cc1d574f29e332915df5c"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
