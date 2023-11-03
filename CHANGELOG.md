@@ -1,6 +1,26 @@
 # Changelog
 
 
+## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-11-03)
+
+
+### ☀ Modpack Changes
+
+* **client:** changed a lot of things, reverted back sodium for good compatibility with create, will update everything once they all are compatible ([c6c13a1](https://github.com/Conquerix/The-InBetween/commit/c6c13a1b4f35e296560bcfcdf7ef817216f04e1e))
+* **client:** removed chef's delight, made crash ([021accc](https://github.com/Conquerix/The-InBetween/commit/021accc1b55c7f7153cdf8b19afa8c412875ab5c))
+* **client:** removed create steam n rails for the time being as it crashes with create sodium fix ([a7ab4a7](https://github.com/Conquerix/The-InBetween/commit/a7ab4a7777c479f7b4536000ee305a6c8b897697))
+* **client:** removed dashloader, crash at startup and the game doesn't take long to load anyway. ([c3c1e42](https://github.com/Conquerix/The-InBetween/commit/c3c1e422807fc081061a0fdd73ff2f8e8ab71827))
+* **client:** removed elytra physics because it causes crashes on startup ([f90ad0d](https://github.com/Conquerix/The-InBetween/commit/f90ad0d33e542097c3b9c80eadddc09e7cb1f984))
+* **client:** removed exordium, makes crash ([889443b](https://github.com/Conquerix/The-InBetween/commit/889443b8b66101f32246d2e2e56e3a50036a9336))
+* **client:** removed ferrite core, crash at launch with create. ([6021e7a](https://github.com/Conquerix/The-InBetween/commit/6021e7ac0b2895ee15f6b5b3f741edd3d1663213))
+* **client:** removed figura for now, waiting for 0.1.3 as it will fix crashing issues ([3645204](https://github.com/Conquerix/The-InBetween/commit/3645204c2eb3801c46be8ad9ef66608dd1cd9049))
+* **client:** removed immediately fast, incompatible with create sodium fix ([6760f63](https://github.com/Conquerix/The-InBetween/commit/6760f63fe27672f487aac21df9102309e3d710c1))
+* **client:** removed inventory profiles as it is too complex for not much ([7e9d11e](https://github.com/Conquerix/The-InBetween/commit/7e9d11ee54570c1a66602fe7832d7b95826dc073))
+* **client:** removed memory leak fix, crashes with create sodium fix ([5760128](https://github.com/Conquerix/The-InBetween/commit/57601283ccab649acc8125318dd36142c59cad78))
+* **client:** removed physicsmod because I don't want it anymore, and it crashes the game when opening the end. ([729dfb6](https://github.com/Conquerix/The-InBetween/commit/729dfb65fd1e55e426bf0884c76933fcabfbd5c6))
+* **client:** removed time stop clock as it crashes at startup ([b16ce3d](https://github.com/Conquerix/The-InBetween/commit/b16ce3dd9c49c68ea15003347e76b45f4b070053))
+* **client:** removed yung's better end island and strongholds in profit of stellarity ([0d6d578](https://github.com/Conquerix/The-InBetween/commit/0d6d578fad0d281cc209b9f079ca18679dd003fb))
+
 ## [0.1.0](https://github.com/Conquerix/The-InBetween/compare/v0.1.4...v0.1.0) (2023-10-31)
 
 
