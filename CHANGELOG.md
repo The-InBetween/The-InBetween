@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [0.1.3](https://github.com/Conquerix/The-InBetween/compare/v0.1.2...v0.1.3) (2023-11-03)
+
+
+### ☀ Modpack Changes
+
+* **client:** fixed bug in dev environment, switching back to latest version of everything as there is no bug anymore.) ([d461dbc](https://github.com/Conquerix/The-InBetween/commit/d461dbcd3240059babb75dd652dba60f94850792))
+* **client:** removed heracles, because crashes... ([71de7a6](https://github.com/Conquerix/The-InBetween/commit/71de7a62c704ae17b2ef43032409b416c240838d))
+* **client:** Reverted some changes and updated a lot of things, pack is functional (maybe) ([62b68f3](https://github.com/Conquerix/The-InBetween/commit/62b68f3bed1ac37bdbe2ad43907992190b6c1af2))
+
 ## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/v0.1.1...v0.1.2) (2023-11-03)
 
 
