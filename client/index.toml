@@ -251,8 +251,8 @@ hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
@@ -416,6 +416,11 @@ hash = "9effd1002b11eb4dc90ebd55daa47366f13cd48b2fabde60d627865784d5a46e"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
 metafile = true
@@ -481,8 +486,18 @@ hash = "e26f4ed60a39245dde3632923fc387d9f5cf285f3f6d6aaa925fc4a0d1c55e3c"
 metafile = true
 
 [[files]]
+file = "mods/fastanim.pw.toml"
+hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
+metafile = true
+
+[[files]]
 file = "mods/fastmove.pw.toml"
 hash = "737a8dc5119254e7ddcd20c1f6e6531860ea77c4cea8b7ecb2abae28108f967d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -618,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "2fca316094aaba7621f614ebe9f26e50992797b8c63c6528e8b3fad35e885d7b"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -1058,11 +1078,6 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]

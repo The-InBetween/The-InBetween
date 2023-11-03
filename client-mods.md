@@ -129,7 +129,6 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Minerally](https://modrinth.com/mod/minerally)
 * [Modern Dynamics](https://modrinth.com/mod/modern-dynamics)
 * [Spelunkery](https://modrinth.com/mod/spelunkery)
-* [Rechiseled](https://modrinth.com/mod/rechiseled)
 * [Alloy Forgery](https://modrinth.com/mod/alloy-forgery)
 
 ## Mobs
@@ -192,6 +191,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Almost Unified](https://modrinth.com/mod/almost-unified)
 * [Item Model Fix](https://modrinth.com/mod/modelfix)
 * [LibreExpFix](https://modrinth.com/mod/libre-exp-fix)
+* [Elytra Physics](https://modrinth.com/mod/elytra-physics)
 * [Elytra Aeronautics](https://modrinth.com/mod/elytra-aeronautics)
 * [Lanterns Belong on Walls](https://modrinth.com/mod/lanterns-bow)
 * [Carry On](https://modrinth.com/mod/carry-on)
@@ -207,7 +207,6 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 ## Optimisation
 
 * [AntiGhost](https://modrinth.com/mod/antighost)
-* [StarLight](https://modrinth.com/mod/starlight)
 * [Sodium](https://modrinth.com/mod/sodium)
     * [Extras](https://modrinth.com/mod/sodium-extra)
     * [Reese's options](https://modrinth.com/mod/reeses-sodium-options)
@@ -238,6 +237,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 	* [Offline Doc](https://modrinth.com/mod/kubejs-offline)
 	* [Ponder](https://modrinth.com/mod/ponder)
 * [Time Control](https://modrinth.com/mod/time-control)
+* [Time Stop Clock](https://modrinth.com/mod/time-stop-clock-mod)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 * [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
 * [StackDeObfuscator](https://modrinth.com/mod/stackdeobf)
