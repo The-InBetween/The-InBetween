@@ -546,11 +546,6 @@ hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
 
 [[files]]
-file = "mods/heracles.pw.toml"
-hash = "5ccec80cf6aba20e0a059aa20fdb55688acb6fe4a0164d445450cc8e4d2ce689"
-metafile = true
-
-[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
