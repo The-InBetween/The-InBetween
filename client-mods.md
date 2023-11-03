@@ -4,7 +4,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 
 ## Core Mods
 
-* [Create](https://modrinth.com/mod/create-fabric)
+* [Create, sodium fix while main create is not updated](https://modrinth.com/mod/create-fabric-sodium-fix)
 	* [Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 	* [Chisel Compat](https://modrinth.com/mod/rechiseled-create)
 * [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric)
@@ -69,6 +69,7 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [More Chat History](https://modrinth.com/mod/morechathistory)
 * [Name Pain](https://modrinth.com/mod/name-pain)
 * [Ping Spam](https://modrinth.com/mod/pingspam)
+* [Exordium](https://modrinth.com/mod/exordium)
 
 ## World Gen / Biomes / Dimensions
 
@@ -223,6 +224,10 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [ForceCloseWorldLoadingScreen](https://modrinth.com/mod/forcecloseworldloadingscreen)
 * [XXL Packets](https://modrinth.com/mod/xxl-packets)
+* [FastAnim](https://modrinth.com/mod/fastanim)
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+* [Immediately Fast](https://modrinth.com/mod/immediatelyfast)
+* [Ferrite Core](https://modrinth.com/mod/ferrite-core)
 
 ## Admin Tools
 
