@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.1.2](https://github.com/Conquerix/The-InBetween/compare/v0.1.1...v0.1.2) (2023-11-03)
+
+
+### ☀ Modpack Changes
+
+* **client:** added heracles for quests ([4cca736](https://github.com/Conquerix/The-InBetween/commit/4cca7364ae6ec3e6e57a3df6e28215ecee13b389))
+
 ## [0.1.1](https://github.com/Conquerix/The-InBetween/compare/v0.1.0...v0.1.1) (2023-11-03)
 
 
