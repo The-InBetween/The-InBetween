@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "232e1851d05f7c872ffe52ce93c6da589dac1e51d1fed389304c84f0cef73de4"
+hash = "449fed034b496e79cb18d34a81d6b1f250e69223f0bebd9a85b38ad819e5ecff"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeonz.pw.toml"
-hash = "851747804c74ae872620f04a9a8b9ed97ddd89e69a8cf9172e9a0c516b43708b"
+hash = "201f48a12936f7ebdb48eca0e064f31b92dcdd3b2e671ade1d99632a33e99215"
 metafile = true
 
 [[files]]
@@ -432,12 +432,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9f78b899c26303f773de0e808de5e82ce395a55f3885c69ece3dd7fa5b79325d"
+hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "0782be96e287f2d2a90dbba579707c65b4d486a9e7e6caa336502a9f361fd797"
+hash = "c4110d9f7b64651ac82738eaf3df4ed284b6fe1a5e10fa20707e7977ec5e4738"
 metafile = true
 
 [[files]]
@@ -543,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "5ccec80cf6aba20e0a059aa20fdb55688acb6fe4a0164d445450cc8e4d2ce689"
 metafile = true
 
 [[files]]
@@ -576,8 +581,13 @@ hash = "a266409ee7850768e0883f4a9fbb64c0697cf63f393f5e35d03e23b772ab7452"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
@@ -587,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
@@ -622,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e0211752910bc1719689fa49585776462935b4bb575900e01000b766b46132f6"
+hash = "457884a81ab409eba09b3f0ac7a4581e9ae03c13934375e03eb552d4069e1364"
 metafile = true
 
 [[files]]
@@ -731,13 +741,18 @@ hash = "a5a93d32d5f286815e3d35a5d6b5381492db49607e5f3613ee7af53246b6f6af"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
 metafile = true
 
 [[files]]
 file = "mods/minerally.pw.toml"
-hash = "8a3dc8fb94f23def0245384fb52ae9ce1be0bfe0f91229a057babce904535506"
+hash = "39f0cbda9e334dd92b5d4c82a3367510d7e9913a377fa58b3eac242daa6c1813"
 metafile = true
 
 [[files]]
@@ -767,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a92082b5f3ff068fdde6fa01f8273ecc4fbbce9e5cdc702f125ea841231ec3ed"
+hash = "cf249c688b09acf94becdf1aad5f0b71664948bf9f2e25950c9ddc3b1477cab9"
 metafile = true
 
 [[files]]
@@ -952,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
@@ -997,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "7eec675283630f72e358323dd8ea0ada156b66a82bf59f9aeba32a139faff3fe"
+hash = "c89bded19dcd890adca07997a9ec8d1a080005653aa0d57039f54010ad66872c"
 metafile = true
 
 [[files]]
@@ -1017,12 +1032,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28886fd5471a7a5cc215f155991e1628aaa86224da1cf46e1c2d12cef88118f4"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
@@ -1097,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "50b0d6ecb40126783214a9d41a74d092e08953649d09eebe35dd1ee204c94c78"
+hash = "70eb6a946ed20d0e25cff1a6e628c7274066cb1dcd54ea389e0769f7ebe2637d"
 metafile = true
 
 [[files]]
@@ -1132,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "f2056bbb8f041ba95bc28e9e2a63f8543831353bd807794c0b123f0bd300766c"
+hash = "01c0153374e05f351c4bf22e72dfdb03d63395e46a93e85f8087a133c2c0ef7e"
 metafile = true
 
 [[files]]

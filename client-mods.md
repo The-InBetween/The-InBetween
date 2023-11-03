@@ -75,7 +75,6 @@ Fabric 1.20.1 pack, almost all mods on modrinth.
 * [Galosphere](https://modrinth.com/mod/galosphere)
 * [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
 	* [Farmer's Delight Compat](https://modrinth.com/datapack/ctov-farmers-delight-compat)
-	* [Chef's Delight Compat](https://modrinth.com/datapack/ctov-chefs-delight-compat)
 	* [Beautify Compat](https://modrinth.com/datapack/ctov-beautify-compat)
 	* [VillagersPlus Compat](https://modrinth.com/datapack/ctov-villagers-plus-compat)
 	* [Friends&Foes Compat](https://modrinth.com/datapack/ctov-friends-and-foes-compat)
