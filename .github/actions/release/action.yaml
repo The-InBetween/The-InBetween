@@ -73,7 +73,7 @@ runs:
           modrinth-id: ${{ inputs.MODRINTH-ID }}
           modrinth-token: ${{ inputs.MODRINTH-TOKEN }}
           loaders: ${{ inputs.loader }}
-          game-versions: "The InBetween ${{ inputs.game-version }}"
+          game-versions: ${{ inputs.game-version }}
           changelog-file: CHANGELOG.release.*
           files: "*.mrpack"
           version: ${{ steps.tag.outputs.tag }}
