@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "449fed034b496e79cb18d34a81d6b1f250e69223f0bebd9a85b38ad819e5ecff"
+hash = "1016ed09fb73e2badf1ed06458256caf711017d7d76e38a26e68a9396fb089ac"
 metafile = true
 
 [[files]]
@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "38af97267d61906567e47bbc64f4ca28ba239679b27f48f3ceb3a8dd8ebd0e23"
+hash = "52b806426d0bf1ac7e85a1b0c5d5760c9ac422b72a470abf105ae60195f6f88f"
 metafile = true
 
 [[files]]
