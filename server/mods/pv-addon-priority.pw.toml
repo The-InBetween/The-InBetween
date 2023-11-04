@@ -1,0 +1,13 @@
+name = "pv-addon-priority"
+filename = "pv-addon-priority-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoKOaUOC/versions/JsDAhyrY/pv-addon-priority-1.0.0.jar"
+hash-format = "sha1"
+hash = "92513746608f6518eb354ef2744a61e9a48fa5ac"
+
+[update]
+[update.modrinth]
+mod-id = "DoKOaUOC"
+version = "JsDAhyrY"

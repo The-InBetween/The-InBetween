@@ -1,0 +1,13 @@
+name = "Bending"
+filename = "bending-fabric-mc1.20.1-3.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DzD7S3mv/versions/PwbyR2Us/bending-fabric-mc1.20.1-3.4.0.jar"
+hash-format = "sha1"
+hash = "e7108021fe0fa43f4baa7eec2c6a7e1968b1d67f"
+
+[update]
+[update.modrinth]
+mod-id = "DzD7S3mv"
+version = "PwbyR2Us"

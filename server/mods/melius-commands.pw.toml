@@ -1,0 +1,13 @@
+name = "Melius Commands"
+filename = "custom-commands-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lCC4AmlO/versions/jDxZLNlP/custom-commands-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "1e3b757f68c3d3a03eb815e1b268ed1286e247ce"
+
+[update]
+[update.modrinth]
+mod-id = "lCC4AmlO"
+version = "jDxZLNlP"

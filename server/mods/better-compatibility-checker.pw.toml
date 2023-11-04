@@ -1,0 +1,13 @@
+name = "Better Compatibility Checker"
+filename = "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/gatP97QZ/BetterCompatibilityChecker-fabric-4.0.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "0c4dda5c9ebe5fcedd829996a272009f3122630a"
+
+[update]
+[update.modrinth]
+mod-id = "KJhXPbHQ"
+version = "gatP97QZ"

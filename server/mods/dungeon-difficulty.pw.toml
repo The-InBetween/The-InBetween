@@ -1,13 +1,13 @@
-name = "Dungeon Difficulty [Fabric]"
-filename = "dungeon_difficulty-2.0.5+1.19.jar"
+name = "Dungeon Difficulty"
+filename = "dungeon_difficulty-2.0.5+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ENZmbSFZ/versions/nKHf8dsy/dungeon_difficulty-2.0.5%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "c59232cf624d6095c5d639f6d65b5eaaa784ed44"
-mode = "metadata:curseforge"
+hash = "67a9a8a87a9e7c7b5700b5587380eafaf7558174"
 
 [update]
-[update.curseforge]
-file-id = 4676426
-project-id = 645559
+[update.modrinth]
+mod-id = "ENZmbSFZ"
+version = "nKHf8dsy"

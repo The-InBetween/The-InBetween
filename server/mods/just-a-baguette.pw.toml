@@ -1,0 +1,13 @@
+name = "Just A Baguette"
+filename = "JustABaguette-v1.0.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r2h8QLhN/versions/I4GKI50k/JustABaguette-v1.0.1-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "b8f0f5352d67fc93fb149fd3717c9f3e5c2019d4"
+
+[update]
+[update.modrinth]
+mod-id = "r2h8QLhN"
+version = "I4GKI50k"

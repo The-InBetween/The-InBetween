@@ -1,13 +1,13 @@
 name = "Fabric Language Kotlin"
-filename = "fabric-language-kotlin-1.10.11+kotlin.1.9.20.jar"
+filename = "fabric-language-kotlin-1.10.13+kotlin.1.9.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/atZwzPrT/fabric-language-kotlin-1.10.13%2Bkotlin.1.9.20.jar"
 hash-format = "sha1"
-hash = "ff49abe73233819d7fe719b20fd74957738f600f"
-mode = "metadata:curseforge"
+hash = "e7b4b15b8fa5095e47ef6890a39bca76307fa185"
 
 [update]
-[update.curseforge]
-file-id = 4828665
-project-id = 308769
+[update.modrinth]
+mod-id = "Ha28R6CL"
+version = "atZwzPrT"

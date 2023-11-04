@@ -1,13 +1,13 @@
-name = "Delightful Creators [Fabric] (Create and Farmer's Delight Addon)"
-filename = "delightful-creators-1.1.7.jar"
+name = "Delightful Creators  [Fabric]"
+filename = "delightful-creators-1.1.8.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/66Jv0aZJ/delightful-creators-1.1.8.jar"
 hash-format = "sha1"
-hash = "356f75af434daa067e19dbbf9f09644d13a333bf"
-mode = "metadata:curseforge"
+hash = "539f3bde2a04d0b19254121bbc0d4ea441b6e4ef"
 
 [update]
-[update.curseforge]
-file-id = 4780527
-project-id = 873936
+[update.modrinth]
+mod-id = "jmJ87gsb"
+version = "66Jv0aZJ"

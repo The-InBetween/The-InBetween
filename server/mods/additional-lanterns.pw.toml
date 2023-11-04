@@ -1,13 +1,13 @@
 name = "Additional Lanterns"
-filename = "additionallanterns-1.1.1-fabric-mc1.19.2.jar"
+filename = "additionallanterns-1.1.1-fabric-mc1.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jXNvTKds/versions/djFuUPmO/additionallanterns-1.1.1-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "42429187ffd2049d10e3729e405ad863952c67ea"
-mode = "metadata:curseforge"
+hash = "d5293bba4a0cab71ff4a09fa70bc65cca310ee4b"
 
 [update]
-[update.curseforge]
-file-id = 4677246
-project-id = 501590
+[update.modrinth]
+mod-id = "jXNvTKds"
+version = "djFuUPmO"

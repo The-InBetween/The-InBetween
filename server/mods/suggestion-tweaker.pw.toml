@@ -1,13 +1,13 @@
 name = "Suggestion Tweaker"
-filename = "suggestion-tweaker-1.19.1-1.5.1-fabric.jar"
+filename = "suggestion-tweaker-1.20-1.5.1-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/MBLj38R0/versions/RJeuHy76/suggestion-tweaker-1.20-1.5.1-fabric.jar"
 hash-format = "sha1"
-hash = "0a3af35c72cead8ab378701fff3f2b3c045e3717"
-mode = "metadata:curseforge"
+hash = "480cb1261b8d8143c35d253222ae13bf39b1ca86"
 
 [update]
-[update.curseforge]
-file-id = 4730094
-project-id = 615242
+[update.modrinth]
+mod-id = "MBLj38R0"
+version = "RJeuHy76"

@@ -1,0 +1,13 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-fabric-1.20-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/pqVYNVoY/deeperdarker-fabric-1.20-1.2.2.jar"
+hash-format = "sha1"
+hash = "b3f6b99c71a10d9d8eac4f5d6f692ffd3b28f58f"
+
+[update]
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "pqVYNVoY"

@@ -1,0 +1,13 @@
+name = "pv-addon-spectator"
+filename = "pv-addon-spectator-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bZwNKr3n/versions/CZ8zyKkD/pv-addon-spectator-1.0.0.jar"
+hash-format = "sha1"
+hash = "81242361fa3dadf13e6a1f5045ebc04fd1801ba8"
+
+[update]
+[update.modrinth]
+mod-id = "bZwNKr3n"
+version = "CZ8zyKkD"

@@ -1,0 +1,13 @@
+name = "pv-addon-whisper"
+filename = "pv-addon-whisper-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZxauj81/versions/J57Sn1ZG/pv-addon-whisper-1.0.0.jar"
+hash-format = "sha1"
+hash = "10cc5699bebafffe10d0683afb42a1e1c7fc771e"
+
+[update]
+[update.modrinth]
+mod-id = "pZxauj81"
+version = "J57Sn1ZG"

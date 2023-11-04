@@ -1,13 +1,13 @@
 name = "Underwater Enchanting"
-filename = "underwaterenchanting-1.19.2-2.3.jar"
+filename = "underwaterenchanting-1.20.1-2.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/e8JtTY4h/versions/NabARDdx/underwaterenchanting-1.20.1-2.3.jar"
 hash-format = "sha1"
-hash = "d9c0329ea4bfef35b440b4960fa88d51cbfdeecf"
-mode = "metadata:curseforge"
+hash = "380bfc03f08b59bbe0625e0224d04b466a0af2b2"
 
 [update]
-[update.curseforge]
-file-id = 4762347
-project-id = 348758
+[update.modrinth]
+mod-id = "e8JtTY4h"
+version = "NabARDdx"

@@ -1,13 +1,13 @@
 name = "HT's TreeChop"
-filename = "TreeChop-1.19.2-fabric-0.18.3.jar"
+filename = "TreeChop-1.20.1-fabric-0.18.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/1U9SwvDm/TreeChop-1.20.1-fabric-0.18.3.jar"
 hash-format = "sha1"
-hash = "6880d74e0fc121afa0e198d9f34e82b591a5b9f9"
-mode = "metadata:curseforge"
+hash = "af46aafacae3b0dd004c4f4f060cabd0fe6fa706"
 
 [update]
-[update.curseforge]
-file-id = 4713146
-project-id = 421377
+[update.modrinth]
+mod-id = "gHoB7SHO"
+version = "1U9SwvDm"

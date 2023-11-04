@@ -1,13 +1,13 @@
 name = "JamLib"
-filename = "jamlib-0.6.1+1.19-1.19.2.jar"
+filename = "jamlib-0.6.1+1.20.x.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/vVYtBiuW/jamlib-0.6.1%2B1.20.x.jar"
 hash-format = "sha1"
-hash = "f7c4f9fa719ca15d088ae4e1c1605b7b22fb70b9"
-mode = "metadata:curseforge"
+hash = "f5b654132f057a00690de6c524934a75d2ae66ca"
 
 [update]
-[update.curseforge]
-file-id = 4662538
-project-id = 623764
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "vVYtBiuW"

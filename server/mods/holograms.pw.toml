@@ -1,0 +1,13 @@
+name = "Holograms"
+filename = "holograms-1.5.2+1.20-legacy-edition.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dl7wmhr3/versions/kmGRyicl/holograms-1.5.2%2B1.20-legacy-edition.jar"
+hash-format = "sha1"
+hash = "c2917608ceec158288f72466ab831bd9bba2f21b"
+
+[update]
+[update.modrinth]
+mod-id = "dl7wmhr3"
+version = "kmGRyicl"

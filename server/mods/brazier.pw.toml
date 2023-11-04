@@ -1,13 +1,13 @@
 name = "Brazier"
-filename = "brazier-fabric-5.1.1.jar"
+filename = "brazier-fabric-6.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/5okEW6TG/versions/SJevV0us/brazier-fabric-6.1.1.jar"
 hash-format = "sha1"
-hash = "9829396a7f638bb2a15342d52ca00b7d083be6cc"
-mode = "metadata:curseforge"
+hash = "e63f3929d9499452ac924e56e50a553724eaae4e"
 
 [update]
-[update.curseforge]
-file-id = 4702289
-project-id = 402616
+[update.modrinth]
+mod-id = "5okEW6TG"
+version = "SJevV0us"
