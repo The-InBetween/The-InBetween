@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.2.1](https://github.com/Conquerix/The-InBetween/compare/v0.2.0...v0.2.1) (2023-11-04)
+
+
+### ☀ Modpack Changes
+
+* **client:** removed and added a lot of things, corrected some bugs ([7b4c321](https://github.com/Conquerix/The-InBetween/commit/7b4c3215791de465d440a8b6fa62a9cc0f4d50b3))
+
 ## [0.1.3](https://github.com/Conquerix/The-InBetween/compare/v0.1.2...v0.1.3) (2023-11-03)
 
 
