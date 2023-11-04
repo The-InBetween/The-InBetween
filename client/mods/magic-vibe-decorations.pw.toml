@@ -1,0 +1,13 @@
+name = "Magic Vibe Decorations - Halloween additions (Fabric/Forge)"
+filename = "magicvibedecorations-HALLOWEEN 1.7.0 1.20.1 fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MPAgKQOE/versions/NGn6sD5g/magicvibedecorations-HALLOWEEN%201.7.0%201.20.1%20fabric.jar"
+hash-format = "sha1"
+hash = "2f901750c7ddaa12c93570f9bbe87fd75ee15130"
+
+[update]
+[update.modrinth]
+mod-id = "MPAgKQOE"
+version = "NGn6sD5g"

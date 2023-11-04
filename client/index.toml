@@ -101,6 +101,11 @@ hash = "9e77ce91a88d6d603b80fd22eb5215ca59af752d5c6b6aa4efe1fb927a75dd12"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "6bfc70010db5cf9fa0182ffee6617e4647ea9f37d875a3fa71eb275c86dfe167"
+metafile = true
+
+[[files]]
 file = "mods/backpacked-fabric.pw.toml"
 hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
@@ -121,6 +126,11 @@ hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
 metafile = true
 
 [[files]]
+file = "mods/bcbc.pw.toml"
+hash = "b3f98ecce9ba4f90f371ef0c0ebbeedf81932b5c5832ad1e6fe9104b5d9a4287"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "e7e792cc5aec854250db3cb9ee6fe16b6edcd88f3f949d1e47c976fcfd1b9c4e"
 metafile = true
@@ -128,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "002a43d78a1164f15354b58a21566c8e6063fbd65390524a889bcee5895f203a"
 metafile = true
 
 [[files]]
@@ -143,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "bdca6c6aae1e50a528c5d343529d002cdbda431a059e70b9f8dc7d6fb21751f5"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
@@ -396,6 +421,11 @@ hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
+metafile = true
+
+[[files]]
 file = "mods/ender-zoology.pw.toml"
 hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
@@ -433,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "8fcc97c8788ad77b7587f4879e9e4ccac7bec43aeceeb7dcdb993eacc645c323"
 metafile = true
 
 [[files]]
@@ -548,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
@@ -741,13 +771,13 @@ hash = "5259c2724dbab161467ff62ecd58515615e41589e079f03190c4a305fd83861a"
 metafile = true
 
 [[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+file = "mods/magic-vibe-decorations.pw.toml"
+hash = "c89b1c826577fa3db2b76a96779c42b7e0217ed54039333963e8b3852eee64ca"
 metafile = true
 
 [[files]]
-file = "mods/manic.pw.toml"
-hash = "9714cf6042d9b40be8a2588fefaad0b241552feff821ce9f8ae01e201cca71ac"
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
@@ -856,11 +886,6 @@ hash = "501049b58f464bd8d85e288627991a4013fd4219efd6e75111bbcd616a03231d"
 metafile = true
 
 [[files]]
-file = "mods/nevermore.pw.toml"
-hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -911,6 +936,11 @@ hash = "c5f1aecf14cd8f36592f41bf42e00f85834e30382535767fccff1b6f19c45012"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b1a56c118d6ca8ee7b9599a88711d1e9426ad565a26ec07d7384457edf97a6"
 metafile = true
@@ -933,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "fd1861c2fbfac935ba6829d64dfa9ea73119fd73681446bca3468badfed5be4c"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -1006,13 +1041,13 @@ hash = "af8bd290a5c7d75986905bf1b433e238e14933539836ac7bc37be02b3dcd6613"
 metafile = true
 
 [[files]]
-file = "mods/runes.pw.toml"
-hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
+file = "mods/rune-crafting.pw.toml"
+hash = "f973ec613205e8ffa14912fa2c3bbf762d33b707e65790e5c0f9b45d0395590f"
 metafile = true
 
 [[files]]
-file = "mods/sanguine.pw.toml"
-hash = "94e3bc7af966cba38a5495c712a660e821562a4684dda381910d64191f972b2b"
+file = "mods/runes.pw.toml"
+hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
 metafile = true
 
 [[files]]
@@ -1068,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "506aef130b1fb19e3c672048fa8ffe57a104b36e156fd42605d48958efb7dad5"
+metafile = true
+
+[[files]]
+file = "mods/spellblade-next.pw.toml"
+hash = "5f481bb579a7f14baa107aa5fca35316eb2f434b7925a16bcd83b9a02b9c9473"
 metafile = true
 
 [[files]]
@@ -1151,11 +1191,6 @@ hash = "c06f2c85ab73379e4e5845a3d3277f0f372cca7a6936f0239d4a33e85fe035e7"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "c7b5cc4b23192c970f0aa018e1e5e801a56c3ec2149e87eb30e4d57fa624e2ba"
-metafile = true
-
-[[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "e23510ac34f83b29895fdefc6397a62f87042a05fb7a358f8433acfdbfa84f52"
 metafile = true
@@ -1223,6 +1258,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
