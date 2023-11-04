@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.3.0](https://github.com/Conquerix/The-InBetween/compare/v0.2.1...v0.3.0) (2023-11-04)
+
+
+### ★ Features
+
+* **client:** Configured discord rpc ([c0f6084](https://github.com/Conquerix/The-InBetween/commit/c0f6084875bcbc165bff27d753df53828286bc50))
+
 ## [0.2.1](https://github.com/Conquerix/The-InBetween/compare/v0.2.0...v0.2.1) (2023-11-04)
 
 
