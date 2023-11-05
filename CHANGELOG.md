@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.3.1](https://github.com/Conquerix/The-InBetween/compare/v0.3.0...v0.3.1) (2023-11-05)
+
+
+### ☀ Modpack Changes
+
+* **client:** removed backpacked and mvs because they crashed the server ([f88324e](https://github.com/Conquerix/The-InBetween/commit/f88324e25e0251d899e14a1c2bceaadf0bd4e66a))
+
 ## [0.3.0](https://github.com/Conquerix/The-InBetween/compare/v0.2.1...v0.3.0) (2023-11-04)
 
 
