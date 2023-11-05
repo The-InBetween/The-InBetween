@@ -106,11 +106,6 @@ hash = "6bfc70010db5cf9fa0182ffee6617e4647ea9f37d875a3fa71eb275c86dfe167"
 metafile = true
 
 [[files]]
-file = "mods/backpacked-fabric.pw.toml"
-hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
-metafile = true
-
-[[files]]
 file = "mods/backrooms.pw.toml"
 hash = "1720c8565691d808f8cea8e42820b247b859ed43589baa34d229b1f3c2d2e54b"
 metafile = true
@@ -556,11 +551,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/framework-fabric.pw.toml"
-hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "72cb09c1b9cd9d3e8b837b8c226b40247ea6785a5049bb3a12162501103b8259"
 metafile = true
@@ -706,11 +696,6 @@ hash = "4c418d76137ed1a34686a7f667348c97b5f457b28ae1469152aa35f44c4e9a1f"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
-metafile = true
-
-[[files]]
 file = "mods/libre-exp-fix.pw.toml"
 hash = "6453f82b633c8d181650f4eef6b35c17a40a90cb60ba123248243fe0a4e6d338"
 metafile = true
@@ -823,11 +808,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
-metafile = true
-
-[[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "3458345d15791fefb8ab00f6d0826843fae75061055230abaa6d393c7bce5702"
 metafile = true
 
 [[files]]
