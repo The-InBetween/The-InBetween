@@ -1221,6 +1221,11 @@ hash = "df6c42195656610837ff05462ac37bb40da04a18de198333769030c562cbfe2d"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "7677bf35a89d3f408f230e269892eb8fc20d38c8c5dacf13994af119c2f45908"
+metafile = true
+
+[[files]]
 file = "mods/traverse.pw.toml"
 hash = "fa828cee58820db21721f890e029e0469480e330ff44556d1611ddb5faf9da64"
 metafile = true
