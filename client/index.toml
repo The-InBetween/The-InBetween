@@ -5,6 +5,198 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "7fa2f235ebb01af5ec834ea653659dc368c18a06d2ab94cf5cf2759fecea1ab6"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/clutter/lang/en_us.json"
+hash = "e1bc65cc35c46cfe7a87ade222400d0f919edc6e4c155f4dadf670b8c1c30742"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/stone.png"
+hash = "0096954ee757a2184f96e5e300953a6c41855ee49e8e5ad90aeeb0444953fd9d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/apple_slices.png"
+hash = "85364c21927484a5c56fdaa61140d88096f5c40b501f6be409a6b9e9259f96d8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/brigadeiro.png"
+hash = "4a31dc8653d9351b13c852d7fe81c9181ba1ca165b0fbb1c26828558eb6939d2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/brigadeiro_paper_forms.png"
+hash = "fb093975aea687dbbc93214a6b3dfb775933d5d0a4b8ae692f9ffa748a0924f3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pao_de_queijo.png"
+hash = "ad4d0e1c7aee8518500b2a89e7b02016c7f951d0115b4c1bcd78d2aba805fe16"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/prometheum_sheet.png"
+hash = "1cb1be0eadba558c6dcc45fb28f433f1f95b6dbb11696c301ed83474982d5e2b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/prometheum_smithing_template.png"
+hash = "f0f30c016f1d0e66e4e1ee7d858c303f68cbc5e9fe61019d4ecb1b8c58855c9c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tiramisu.png"
+hash = "6105822b70e04cb61be3229909bebaa8131fb9ab876338fc9a0b5c3a403a9a75"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/almostunified/debug.json"
+hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
+
+[[files]]
+file = "kubejs/config/almostunified/duplicates.json"
+hash = "d285d07e8bedb9e760fb677e774f90399093e4f73a45e79d5245997a4e98aa44"
+
+[[files]]
+file = "kubejs/config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "kubejs/config/almostunified/unify.json"
+hash = "397af76b0fbf71e0382df17f412a03124f96fe5557f38644fe101fbce36a60b5"
+
+[[files]]
+file = "kubejs/config/artifacts/common.json5"
+hash = "aa3268a5958af87c91ed8aa40a2a3f58fc467c964866ba27b57ad7b722c9267e"
+
+[[files]]
+file = "kubejs/config/betterf3.json"
+hash = "de4214013e7e62d43d5ea34d2b0bd44498e986ec19d9c1fb46cb5cef5a1be14f"
+
+[[files]]
+file = "kubejs/config/carryon-common.json"
+hash = "74ed0fc494f4a95556ce1de0a00a3cf31688a8a4de4a0a009a557b563ed65a2b"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "f1f88e9a8c6d60f7017b3b378ed29e397c4a441896da5ab9471328e6afac44ef"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "41014a7d90e0baf941381b91533735ab6e0ffbf45215fabe5e06b1ddb58bac8f"
+
+[[files]]
+file = "kubejs/config/supplementaries-common.json"
+hash = "72fdbe4d6d891230b8475812e551d7610567aef9b78ae13cb27afd0ab4d6458d"
+
+[[files]]
+file = "kubejs/data/clutter/loot_tables/blocks/copper_coin_stack.json"
+hash = "62ea2ae7f38becf810356a012c473664de00baac34c55d98cad5ba2ca9eda186"
+
+[[files]]
+file = "kubejs/data/clutter/loot_tables/blocks/golden_coin_stack.json"
+hash = "291779653a621e4939e83c510b63f5fe4a64e848c8fe39d042655d7c0ca0386d"
+
+[[files]]
+file = "kubejs/data/clutter/loot_tables/blocks/silver_coin_stack.json"
+hash = "cb5368f453b377c3bd9cd96352c390a01c944fb6db6667df8c78a6e0f9d86a4c"
+
+[[files]]
+file = "kubejs/server_scripts/BanList/Clutter.js"
+hash = "2682c7cdc628a33dd5f6630a71476cd2fb06bbb70b1e9baa71630a196ba158ef"
+
+[[files]]
+file = "kubejs/server_scripts/BanList/ExtraAlchemy.js"
+hash = "f17d981ae05582ff36857929c5e489b7490cc8fa43df20e1258e16cd44dbe952"
+
+[[files]]
+file = "kubejs/server_scripts/BanList/FarmersDelight.js"
+hash = "9f3306525e82b91b38057495f2e83bfb7262e4694c94ffa1ac54ce234b837c4a"
+
+[[files]]
+file = "kubejs/server_scripts/BanList/ModernDynamics.js"
+hash = "0938779f1485df0b0d053d3054ddc28c105350429e37f579e3c1528b53043f92"
+
+[[files]]
+file = "kubejs/server_scripts/BanList/MythicMetals.js"
+hash = "4822c677171d9d672250907408181722eed06c9160316de3fbd95f29367c8bbf"
+
+[[files]]
+file = "kubejs/server_scripts/BanList/Scannable.js"
+hash = "2e88d7b65403a6feec6428da31a1885fa43866c7d031f87f6402be0bc09ed13d"
+
+[[files]]
+file = "kubejs/server_scripts/BanList/Spelunkery.js"
+hash = "82fab74e64935e3a611b91a9c5a72bfb9a0062c28bcd6959aa1d4a8d91d4f542"
+
+[[files]]
+file = "kubejs/server_scripts/Custom Itens/Food.js"
+hash = "1f2fcbaf7a23f1a88710afb6c9144ec64586235b3e8d4897f44a054efb85f88e"
+
+[[files]]
+file = "kubejs/server_scripts/Farmer's Delight/pies.js"
+hash = "85e57bb31849f43f9c552ad036b916ef72c637db0233f99d0b5b96fc5e0fe1ed"
+
+[[files]]
+file = "kubejs/server_scripts/Farmer's Delight/tweaks.js"
+hash = "ecc5fc7c671bafcf48558cb5699bf396a103a7134633769178fb0d50ab81d6aa"
+
+[[files]]
+file = "kubejs/server_scripts/KubejsSpelunkeryBugfix/GrindstoneFixFunction.js"
+hash = "2fb4d5cf07cd0ce73c4ebff22605f4f4d794d8a3fdf9969e5e1c9bea2a90561f"
+
+[[files]]
+file = "kubejs/server_scripts/Minecraft/Blocks.js"
+hash = "5d675fa30e9199ca877647be450869cd3a08964aa8db165a977d7140069b7ce5"
+
+[[files]]
+file = "kubejs/server_scripts/Money System/Clutter.js"
+hash = "0d1c814ab8057041a053f3321fff47b6abbdab9fcf42d4d055d6b00084ca36a2"
+
+[[files]]
+file = "kubejs/server_scripts/Mythic Metals/Corrections.js"
+hash = "ea0948985d4f2bf24451a2d6a6cdffc5b6f306020cce48ebed8f457887031c52"
+
+[[files]]
+file = "kubejs/server_scripts/StarterKit/StarterKit.js"
+hash = "e878a9f8a986bd5315a7da46bb2a1c557e2ad76491d88db1e0a9a79fb03d4ca2"
+
+[[files]]
+file = "kubejs/startup_scripts/CustomBlocks/Clones.js"
+hash = "da8594c42dc5371f4fe575c3c19ea0e13c7dd387f2fe7191b111e32227738601"
+
+[[files]]
+file = "kubejs/startup_scripts/CustomBlocks/PhantomBlocks.js"
+hash = "5a51ef3f6a8e7bc2536296883732efd6e0cc8f35e9fecaeb476bf834f06a54b9"
+
+[[files]]
+file = "kubejs/startup_scripts/CustomItens/CustomEffect.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/startup_scripts/Food/Food.js"
+hash = "d8902c1d6955e70855e1a6e275f62e70c095a7194ccb0f10b6945a12d7289240"
+
+[[files]]
+file = "kubejs/startup_scripts/TheInBetween.js"
+hash = "ef34de81612d26826bfc34da15542de1876a53ce6dbbd5db0ec2f6e093ef8b2c"
+
+[[files]]
+file = "kubejs/startup_scripts/WorldGen/SaltOres.js"
+hash = "36e419deae06ba2f922e1d758667ca96329c5ba66a964edd3ebc65a2502163c8"
+
+[[files]]
+file = "kubejs/startup_scripts/WorldGen/SilverOres.js"
+hash = "75d5277a546b664a19b455ee55aa4b29566273e50c1c3fdd7be2ad4a06310938"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -1418,3 +1610,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "37e8ed24e75aaa95510ccee1ed19f7466106b9f16f0b49cb4644d6a6bea500f4"
