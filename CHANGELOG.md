@@ -1,15 +1,6 @@
 # Changelog
 
 
-## [0.3.2](https://github.com/Conquerix/The-InBetween/compare/v0.3.1...v0.3.2) (2023-12-24)
-
-
-### ☀ Modpack Changes
-
-* **client&server:** added gravity changer ([b1590ba](https://github.com/Conquerix/The-InBetween/commit/b1590ba25e92accbdc67ae40b2ec6f54287b1af6))
-* **client&server:** added the whole let's do series ([67a9fda](https://github.com/Conquerix/The-InBetween/commit/67a9fdaa3da941827f6748c05a18c5a8c77036de))
-* **client&server:** Added traveler's backpack ([d0bb114](https://github.com/Conquerix/The-InBetween/commit/d0bb114d99df3637bcac3a13ec7cb4b063e4138a))
-
 ## [0.3.1](https://github.com/Conquerix/The-InBetween/compare/v0.3.0...v0.3.1) (2023-11-05)
 
 
