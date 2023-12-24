@@ -335,6 +335,11 @@ hash = "2e84ccfb19ba6e255f7fb32366a7fb1921f84d364e146f1605b9f6016af5b0aa"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-difficulty.pw.toml"
 hash = "43d55c4a22d5d7fe3a55257be8e03dcdc7e4c8b0d4ffffdf14667a5203579b89"
 metafile = true
@@ -602,6 +607,36 @@ metafile = true
 [[files]]
 file = "mods/lanterns-bow.pw.toml"
 hash = "077bd2c2db737eec8e8c41b7faab34926cf96736e0d946cb4e1bb33db84857bf"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "e8d34c88f46c9b3aa1e21031242e7c76d18f53868633e5c20287128dd3a4696c"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "84d276a50ae27e39a70851c561b97073c06a089c9c749c27b4055591e0cd8de5"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "c7331a6b99d3d1e25c0e085a92f64a1541a40c9175e6ad4256546ace62c09a0d"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-cheese.pw.toml"
+hash = "ea5d3aa67c1f295bc2c3297ce610fe487993dfdad4e1e3e09b9f47a425b543b9"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "8355ce4b68bacae78eb33fd114c3756e7d22fa2f33a9b179e08bbd66f5865ee8"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-nethervinery.pw.toml"
+hash = "35a5ec85f5174df1e8220da271f5c380435d2cdff4293aa702ccd0201ee72ead"
 metafile = true
 
 [[files]]
@@ -1095,6 +1130,11 @@ hash = "c06f2c85ab73379e4e5845a3d3277f0f372cca7a6936f0239d4a33e85fe035e7"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
+metafile = true
+
+[[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "e23510ac34f83b29895fdefc6397a62f87042a05fb7a358f8433acfdbfa84f52"
 metafile = true
@@ -1182,6 +1222,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "53b56f21d3df1e98653a76b36658e74ebf9d39aa8d5f47a7bfba5c882e0e251f"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "5d2637954e0654914458f6589f83f19e9b6fb717ef62b4c05e1e2fab297caa53"
 metafile = true
 
 [[files]]
