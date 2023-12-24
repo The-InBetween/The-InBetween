@@ -1,13 +1,13 @@
 name = "Equipment Compare"
-filename = "EquipmentCompare-1.20.1-fabric-1.3.7.jar"
+filename = "EquipmentCompare-1.20.1-fabric-1.3.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/nYI4tEpt/EquipmentCompare-1.20.1-fabric-1.3.7.jar"
+url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/zd7UkhQX/EquipmentCompare-1.20.1-fabric-1.3.8.jar"
 hash-format = "sha1"
-hash = "3327799e9457169b0570f524df3dcf0082401f30"
+hash = "3ab18835aaa4002d8d2aa83efa8d10ee9605b200"
 
 [update]
 [update.modrinth]
 mod-id = "CYSUVOdj"
-version = "nYI4tEpt"
+version = "zd7UkhQX"

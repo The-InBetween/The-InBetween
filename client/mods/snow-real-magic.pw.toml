@@ -1,13 +1,13 @@
 name = "Snow! Real Magic! ⛄"
-filename = "SnowRealMagic-1.20.1-fabric-9.0.3.jar"
+filename = "SnowRealMagic-1.20.1-fabric-10.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iJNje1E8/versions/cAvNq8Rl/SnowRealMagic-1.20.1-fabric-9.0.3.jar"
+url = "https://cdn.modrinth.com/data/iJNje1E8/versions/CEyJdOSx/SnowRealMagic-1.20.1-fabric-10.2.1.jar"
 hash-format = "sha1"
-hash = "41c11953ffcc891b8e933a98d5b68d36c96e41cb"
+hash = "8a2685ffb99309d0c8f7043fb15e9ab0e47ccc2b"
 
 [update]
 [update.modrinth]
 mod-id = "iJNje1E8"
-version = "cAvNq8Rl"
+version = "CEyJdOSx"
