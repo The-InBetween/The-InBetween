@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.4.0](https://github.com/Conquerix/The-InBetween/compare/v0.3.1...v0.4.0) (2023-12-24)
+
+
+### Features
+
+* **client&server:** added kubejs config and default options provided by Ramon (thx\!) ([cba34b9](https://github.com/Conquerix/The-InBetween/commit/cba34b9044e8e7ebe71a9c8f86498873654b5365))
+
 ## [0.3.1](https://github.com/Conquerix/The-InBetween/compare/v0.3.0...v0.3.1) (2023-11-05)
 
 
