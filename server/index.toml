@@ -782,6 +782,11 @@ hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "1933b4aad3a067d26efcd890c2edebcacbe159af56efe5765b5fcc694f4b82da"
 metafile = true
