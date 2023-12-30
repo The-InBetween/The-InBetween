@@ -244,7 +244,7 @@ key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:0.0905077262693157
+soundCategory_master:0.3005077262693157
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.4014084507042254
