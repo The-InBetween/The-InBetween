@@ -1197,11 +1197,6 @@ hash = "6248ebae46ea53ecb7e48f572e5860ba1632de7ed08293144ba7fab4d763ed38"
 metafile = true
 
 [[files]]
-file = "mods/scriptor-magicae.pw.toml"
-hash = "164ff2463a3f324231c0fa4043d099e8b0fa2297b2278c5e4eae4bc31b6522d7"
-metafile = true
-
-[[files]]
 file = "mods/silk.pw.toml"
 hash = "f646ace7d1ba816e9753d98da2acb72bec0f59510ca7040709caea312e6f930b"
 metafile = true
