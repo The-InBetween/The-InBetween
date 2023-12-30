@@ -382,11 +382,6 @@ hash = "61cd9aad64f42508c0cf4d13f9b8654d201936fee73b593ea2a36f04d03895f0"
 metafile = true
 
 [[files]]
-file = "mods/brewery.pw.toml"
-hash = "1ddc5ac5966ce63b0cfeb5a6f3afda27d33c0a51986f822ef7efb55853f067d4"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
