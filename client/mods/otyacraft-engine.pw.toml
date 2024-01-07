@@ -1,0 +1,13 @@
+name = "Otyacraft Engine"
+filename = "otyacraftengine-fabric-mc1.20-3.7.0-alpha.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iu3upNjC/versions/PyTCnFKv/otyacraftengine-fabric-mc1.20-3.7.0-alpha.2.jar"
+hash-format = "sha1"
+hash = "95c1ae09a1beb09edf2e7dfcfdd3111d51124d7c"
+
+[update]
+[update.modrinth]
+mod-id = "iu3upNjC"
+version = "PyTCnFKv"

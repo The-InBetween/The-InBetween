@@ -1,8 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/.puzzle_cache/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "d285d07e8bedb9e760fb677e774f90399093e4f73a45e79d5245997a4e98aa44"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "397af76b0fbf71e0382df17f412a03124f96fe5557f38644fe101fbce36a60b5"
+
+[[files]]
+file = "config/artifacts/common.json5"
+hash = "aa3268a5958af87c91ed8aa40a2a3f58fc467c964866ba27b57ad7b722c9267e"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "de4214013e7e62d43d5ea34d2b0bd44498e986ec19d9c1fb46cb5cef5a1be14f"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "74ed0fc494f4a95556ce1de0a00a3cf31688a8a4de4a0a009a557b563ed65a2b"
+
+[[files]]
+file = "config/client.properties"
+hash = "9ddcbb0595d3485bd36f4520dff3fea2460a04ede66bd9a06bebb543dc4a4710"
+
+[[files]]
+file = "config/common.properties"
+hash = "41014a7d90e0baf941381b91533735ab6e0ffbf45215fabe5e06b1ddb58bac8f"
+
+[[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "7fa2f235ebb01af5ec834ea653659dc368c18a06d2ab94cf5cf2759fecea1ab6"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "72fdbe4d6d891230b8475812e551d7610567aef9b78ae13cb27afd0ab4d6458d"
+
+[[files]]
+file = "kubejs.md"
+hash = "56661be566da6e37f1c6bc187259e5c77027180dc72101ee860d3bfbd3626231"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -15,6 +63,10 @@ hash = "e1bc65cc35c46cfe7a87ade222400d0f919edc6e4c155f4dadf670b8c1c30742"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/phantom_stone.png"
+hash = "0096954ee757a2184f96e5e300953a6c41855ee49e8e5ad90aeeb0444953fd9d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/stone.png"
@@ -47,6 +99,18 @@ hash = "f0f30c016f1d0e66e4e1ee7d858c303f68cbc5e9fe61019d4ecb1b8c58855c9c"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/tiramisu.png"
 hash = "6105822b70e04cb61be3229909bebaa8131fb9ab876338fc9a0b5c3a403a9a75"
+
+[[files]]
+file = "kubejs/assets/minecraft/texts/splashes.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
+hash = "ff314755891ffe0b3a5c87c07822b52853e39942ee4350def28c6a4a860bf29b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "be0f5d85a705eb50dbd3092a2c0a0e1f205c4249da3cd2fdb21f6f68d9e2be85"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -130,11 +194,11 @@ hash = "4822c677171d9d672250907408181722eed06c9160316de3fbd95f29367c8bbf"
 
 [[files]]
 file = "kubejs/server_scripts/BanList/Scannable.js"
-hash = "2e88d7b65403a6feec6428da31a1885fa43866c7d031f87f6402be0bc09ed13d"
+hash = "a34183d74676da4667ec489a96adb7eabef0314edd734f944dd5b31cd5c72ea7"
 
 [[files]]
 file = "kubejs/server_scripts/BanList/Spelunkery.js"
-hash = "82fab74e64935e3a611b91a9c5a72bfb9a0062c28bcd6959aa1d4a8d91d4f542"
+hash = "17bee7a54f3090c481ae4c8cfe56095942527036be340587f89652b575d0a8ea"
 
 [[files]]
 file = "kubejs/server_scripts/Custom Itens/Food.js"
@@ -807,6 +871,10 @@ hash = "da490404debedd5439d0b12b9d585405a8bec58e6de6fd04b13ce5a806ceaca9"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-607.jar"
+hash = "4d5faefe26e91e547966ffab61969cfded4dd36b29fe66d3434192c2b6e3e171"
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -1190,6 +1258,10 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
+
+[[files]]
+file = "mods/paucal-fabric-1.20.1-0.6.0-pre-118.jar"
+hash = "8b30d6dbca637a0bea8adf58cab1cbe96d4b6083317162381b70305098a12361"
 
 [[files]]
 file = "mods/pehkui.pw.toml"
@@ -1648,4 +1720,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "37e8ed24e75aaa95510ccee1ed19f7466106b9f16f0b49cb4644d6a6bea500f4"
+hash = "dba8e1e58245b07a4311c97e7dcb0db40ea25a8ee743c8977a50537410dee6df"
