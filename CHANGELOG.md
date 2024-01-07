@@ -1,6 +1,26 @@
 # Changelog
 
 
+## [0.4.1](https://github.com/Conquerix/The-InBetween/compare/v0.4.0...v0.4.1) (2023-12-30)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** add experience remover, will be used at the beginning of the server ([f54df47](https://github.com/Conquerix/The-InBetween/commit/f54df471116cb959d9a2c78a9cd941e4cd6f8bec))
+* **client&server:** Added beta build of hex casting ([fc242e0](https://github.com/Conquerix/The-InBetween/commit/fc242e0fd9a108014abdd7a2d55f6162970dde81))
+* **client&server:** added JEI for better recipes integrations in EMI ([c90544a](https://github.com/Conquerix/The-InBetween/commit/c90544aba55316c1de428b0e4c05bf48200dda54))
+* **client&server:** added Overflowing Bars ([f2cff2e](https://github.com/Conquerix/The-InBetween/commit/f2cff2ec7c43c0cd63d8ff7ce6da47550c26faf1))
+* **client&server:** added some create addons ([858ca9d](https://github.com/Conquerix/The-InBetween/commit/858ca9dd442a312bcba3ecb6f4d05cf84324d0af))
+* **client&server:** added wicked paintings for custom images ingame ([7d71f5a](https://github.com/Conquerix/The-InBetween/commit/7d71f5a1f4c58a505b8cd13e5f87839d2f87070b))
+* **client&server:** IAM Music player ([4d07d78](https://github.com/Conquerix/The-InBetween/commit/4d07d7851ff7e4ce1eca75b1ed18c1df78fe28e5))
+* **client&server:** removed brewery ([eccc0a5](https://github.com/Conquerix/The-InBetween/commit/eccc0a51f8b4cb28770271878ba6c3d8a08a2f64))
+* **client&server:** removed scriptor magicae ([7488060](https://github.com/Conquerix/The-InBetween/commit/7488060c29775420911f2f111639cddf6baac5ee))
+
+
+### ⚘ Modpack Updates
+
+* **client&server:** updated configs and kubejs scripts ([ee2e023](https://github.com/Conquerix/The-InBetween/commit/ee2e0231b5738ea5c9e836cfc138aea928cbbcf0))
+
 ## [0.4.0](https://github.com/Conquerix/The-InBetween/compare/v0.3.2...v0.4.0) (2023-12-24)
 
 
