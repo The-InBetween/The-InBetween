@@ -875,6 +875,11 @@ file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-607.jar"
 hash = "4d5faefe26e91e547966ffab61969cfded4dd36b29fe66d3434192c2b6e3e171"
 
 [[files]]
+file = "mods/hexdim.pw.toml"
+hash = "6519868350b3491b263ed9c5467315e6b4dc99195de991238b911aee1fbba802"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -1032,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/lockbox.pw.toml"
+hash = "91da4da06c531748b1937430770cbc9e6d85b3bbb439c81dc285e70cdddce833"
 metafile = true
 
 [[files]]
