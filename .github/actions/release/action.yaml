@@ -75,7 +75,7 @@ runs:
           loaders: ${{ inputs.loader }}
           game-versions: ${{ inputs.game-version }}
           changelog-file: CHANGELOG.release.*
-          files: "!The-InBetween-server-*.mrpack"
+          files: "The-InBetween-${{ steps.tag.outputs.tag }}.mrpack"
           version: ${{ steps.tag.outputs.tag }}
           version-type: ${{ steps.release-type.outputs.release-type }}
 
