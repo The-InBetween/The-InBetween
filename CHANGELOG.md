@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [0.4.2](https://github.com/Conquerix/The-InBetween/compare/v0.4.1...v0.4.2) (2024-01-08)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added a few QoL mods, a mod to remove exp from the game for early stages, as well as server side mods ([65a6e01](https://github.com/Conquerix/The-InBetween/commit/65a6e016752526c584eff92d9af6691d78d49ab1))
+* **server:** added world threader, universal perms ([d160e53](https://github.com/Conquerix/The-InBetween/commit/d160e538779ac91ff310ca8417af5396e358f403))
+
 ## [0.4.1](https://github.com/Conquerix/The-InBetween/compare/v0.4.0...v0.4.1) (2023-12-30)
 
 
