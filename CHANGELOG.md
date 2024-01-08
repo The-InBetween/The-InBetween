@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.4.3](https://github.com/Conquerix/The-InBetween/compare/v0.4.2...v0.4.3) (2024-01-08)
+
+
+### ♻ Bug Fixes
+
+* **client&server:** fixed CI/CD ([90f53ba](https://github.com/Conquerix/The-InBetween/commit/90f53ba745e69492e9d73b932ec8b8ef9bb82b99))
+
 ## [0.4.2](https://github.com/Conquerix/The-InBetween/compare/v0.4.1...v0.4.2) (2024-01-08)
 
 
