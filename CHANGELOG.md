@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [0.4.4](https://github.com/Conquerix/The-InBetween/compare/v0.4.3...v0.4.4) (2024-01-08)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added Not Enough Crashes ([fab1755](https://github.com/Conquerix/The-InBetween/commit/fab17559b3efe52974987813fe56edc70af69846))
+* **server:** removed worldthreader ([5089d47](https://github.com/Conquerix/The-InBetween/commit/5089d478a66d91638548ac6f10d0e1a2690e6e83))
+
 ## [0.4.3](https://github.com/Conquerix/The-InBetween/compare/v0.4.2...v0.4.3) (2024-01-08)
 
 
