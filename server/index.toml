@@ -1574,11 +1574,6 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
-file = "mods/worldthreader-1-5-0.pw.toml"
-hash = "868748c66ae3bac9d0eb8265eb943f0f8dd23c352b651d06a07e1be2b555226d"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
 hash = "51a1469a09df5c1587e5bce9170c1d3e665490ee74d695545b771c94fe90b0a0"
 metafile = true
