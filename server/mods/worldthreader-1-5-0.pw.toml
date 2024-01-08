@@ -1,0 +1,7 @@
+name = "WorldThreader-1.5.0"
+filename = "Worldthreader-1.5.0.jar"
+
+[download]
+url = "https://github.com/2No2Name/worldthreader/releases/download/mc1.20-1.5.0/Worldthreader-1.5.0.jar"
+hash-format = "sha256"
+hash = "1f5fb120cd548e83f84f2dd98b8dfbd4a1bf704489668d31a0880a8c001d0438"
