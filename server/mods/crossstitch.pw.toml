@@ -1,0 +1,13 @@
+name = "CrossStitch"
+filename = "crossstitch-0.1.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YkOyn1Pn/versions/dJioNlO8/crossstitch-0.1.6.jar"
+hash-format = "sha1"
+hash = "aba735301c683ed43d5f3361f532bf38f28116f2"
+
+[update]
+[update.modrinth]
+mod-id = "YkOyn1Pn"
+version = "dJioNlO8"

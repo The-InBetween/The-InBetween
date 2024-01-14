@@ -521,6 +521,11 @@ hash = "a700b9ee3a43f831e4d71c1c6cd816813975b61ebdb962297e95d71026d1e056"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "80298b747a1905798731066e4d8344aa2bb3367fb8b7d7492780cac46e9047f7"
 metafile = true
@@ -708,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
 metafile = true
 
 [[files]]
