@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.4.6](https://github.com/Conquerix/The-InBetween/compare/v0.4.5...v0.4.6) (2024-01-14)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** removed better compatibility checker (bug with gamedig for status page), not enough crash (crashes on startup...) and hexxy dimensions (same) ([f2784cf](https://github.com/Conquerix/The-InBetween/commit/f2784cf63b32ed98bd988efb99c7557160ec6ff5))
+
 ## [0.4.5](https://github.com/Conquerix/The-InBetween/compare/v0.4.4...v0.4.5) (2024-01-09)
 
 
