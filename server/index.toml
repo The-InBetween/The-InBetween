@@ -371,11 +371,6 @@ hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "18c538fa95d317fd1a64336d77a65e546063fea5f18e6e8bd5093886955b8b11"
-metafile = true
-
-[[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "6d8ae2857a1571e6c75f52943dc129e1e290ee6f451a16962e32b6e5ca83bf47"
 metafile = true
@@ -805,11 +800,6 @@ file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-607.jar"
 hash = "4d5faefe26e91e547966ffab61969cfded4dd36b29fe66d3434192c2b6e3e171"
 
 [[files]]
-file = "mods/hexdim.pw.toml"
-hash = "6519868350b3491b263ed9c5467315e6b4dc99195de991238b911aee1fbba802"
-metafile = true
-
-[[files]]
 file = "mods/holograms.pw.toml"
 hash = "16338925ca6723d1dc4a8927583ad3231c6539334f2a0a6b480501dc31db7c6f"
 metafile = true
@@ -1112,11 +1102,6 @@ metafile = true
 [[files]]
 file = "mods/not-just-biomes.pw.toml"
 hash = "a4f36795afe36f1589f4e186a01505394eb1343e533b985d82cb7ec8fe73dc6c"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "3ec6010e6922154637aa19d6523853262ff1eaff9cc8eaca10d800932139ad9e"
 metafile = true
 
 [[files]]
