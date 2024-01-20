@@ -1739,6 +1739,11 @@ hash = "8b3823d317c59eb742c14321afd82f5ad9d6081836507395107402d5160453f8"
 metafile = true
 
 [[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "ab14fa4abb9d0f32869b10db4d19536ff201e66ac60ae726ab9957e8fc0eb0c5"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
