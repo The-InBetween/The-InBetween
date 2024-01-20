@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [0.4.8](https://github.com/Conquerix/The-InBetween/compare/v0.4.7...v0.4.8) (2024-01-20)
+
+
+### ♻ Bug Fixes
+
+* **CI/CD:** updated to mc-publish v3.3 ([4edbc0c](https://github.com/Conquerix/The-InBetween/commit/4edbc0cf33748a3873c3eaceeb37a58879d028e0))
+
+## [0.4.7](https://github.com/Conquerix/The-InBetween/compare/v0.4.6...v0.4.7) (2024-01-20)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added blabber, heracles-for-blabber, archers, jewelry ([151c9a8](https://github.com/Conquerix/The-InBetween/commit/151c9a8f80c3d730315848d4e29d7713a23519f6))
+* **server:** added FabricProxy-lite and CrossStitch for proxy compatibility ([35c4995](https://github.com/Conquerix/The-InBetween/commit/35c4995419a4d52cbbfcd09702b5c3dd698862b2))
+
 ## [0.4.6](https://github.com/Conquerix/The-InBetween/compare/v0.4.5...v0.4.6) (2024-01-14)
 
 

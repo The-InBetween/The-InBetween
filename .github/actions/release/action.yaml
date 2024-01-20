@@ -68,7 +68,7 @@ runs:
 
       - name: Publish to Modrinth
         id: modrinth
-        uses: Kir-Antipov/mc-publish@v3.2
+        uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: ${{ inputs.MODRINTH-ID }}
           modrinth-token: ${{ inputs.MODRINTH-TOKEN }}
