@@ -656,6 +656,11 @@ hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-decay.pw.toml"
+hash = "5c699744683720e153132395493264541413cb9f628f20ac7e8315da7d2c073b"
+metafile = true
+
+[[files]]
 file = "mods/ender-zoology.pw.toml"
 hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
@@ -1206,6 +1211,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "fd1861c2fbfac935ba6829d64dfa9ea73119fd73681446bca3468badfed5be4c"
+metafile = true
+
+[[files]]
+file = "mods/player-events.pw.toml"
+hash = "a62e39d977f4b9008ea823a52bf5611f09f1b6f92a17bca76ced508230122cc6"
 metafile = true
 
 [[files]]
