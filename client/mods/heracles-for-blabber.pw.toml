@@ -1,0 +1,13 @@
+name = "Heracles For Blabber"
+filename = "HeraclesForBlabber-0.2.0+sha.804adad.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yGheyf6w/versions/8NcSAaN2/HeraclesForBlabber-0.2.0%2Bsha.804adad.jar"
+hash-format = "sha1"
+hash = "9cefca3c107eb2bcb93bfddea4c029a684834de1"
+
+[update]
+[update.modrinth]
+mod-id = "yGheyf6w"
+version = "8NcSAaN2"

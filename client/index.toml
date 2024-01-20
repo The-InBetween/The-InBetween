@@ -331,6 +331,11 @@ hash = "5c748ab475a65fbcc846feef01263f4d59061433d62fc66f9186f639ebfe67f0"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "faed1a8ed88b10decde5497566ccf4e18c425945fcfbc6078ffa8dc8f5600079"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -413,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "6d8ae2857a1571e6c75f52943dc129e1e290ee6f451a16962e32b6e5ca83bf47"
+metafile = true
+
+[[files]]
+file = "mods/blabber.pw.toml"
+hash = "4f76d3db70d3c88b851a136cfcd639db1eaa81f89e41c660df10a2d84a089aca"
 metafile = true
 
 [[files]]
@@ -861,6 +871,11 @@ hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
 
 [[files]]
+file = "mods/heracles-for-blabber.pw.toml"
+hash = "4d9d404f251e8bb76c83aaba0fbca0b6e99f47d8cc8ce0676f6e8d03a77825c7"
+metafile = true
+
+[[files]]
 file = "mods/heracles.pw.toml"
 hash = "da490404debedd5439d0b12b9d585405a8bec58e6de6fd04b13ce5a806ceaca9"
 metafile = true
@@ -932,6 +947,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "db00e88c7969739a30077850545c586108ae26ad0039686fc4d7513b8f4754b7"
 metafile = true
 
 [[files]]
