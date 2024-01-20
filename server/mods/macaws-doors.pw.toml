@@ -3,11 +3,11 @@ filename = "mcw-doors-1.1.0fabric-mc1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/ZGiWmpnm/mcw-doors-1.1.0fabric-mc1.20.1.jar"
 hash-format = "sha1"
 hash = "ed71048750b80a63c9fc440de2c302b305cbe58b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4649888
-project-id = 378646
+[update.modrinth]
+mod-id = "kNxa8z3e"
+version = "ZGiWmpnm"

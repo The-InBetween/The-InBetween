@@ -3,11 +3,11 @@ filename = "mcw-paintings-1.0.5-1.20.1fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/okE6QVAY/versions/CwHvP3Pz/mcw-paintings-1.0.5-1.20.1fabric.jar"
 hash-format = "sha1"
 hash = "dde22454bdccd63aefbd26d96b7f644ce576cf9c"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4848131
-project-id = 438116
+[update.modrinth]
+mod-id = "okE6QVAY"
+version = "CwHvP3Pz"

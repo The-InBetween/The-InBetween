@@ -1061,47 +1061,52 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "0932c8ad1a859145b09e4814bb1b2d18d872a4c819f659c55b6433548fde0ac7"
+hash = "17abe74fad17a8ad23797548cd53f3ef1b1abbbf9133f03c1bac359f3939ff27"
 metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "f0ce44bdefdd14c608f2be0970d56fadfc948cef86fb68c6b4dd95eb48ce6f34"
+hash = "b7efc357b35a9573ec6e623c4fdce341f542def22d39594c47e53086c79da1a6"
 metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "e10664b0746bc479d2659d93cea3363ef8eabb7c3b7011a51b4dd66262329fed"
+hash = "da4ab807bde0d83a4013f475fb0d48526409ff6785a7ba727b798b2ec9c92f28"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "aca145c5044f2ad8829d0b1ac60f9850ee2d6e1e890ead07f59e94a721b46d55"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "a04b07592ea5236f1dbc64a1bd4ea86c0751f44c4f1d760a192135d09939e292"
+hash = "3cce9f1dbcea475f00b9d0afe087799b438d058948c5d4c1a3d18f3cb6ddad57"
 metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "35ef52a6d47027b540e7d1822c2d0f59b5e7fa2fa1c67bf4452638407b3d5d42"
+hash = "7f304281faeb1e59631c07ffc9751b8eec46bfbf518b06cb809d56cd0006d19b"
 metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "05bc4fcf75ffecbc7a50670fe1115ace492462926dbe25efe4d5e0a6b62c5806"
+hash = "9493ea1f245cba5d2c28c3fc9aa17bd6f30772b2d1b287669b7dfef7a5becf01"
 metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "64105b687ee9ed92099baa4c3fe241c627b3613a5c19d30450f21a3a2204e37f"
+hash = "ff7f9a78ddd22c15bce7423ace021b91fec68e0eb3e323cc84116b47deca8e93"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "4adffcbf0c517f60b07e5d71a83e2251cd49134db5643ab4709b9a85388a9a40"
+hash = "7c84334b3ebbf21ff848aec88e969bff223858a39919ad9057ba84714c8f7d6c"
 metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "3629a2daff0b2fde2f9230f37c1cd4c50340e6f34186408f736b6f3bcbf0cb09"
+hash = "4c3dc1c93ec5be222f504f66c251fbb17a12f1bba04d59b1b34d959ee9d04e30"
 metafile = true
 
 [[files]]
