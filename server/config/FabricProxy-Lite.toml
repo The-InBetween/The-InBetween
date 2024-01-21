@@ -1,0 +1,4 @@
+hackOnlineMode = true
+hackEarlySend = true
+hackMessageChain = true
+secret = ""
