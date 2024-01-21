@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.4.10](https://github.com/Conquerix/The-InBetween/compare/v0.4.9...v0.4.10) (2024-01-21)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** removed artifacts, mimics are too unstable ([c301a60](https://github.com/Conquerix/The-InBetween/commit/c301a60e34defc51ff4becaa04d627bb91658112))
+
 ## [0.4.9](https://github.com/Conquerix/The-InBetween/compare/v0.4.8...v0.4.9) (2024-01-20)
 
 
