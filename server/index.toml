@@ -316,11 +316,6 @@ hash = "b2055dee0b1fe032fa50135c31bdc64ffbce693de782fe0c94852c2af54218d1"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "45e9ed825929aee685220a3625e94d89c5ba7c91557d2b8050b70c6008de1a7d"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
