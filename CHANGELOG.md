@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [0.4.9](https://github.com/Conquerix/The-InBetween/compare/v0.4.8...v0.4.9) (2024-01-20)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added enchantment decay, player events and nvidium ([a95ea95](https://github.com/Conquerix/The-InBetween/commit/a95ea9554bf285067f19ee13fb3c708f1c52711c))
+* **client&server:** migrated macaw's mods from curseforge to modrinth ([111fffc](https://github.com/Conquerix/The-InBetween/commit/111fffcb666e3ce32ae50f5ad7465accad3dc431))
+* **client&server:** removed bending and added yuusha townscape ([007cebe](https://github.com/Conquerix/The-InBetween/commit/007cebe48bd84fd993649cacf855f2b82198225a))
+
 ## [0.4.8](https://github.com/Conquerix/The-InBetween/compare/v0.4.7...v0.4.8) (2024-01-20)
 
 
