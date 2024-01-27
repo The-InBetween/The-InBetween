@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.5.1](https://github.com/Conquerix/The-InBetween/compare/v0.5.0...v0.5.1) (2024-01-27)
+
+
+### ♻ Bug Fixes
+
+* **server:** removed simlink that breaks ci/cd ([c3534e5](https://github.com/Conquerix/The-InBetween/commit/c3534e5ea3dddf597463e4f51dc2164f16fb5245))
+
 ## [0.5.0](https://github.com/Conquerix/The-InBetween/compare/v0.4.10...v0.5.0) (2024-01-27)
 
 
