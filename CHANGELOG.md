@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [0.5.0](https://github.com/Conquerix/The-InBetween/compare/v0.4.10...v0.5.0) (2024-01-27)
+
+
+### ★ Features
+
+* **client:** default options with yosbr ([c615293](https://github.com/Conquerix/The-InBetween/commit/c615293db4e5af0cd4d16c7593c886fd1309ddfc))
+
+
+### ☀ Modpack Changes
+
+* **client&server:** removed bewitchement, too unbalanced and unstable ([80638c2](https://github.com/Conquerix/The-InBetween/commit/80638c23c686be49b4e755ce146797770a021546))
+* **server:** added 'You thief' for better villager behaviour ([292ea74](https://github.com/Conquerix/The-InBetween/commit/292ea74fa6038d9948d0ed71e205869c2db9bb88))
+
 ## [0.4.10](https://github.com/Conquerix/The-InBetween/compare/v0.4.9...v0.4.10) (2024-01-21)
 
 
