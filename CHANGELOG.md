@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.5.2](https://github.com/Conquerix/The-InBetween/compare/v0.5.1...v0.5.2) (2024-01-28)
+
+
+### ⚘ Modpack Updates
+
+* **client&server:** Updated everything to latest version ([6b6011d](https://github.com/Conquerix/The-InBetween/commit/6b6011dd5a63491210b1dd45e3fecbb5792f022b))
+
 ## [0.5.1](https://github.com/Conquerix/The-InBetween/compare/v0.5.0...v0.5.1) (2024-01-27)
 
 
