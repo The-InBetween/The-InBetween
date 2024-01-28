@@ -49,6 +49,10 @@ file = "config/supplementaries-common.json"
 hash = "72fdbe4d6d891230b8475812e551d7610567aef9b78ae13cb27afd0ab4d6458d"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "dba8e1e58245b07a4311c97e7dcb0db40ea25a8ee743c8977a50537410dee6df"
+
+[[files]]
 file = "kubejs.md"
 hash = "56661be566da6e37f1c6bc187259e5c77027180dc72101ee860d3bfbd3626231"
 
@@ -1727,7 +1731,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "dba8e1e58245b07a4311c97e7dcb0db40ea25a8ee743c8977a50537410dee6df"

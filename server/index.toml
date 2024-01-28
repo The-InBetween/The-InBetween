@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "allowed_symlinks.txt"
+hash = "40c3e47deea9ed82f6509e575902df9d56a889a9dd3b8cc5c146651e7305ab79"
+
+[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/FabricProxy-Lite.toml"
+hash = "a0fd68e238253d5bda924628ddc6bdf056efe27b1809cdd133fd472b8e6b3612"
 
 [[files]]
 file = "config/almostunified/debug.json"
@@ -39,6 +47,18 @@ hash = "9ddcbb0595d3485bd36f4520dff3fea2460a04ede66bd9a06bebb543dc4a4710"
 [[files]]
 file = "config/common.properties"
 hash = "41014a7d90e0baf941381b91533735ab6e0ffbf45215fabe5e06b1ddb58bac8f"
+
+[[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "946b17fb452ef86633241b7cbd19536371be0a49f84043a015f87f318a495d8e"
+
+[[files]]
+file = "config/numismatic-overhaul.json5"
+hash = "e562a788282b183b980ef2a5092a01363e98dcbeeec8e61c52836e39650d2b60"
+
+[[files]]
+file = "config/origins_server.json"
+hash = "a4141d4559f501a03640c930484cb77461a2b4ef24d763adf51602163f5b33e4"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -1672,6 +1692,10 @@ metafile = true
 file = "mods/yuushya-townscape.pw.toml"
 hash = "ab14fa4abb9d0f32869b10db4d19536ff201e66ac60ae726ab9957e8fc0eb0c5"
 metafile = true
+
+[[files]]
+file = "ops.json"
+hash = "a3197b4a6fd8bd702ae3c271a2569e4d1b838d76d2ae231f3386d7dfb7647730"
 
 [[files]]
 file = "options.txt"
