@@ -1,0 +1,13 @@
+name = "You Thief: Remastered Edition"
+filename = "Youthief-1.3.0-FABRIC.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iW1mqMeb/versions/Q3Vsst1F/Youthief-1.3.0-FABRIC.jar"
+hash-format = "sha1"
+hash = "3a146c127a1d979bba501e168b62d7b67550baa8"
+
+[update]
+[update.modrinth]
+mod-id = "iW1mqMeb"
+version = "Q3Vsst1F"

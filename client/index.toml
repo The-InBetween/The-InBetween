@@ -1668,6 +1668,11 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "mods/you-thief-remastered-edition.pw.toml"
+hash = "6cd23284304c111808ac0cb5562a6a5e6c5b503644e89a14f459946c9a97b465"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
 metafile = true
