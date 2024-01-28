@@ -9,10 +9,6 @@ file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
 [[files]]
-file = "config/FabricProxy-Lite.toml"
-hash = "a0fd68e238253d5bda924628ddc6bdf056efe27b1809cdd133fd472b8e6b3612"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
 
@@ -67,6 +63,10 @@ hash = "7fa2f235ebb01af5ec834ea653659dc368c18a06d2ab94cf5cf2759fecea1ab6"
 [[files]]
 file = "config/supplementaries-common.json"
 hash = "72fdbe4d6d891230b8475812e551d7610567aef9b78ae13cb27afd0ab4d6458d"
+
+[[files]]
+file = "config/yosbr/config/FabricProxy-Lite.toml"
+hash = "a0fd68e238253d5bda924628ddc6bdf056efe27b1809cdd133fd472b8e6b3612"
 
 [[files]]
 file = "kubejs.md"
