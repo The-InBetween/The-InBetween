@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [0.5.4](https://github.com/Conquerix/The-InBetween/compare/v0.5.3...v0.5.4) (2024-01-28)
+
+
+### ☀ Modpack Changes
+
+* **client:** reverted reeze's sodium options to 1.6.5 ([080e346](https://github.com/Conquerix/The-InBetween/commit/080e346930ad09eb5b0dbc9b3ff14b5659fe8b4b))
+* **client:** reverted sodium extra to 0.5.1 ([1069d7c](https://github.com/Conquerix/The-InBetween/commit/1069d7ce403863a0ee876e682696aa590b9f1b0c))
+
 ## [0.5.3](https://github.com/Conquerix/The-InBetween/compare/v0.5.2...v0.5.3) (2024-01-28)
 
 
