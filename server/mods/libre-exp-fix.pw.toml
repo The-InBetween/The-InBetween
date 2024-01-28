@@ -1,13 +1,13 @@
 name = "LibreExpFix"
-filename = "libreexpfix-0.2.2b9-BETA-fabric.jar"
+filename = "libreexpfix-0.2.4+1.18b11-BETA-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qOQALrK4/versions/X37W2VAt/libreexpfix-0.2.2b9-BETA-fabric.jar"
+url = "https://cdn.modrinth.com/data/qOQALrK4/versions/35UlFRK3/libreexpfix-0.2.4%2B1.18b11-BETA-fabric.jar"
 hash-format = "sha1"
-hash = "23c0ca7f8c8eb8c7431e418a80d1f0ee1651b4e7"
+hash = "5fbd92a92a552e5b83c2107a73e818f4f483d13b"
 
 [update]
 [update.modrinth]
 mod-id = "qOQALrK4"
-version = "X37W2VAt"
+version = "35UlFRK3"

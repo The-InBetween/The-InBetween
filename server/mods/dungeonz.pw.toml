@@ -1,13 +1,13 @@
 name = "DungeonZ"
-filename = "dungeonz-1.0.3.jar"
+filename = "dungeonz-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/11jwniuC/versions/EGLBlhmV/dungeonz-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/11jwniuC/versions/ty1nvImD/dungeonz-1.0.4.jar"
 hash-format = "sha1"
-hash = "3d8cb5979fc73454fe651a304999dd0997ed2286"
+hash = "2aa2b0a84d054e5dbe09a517bbe52cb76ed7cf2c"
 
 [update]
 [update.modrinth]
 mod-id = "11jwniuC"
-version = "EGLBlhmV"
+version = "ty1nvImD"

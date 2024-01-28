@@ -1,13 +1,13 @@
 name = "Macaw's Paths and Pavings"
-filename = "mcw-paths-1.0.3fabric-mc1.20.1.jar"
+filename = "mcw-paths-1.0.4fabric-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VRLhWB91/versions/HG3jFdXg/mcw-paths-1.0.3fabric-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/VRLhWB91/versions/DXplmVbD/mcw-paths-1.0.4fabric-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "1d8d8ab234229151acf2718526862d68795a06b6"
+hash = "9023b6f955cae1e5a206b14ed455914fe50e0f52"
 
 [update]
 [update.modrinth]
 mod-id = "VRLhWB91"
-version = "HG3jFdXg"
+version = "DXplmVbD"
