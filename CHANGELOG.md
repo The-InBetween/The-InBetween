@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [0.5.5](https://github.com/Conquerix/The-InBetween/compare/v0.5.4...v0.5.5) (2024-01-28)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** updated hexcasting to more recent preview version, add you thief on client ([6876253](https://github.com/Conquerix/The-InBetween/commit/6876253e858ded1bff4e6e9976c5cd6aa0da994c))
+* **client&server:** updated to fabric 0.15.6 and remove runes curseforge version as it is already with modrinth ([b3e8ff7](https://github.com/Conquerix/The-InBetween/commit/b3e8ff77fd1e68b88a8976e90d3d581c5b433165))
+
 ## [0.5.4](https://github.com/Conquerix/The-InBetween/compare/v0.5.3...v0.5.4) (2024-01-28)
 
 
