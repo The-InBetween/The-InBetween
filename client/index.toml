@@ -695,6 +695,11 @@ hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -1266,6 +1271,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/packetauth.pw.toml"
+hash = "52f1a7be66b5ccf2b65413f5742ddb1ca6185898be913f1bee7ddf33501cd05e"
 metafile = true
 
 [[files]]

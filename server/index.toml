@@ -671,6 +671,11 @@ hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1a77b8c08f6fc9b8c76a7913821fadce77b86b9ba5a72a40a9643219e7418b86"
 metafile = true
