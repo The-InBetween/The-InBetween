@@ -1,0 +1,13 @@
+name = "Thoroughfabric"
+filename = "Thoroughfabric-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/98yN1fkj/versions/m88TIBPW/Thoroughfabric-1.0.jar"
+hash-format = "sha1"
+hash = "31e861bc7f1a6ae09da2ec18b9bb598a97f2a072"
+
+[update]
+[update.modrinth]
+mod-id = "98yN1fkj"
+version = "m88TIBPW"

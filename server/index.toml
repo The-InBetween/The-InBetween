@@ -376,6 +376,11 @@ hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "42d089fc2d7297668a93cc59f7f09eec2e2fc051c573f3f0f9f2832a40b5624b"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
 metafile = true
@@ -663,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/ender-zoology.pw.toml"
 hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
-metafile = true
-
-[[files]]
-file = "mods/enderman-overhaul.pw.toml"
-hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
 
 [[files]]
@@ -1471,6 +1471,11 @@ metafile = true
 [[files]]
 file = "mods/thermoo.pw.toml"
 hash = "54fe785c9621b135b5ffac90983b2812fcf3bd7e0af76ef48a408e739bd85d24"
+metafile = true
+
+[[files]]
+file = "mods/thoroughfabric.pw.toml"
+hash = "517da20029e8fb374a14d1a8d507493c98abc1e91eb06d62b8cd30443c961da9"
 metafile = true
 
 [[files]]
