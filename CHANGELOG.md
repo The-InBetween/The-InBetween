@@ -1,6 +1,20 @@
 # Changelog
 
 
+## [0.5.6](https://github.com/Conquerix/The-InBetween/compare/v0.5.5...v0.5.6) (2024-02-11)
+
+
+### ♻ Bug Fixes
+
+* **client:** fixed crash on new world with some numismatic config ([3b9e492](https://github.com/Conquerix/The-InBetween/commit/3b9e492abbb8ef67bdb734896e6901ff5ef5a39d))
+
+
+### ☀ Modpack Changes
+
+* **client&server:** Added thoroughfabric and better-archeology ([66b9c44](https://github.com/Conquerix/The-InBetween/commit/66b9c44fd3fe603a77579760cb79ed0d95426084))
+* **client&server:** removed you-thief and some styled mods, switch to TAB mod, added exposure and enderman overhaul ([093bed6](https://github.com/Conquerix/The-InBetween/commit/093bed68a4e362930a2f04c8c23b76fc02298b77))
+* **client:** Added packetauth ([d9a2d74](https://github.com/Conquerix/The-InBetween/commit/d9a2d74667567b07cd12d1ffeaba98daa3143695))
+
 ## [0.5.5](https://github.com/Conquerix/The-InBetween/compare/v0.5.4...v0.5.5) (2024-01-28)
 
 
