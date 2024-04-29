@@ -781,6 +781,11 @@ hash = "26c1620180c65d816280a96354065a9124696e71c1795b4a020c925cef21e271"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -1426,11 +1431,6 @@ metafile = true
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
 hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
-metafile = true
-
-[[files]]
-file = "mods/switchy-proxy.pw.toml"
-hash = "9d0aa3b51a3365e6b366d21a0e919f85ac33fdbb0f879e799e22a59d1287cb58"
 metafile = true
 
 [[files]]
