@@ -796,11 +796,6 @@ hash = "d5948f5f1d2b2214292483a8b5f9b3a05a290a8c282f79b2a07d1541c32f1b28"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "963099225c0452ef9446bb2c4c65df417283f165f899cd751e018592963c18be"
-metafile = true
-
-[[files]]
 file = "mods/do-api.pw.toml"
 hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
 metafile = true
