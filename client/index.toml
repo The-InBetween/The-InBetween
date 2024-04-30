@@ -1418,6 +1418,11 @@ hash = "0f8b2f7108e6cd0dbee05c3943a4304f1be26aa8dcd2bd0a75f5157743565e98"
 metafile = true
 
 [[files]]
+file = "mods/sidekick.pw.toml"
+hash = "90f159594737dc62b622b74967605886ababb32dbf883004a33b0b0f625d490b"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "f1864a3746f982d935d833b9697137031ad16c68ca3a080d00703b7da4834357"
 metafile = true
