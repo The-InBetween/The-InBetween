@@ -1,0 +1,20 @@
+{
+  "type": "advancement_reward",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{\"patchouli:book\": \"yuushya:yuushya_guidebook\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
