@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.7.0](https://github.com/Conquerix/The-InBetween/compare/v0.6.0...v0.7.0) (2024-05-01)
+
+
+### ★ Features
+
+* **client&server:** updated all mods ([ee75ed8](https://github.com/Conquerix/The-InBetween/commit/ee75ed8abe91c9aaa5a594a4f10f5d1b01de38ae))
+
 ## [0.6.0](https://github.com/Conquerix/The-InBetween/compare/v0.5.6...v0.6.0) (2024-05-01)
 
 
