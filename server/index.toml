@@ -883,6 +883,11 @@ hash = "a4f0a82e09bb2ad65e819ce3dc6333b67816aaefa152b4d92cdbe8e03685d177"
 metafile = true
 
 [[files]]
+file = "mods/extra-rpg-attributes.pw.toml"
+hash = "0d464f311712f84973fcf263c8e2f00b83c4dca7eadbf3975a975d8bdc5ca2de"
+metafile = true
+
+[[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "8fcc97c8788ad77b7587f4879e9e4ccac7bec43aeceeb7dcdb993eacc645c323"
 metafile = true
