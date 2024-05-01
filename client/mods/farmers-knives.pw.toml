@@ -1,13 +1,13 @@
 name = "Farmer's Knives [Fabric]"
-filename = "farmersknives-3.0.jar"
+filename = "farmersknives-3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uc3VdfLM/versions/vOQPIWJH/farmersknives-3.0.jar"
+url = "https://cdn.modrinth.com/data/uc3VdfLM/versions/dH5N4o0F/farmersknives-3.2.jar"
 hash-format = "sha1"
-hash = "ce55c553a6ef184aace382366ddd5ebb5e961f88"
+hash = "eb79d941a640f7abe75e0ba453e9c894384c3d3b"
 
 [update]
 [update.modrinth]
 mod-id = "uc3VdfLM"
-version = "vOQPIWJH"
+version = "dH5N4o0F"

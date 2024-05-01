@@ -1,13 +1,13 @@
 name = "Iam Music Player"
-filename = "iammusicplayer-fabric-mc1.20-3.22.0-alpha.3.jar"
+filename = "iammusicplayer-fabric-mc1.20-3.22.0-alpha.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZHHXRhiU/versions/G5MBrrub/iammusicplayer-fabric-mc1.20-3.22.0-alpha.3.jar"
+url = "https://cdn.modrinth.com/data/ZHHXRhiU/versions/PhJHdfCq/iammusicplayer-fabric-mc1.20-3.22.0-alpha.4.jar"
 hash-format = "sha1"
-hash = "ce06de5b966fa9fc9c0007a67adece4e2418d30c"
+hash = "e0917e15a6ac848874475d9d53266eb98aa23a7d"
 
 [update]
 [update.modrinth]
 mod-id = "ZHHXRhiU"
-version = "G5MBrrub"
+version = "PhJHdfCq"

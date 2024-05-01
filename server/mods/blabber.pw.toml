@@ -1,13 +1,13 @@
 name = "Blabber"
-filename = "blabber-1.4.1-mc1.20.1-standalone.jar"
+filename = "blabber-1.4.3-mc1.20.1-standalone.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2oRMVFgd/versions/CG76S9ZI/blabber-1.4.1-mc1.20.1-standalone.jar"
+url = "https://cdn.modrinth.com/data/2oRMVFgd/versions/JtPCQA4p/blabber-1.4.3-mc1.20.1-standalone.jar"
 hash-format = "sha1"
-hash = "ece5f06c43469d082084111343dd493b4c11a8d3"
+hash = "9daa54d3e9f266d537bbc469135df3fdc4995172"
 
 [update]
 [update.modrinth]
 mod-id = "2oRMVFgd"
-version = "CG76S9ZI"
+version = "JtPCQA4p"

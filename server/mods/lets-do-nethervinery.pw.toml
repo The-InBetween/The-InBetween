@@ -1,13 +1,13 @@
 name = "[Let's Do] NetherVinery"
-filename = "letsdo-nethervinery-fabric-2.0.2.jar"
+filename = "letsdo-nethervinery-fabric-1.2.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4TTDxtOx/versions/3rxdNWs6/letsdo-nethervinery-fabric-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/4TTDxtOx/versions/dO0EWzVH/letsdo-nethervinery-fabric-1.2.10.jar"
 hash-format = "sha1"
-hash = "797018b55d9343bf6ee3888e97c82166bdb91b82"
+hash = "7a5e994625c4688f3b0af8ed683295d6578f4f87"
 
 [update]
 [update.modrinth]
 mod-id = "4TTDxtOx"
-version = "3rxdNWs6"
+version = "dO0EWzVH"
