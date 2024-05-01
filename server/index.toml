@@ -1511,6 +1511,11 @@ hash = "6248ebae46ea53ecb7e48f572e5860ba1632de7ed08293144ba7fab4d763ed38"
 metafile = true
 
 [[files]]
+file = "mods/scorchful.pw.toml"
+hash = "038b8fc5c03c60b37216d03f19ffd52d6ea4af772ff01edeefb9912c4c0a8da8"
+metafile = true
+
+[[files]]
 file = "mods/sidekick.pw.toml"
 hash = "90f159594737dc62b622b74967605886ababb32dbf883004a33b0b0f625d490b"
 metafile = true
