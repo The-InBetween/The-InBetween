@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.1](https://github.com/Conquerix/The-InBetween/compare/v0.8.0...v0.8.1) (2024-05-01)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** switch back to normal create, fix for sodium implemented ! ([18e6049](https://github.com/Conquerix/The-InBetween/commit/18e6049122c322484a7be638701abaefbc53d1ce))
+
 ## [0.8.0](https://github.com/Conquerix/The-InBetween/compare/v0.7.0...v0.8.0) (2024-05-01)
 
 
