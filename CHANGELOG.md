@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.2](https://github.com/Conquerix/The-InBetween/compare/v0.8.1...v0.8.2) (2024-05-01)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added extra-rpg-attributes, it is a dependency of spellblades ([b37820c](https://github.com/Conquerix/The-InBetween/commit/b37820cea37aa36e7b02826f89f19ea5ccbd739d))
+
 ## [0.8.1](https://github.com/Conquerix/The-InBetween/compare/v0.8.0...v0.8.1) (2024-05-01)
 
 
