@@ -1,6 +1,32 @@
 # Changelog
 
 
+## [0.6.0](https://github.com/Conquerix/The-InBetween/compare/v0.5.6...v0.6.0) (2024-05-01)
+
+
+### ★ Features
+
+* **client&server:** updated Ramon's kubels scripts ([22e0a17](https://github.com/Conquerix/The-InBetween/commit/22e0a17495a4b7fdcafc1770c176f36ced319b1e))
+
+
+### ☀ Modpack Changes
+
+* **client&server:** add back scannable ([a5c7d6e](https://github.com/Conquerix/The-InBetween/commit/a5c7d6e39afaf3347100602dcf7548d574129ef2))
+* **client&server:** Add scorchful, to go with frostiful ([9d247df](https://github.com/Conquerix/The-InBetween/commit/9d247df07a2cbda64b56b2e81164a07be1d55dc9))
+* **client&server:** added figura' ([9fda9d3](https://github.com/Conquerix/The-InBetween/commit/9fda9d3cca3faff15801ca1ffb68296b6166736f))
+* **client&server:** Added sidekick for creative menu ([a76ee71](https://github.com/Conquerix/The-InBetween/commit/a76ee7146d88d97f2240535a80ba967bf5c61b06))
+* **client&server:** remove snow real magic, it's bugged ([cd5783d](https://github.com/Conquerix/The-InBetween/commit/cd5783dcdc63d3015ff4311f67f4ef0f317f7c97))
+* **client&server:** removed do a barrel roll :( (too bugged with gravity changing mod) ([5c2e0cb](https://github.com/Conquerix/The-InBetween/commit/5c2e0cbeadef7ca5c2b6e6ad697c0cb1f9a0e0b7))
+* **client&server:** removed packetauth, added dynamic view ([7b17322](https://github.com/Conquerix/The-InBetween/commit/7b1732240e7e423b0e29d4002f5ee8395394fed7))
+* **client&server:** removed scannable ([9aba438](https://github.com/Conquerix/The-InBetween/commit/9aba43843d408322798cdf3c6dd2974f05c63c15))
+* **client&server:** switch from farmer's delight fabric qhich is now deprecated to farmer's delight refabricated ([f117db3](https://github.com/Conquerix/The-InBetween/commit/f117db311dbabf07efe9ac57ad29dc9183939f5b))
+* **client:** added BSL shaders ([c95b77f](https://github.com/Conquerix/The-InBetween/commit/c95b77fae7fde4f74cc4794eb296118ef66ef461))
+* **client:** added Complementary Reimagined shaders ([f9bd5fc](https://github.com/Conquerix/The-InBetween/commit/f9bd5fc2cc374fe81fc8fb05cb547b47b1a9fc3f))
+* **client:** added Complementary Unbound shaders ([6d9db8a](https://github.com/Conquerix/The-InBetween/commit/6d9db8aa27b87a9c0da7395060a6e352344c0f83))
+* **client:** added Rethiking Voxel shaders ([b4e28e3](https://github.com/Conquerix/The-InBetween/commit/b4e28e3f7e29545bace6538f380ba504e9471785))
+* **server:** added command aliases ([4155dd3](https://github.com/Conquerix/The-InBetween/commit/4155dd35feb6f115dee674624f17b572c233c1ca))
+* **server:** removed switchy proxy ([7a10903](https://github.com/Conquerix/The-InBetween/commit/7a109035307dbd366c39290ccdca17e14cf66429))
+
 ## [0.5.6](https://github.com/Conquerix/The-InBetween/compare/v0.5.5...v0.5.6) (2024-02-11)
 
 
