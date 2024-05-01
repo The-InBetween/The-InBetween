@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.0](https://github.com/Conquerix/The-InBetween/compare/v0.7.0...v0.8.0) (2024-05-01)
+
+
+### ★ Features
+
+* **client&server:** update fabric version ([2f766f5](https://github.com/Conquerix/The-InBetween/commit/2f766f5314a32eb8e7754dc5a45c404f765ce151))
+
 ## [0.7.0](https://github.com/Conquerix/The-InBetween/compare/v0.6.0...v0.7.0) (2024-05-01)
 
 
