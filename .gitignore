@@ -6,7 +6,5 @@
 
 tmp
 
-# mcman: Exclude mcman build outputs
-**/server
 # mcman: Exclude local dotenv files
 **/.env

@@ -1450,11 +1450,6 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
-file = "mods/packetauth.pw.toml"
-hash = "52f1a7be66b5ccf2b65413f5742ddb1ca6185898be913f1bee7ddf33501cd05e"
-metafile = true
-
-[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "576d07620d82ba95eb403981a9ba96e1c8fb3098039c732a0c2598a199ef08ec"
 metafile = true
