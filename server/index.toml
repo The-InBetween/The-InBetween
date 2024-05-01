@@ -648,6 +648,11 @@ hash = "f292a7607f682264fa89245e1851c21bc654fedebf3c9b0d60decc275e512549"
 metafile = true
 
 [[files]]
+file = "mods/commandaliases.pw.toml"
+hash = "a2b51afdbe0583fa3f7678e0337ff548f951d41fa6929d3d4d46784f5b43354e"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "e6c2e19d2e8680c91d8259548946e96bf00eb5986ed9219e8182773c86519b28"
 metafile = true
