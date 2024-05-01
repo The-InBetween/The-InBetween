@@ -1569,6 +1569,11 @@ hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
 metafile = true
 
 [[files]]
+file = "mods/scannable.pw.toml"
+hash = "6248ebae46ea53ecb7e48f572e5860ba1632de7ed08293144ba7fab4d763ed38"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true

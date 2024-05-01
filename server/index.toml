@@ -1506,6 +1506,11 @@ hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
 metafile = true
 
 [[files]]
+file = "mods/scannable.pw.toml"
+hash = "6248ebae46ea53ecb7e48f572e5860ba1632de7ed08293144ba7fab4d763ed38"
+metafile = true
+
+[[files]]
 file = "mods/sidekick.pw.toml"
 hash = "90f159594737dc62b622b74967605886ababb32dbf883004a33b0b0f625d490b"
 metafile = true

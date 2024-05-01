@@ -1,0 +1,13 @@
+name = "Scannable"
+filename = "scannable-MC1.20.1-fabric-1.7.12+18ccb75.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YqFnwJHf/versions/hiTAjx1x/scannable-MC1.20.1-fabric-1.7.12%2B18ccb75.jar"
+hash-format = "sha1"
+hash = "93d8874da474f9251489ad2da859810dc00b57a0"
+
+[update]
+[update.modrinth]
+mod-id = "YqFnwJHf"
+version = "hiTAjx1x"
