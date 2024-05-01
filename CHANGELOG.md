@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.3](https://github.com/Conquerix/The-InBetween/compare/v0.8.2...v0.8.3) (2024-05-01)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added amendments as parts of supplementaries moved to it ([0eaa547](https://github.com/Conquerix/The-InBetween/commit/0eaa547bc3c35b6443c84f890385ee68ee5fda2f))
+
 ## [0.8.2](https://github.com/Conquerix/The-InBetween/compare/v0.8.1...v0.8.2) (2024-05-01)
 
 
