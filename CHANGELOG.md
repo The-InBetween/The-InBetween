@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.4](https://github.com/Conquerix/The-InBetween/compare/v0.8.3...v0.8.4) (2024-05-02)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** removed amendments, crash during world gen ([f758714](https://github.com/Conquerix/The-InBetween/commit/f7587147f191569a4eecb0b65feb1fa71a08ecaf))
+
 ## [0.8.3](https://github.com/Conquerix/The-InBetween/compare/v0.8.2...v0.8.3) (2024-05-01)
 
 
