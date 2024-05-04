@@ -1,0 +1,13 @@
+name = "Proxy Command Reloaded"
+filename = "proxy-command-fabric-1.0-7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZtZU4UiS/versions/ShtmteeE/proxy-command-fabric-1.0-7.jar"
+hash-format = "sha1"
+hash = "c9a0b410adbef9efb56e6a8c29900c0debc4de21"
+
+[update]
+[update.modrinth]
+mod-id = "ZtZU4UiS"
+version = "ShtmteeE"

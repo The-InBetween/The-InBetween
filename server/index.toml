@@ -1451,6 +1451,11 @@ hash = "4edb1d260abf93b2e69b319a44f2cbf26785850669dc28424bd678207c72f764"
 metafile = true
 
 [[files]]
+file = "mods/proxy-command-reloaded.pw.toml"
+hash = "4b4535dbae736344545b015a7447c387f02ebae44c72845ab3fd57cc302f8cbc"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
