@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [0.8.5](https://github.com/Conquerix/The-InBetween/compare/v0.8.4...v0.8.5) (2024-05-05)
+
+
+### ☀ Modpack Changes
+
+* **client:** Add keybinds galore ([f8fe1cd](https://github.com/Conquerix/The-InBetween/commit/f8fe1cda5ae747578af236ba2b2b1478f6b32dfe))
+* **server:** added proxy command reloaded to use proxy commands in commandblock ([b444b0a](https://github.com/Conquerix/The-InBetween/commit/b444b0a87dcab8d6a83d34fa2a957908f273309b))
+
 ## [0.8.4](https://github.com/Conquerix/The-InBetween/compare/v0.8.3...v0.8.4) (2024-05-02)
 
 
