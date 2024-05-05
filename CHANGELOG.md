@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.6](https://github.com/Conquerix/The-InBetween/compare/v0.8.5...v0.8.6) (2024-05-05)
+
+
+### ☀ Modpack Changes
+
+* **client:** Disable experience remover on the client for now ([cd1f7bd](https://github.com/Conquerix/The-InBetween/commit/cd1f7bdca71703c1b6659ad23917764009442a43))
+
 ## [0.8.5](https://github.com/Conquerix/The-InBetween/compare/v0.8.4...v0.8.5) (2024-05-05)
 
 
