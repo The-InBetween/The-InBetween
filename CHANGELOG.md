@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.8](https://github.com/Conquerix/The-InBetween/compare/v0.8.7...v0.8.8) (2024-05-07)
+
+
+### ☀ Modpack Changes
+
+* **client:** removed styled nicknames, not needed on client ([fc5d353](https://github.com/Conquerix/The-InBetween/commit/fc5d353af42353e1effdd2c90a94b026f2fda32d))
+
 ## [0.8.7](https://github.com/Conquerix/The-InBetween/compare/v0.8.6...v0.8.7) (2024-05-07)
 
 
