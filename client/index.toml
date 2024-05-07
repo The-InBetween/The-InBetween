@@ -1699,11 +1699,6 @@ hash = "f755f712bb78b28a4d128a24178accce8a6f418957adca184c5538b9327f493e"
 metafile = true
 
 [[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
-metafile = true
-
-[[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "eee741186fea663b9fcf6df201e8c611f97e88c2568a1d6cea271673a290253b"
 metafile = true
