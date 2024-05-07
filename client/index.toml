@@ -1230,6 +1230,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/loading-window.pw.toml"
+hash = "747acc969c8dff18a7a3af0059b85a6a69eb533a22517d0a1d625339c4a27a14"
+metafile = true
+
+[[files]]
 file = "mods/lockbox.pw.toml"
 hash = "91da4da06c531748b1937430770cbc9e6d85b3bbb439c81dc285e70cdddce833"
 metafile = true
