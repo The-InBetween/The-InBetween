@@ -1581,6 +1581,11 @@ hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
 metafile = true
 
 [[files]]
+file = "mods/staaaaaaaaaaaack.pw.toml"
+hash = "2fb670d7e2885bd32548660e4a5514430c0f08435ca92685ea1ba0b28d3a3729"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
