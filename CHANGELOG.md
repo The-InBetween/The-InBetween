@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [0.8.7](https://github.com/Conquerix/The-InBetween/compare/v0.8.6...v0.8.7) (2024-05-07)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added item obliterator ([8258301](https://github.com/Conquerix/The-InBetween/commit/8258301e6456b6684b1a40730dbdcec6d5cd8ed6))
+* **client&server:** added nerb ([ca36e7b](https://github.com/Conquerix/The-InBetween/commit/ca36e7bb6bbe5aba7c1cd70795126287c1cdd8d8))
+* **client&server:** added noisium for even better world generation ([b4a35b2](https://github.com/Conquerix/The-InBetween/commit/b4a35b2daaee5a3e12aca6e20631b0b41dd4de00))
+* **client&server:** added thermoo patches for better compatibility between mods with temperature ([b035833](https://github.com/Conquerix/The-InBetween/commit/b035833dd75039fa8b7beb6d377156674276ebd2))
+* **client:** added catpuccin mocha blue texture pack ([449fd66](https://github.com/Conquerix/The-InBetween/commit/449fd667717ab82078c8907ad3fca3239b79051f))
+* **client:** added loading screen ([4389070](https://github.com/Conquerix/The-InBetween/commit/4389070135d48b078c6c8e02c96520094fdb431c))
+* **server:** added joinleavemessages to hide those message on each server in favor of network wide messages ([269b7fe](https://github.com/Conquerix/The-InBetween/commit/269b7fefc3c1a3d5d732b3f16ad242a642bd3abf))
+* **server:** added servercore for better optimizations ([21b1ff2](https://github.com/Conquerix/The-InBetween/commit/21b1ff2e73a260ff68376fc91b287c0485a95778))
+* **server:** added staaaaaaaaaaaack for optimization on dropped items ([d2e4c21](https://github.com/Conquerix/The-InBetween/commit/d2e4c21cf15461dc74a84f2d2e5a9a0bb52d239a))
+* **server:** removed dynview in favor of servercore ([6e6c6e4](https://github.com/Conquerix/The-InBetween/commit/6e6c6e4e1f4180085c4f70e7cdcb57dea5bf0e34))
+
 ## [0.8.6](https://github.com/Conquerix/The-InBetween/compare/v0.8.5...v0.8.6) (2024-05-05)
 
 
