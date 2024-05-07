@@ -1067,6 +1067,11 @@ hash = "9c440b128787446aceeac944eb692793dd24e4596c23d0adfd64a76706ca774d"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "7ef9eaadf1dbe30b54bb36294ad838277bad60ac1e04b26cae83fb6139cb3994"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
@@ -1314,6 +1319,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
