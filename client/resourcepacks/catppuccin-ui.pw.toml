@@ -1,0 +1,13 @@
+name = "Catppuccin UI"
+filename = "Catppuccin Mocha Blue.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S3nUv9ws/versions/K6WwLhuZ/Catppuccin%20Mocha%20Blue.zip"
+hash-format = "sha1"
+hash = "88645470717c852a1a803260b56f483ccb9dcd97"
+
+[update]
+[update.modrinth]
+mod-id = "S3nUv9ws"
+version = "K6WwLhuZ"
