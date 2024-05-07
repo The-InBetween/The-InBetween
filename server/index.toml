@@ -813,11 +813,6 @@ hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view-fabric.pw.toml"
-hash = "d9199e3e1d0c431a4fac4b7232718cf2b9fdc17d231471c351dd9090f16c551a"
-metafile = true
-
-[[files]]
 file = "mods/effect-tooltips.pw.toml"
 hash = "b6d227bed5d5e18fe5789c5209aa6668d62bd300f58add83ad826837312c5a01"
 metafile = true
