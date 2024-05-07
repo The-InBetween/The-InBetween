@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.8.9](https://github.com/Conquerix/The-InBetween/compare/v0.8.8...v0.8.9) (2024-05-07)
+
+
+### ☀ Modpack Changes
+
+* **client:** removed amecs, too bugged ([f3436a1](https://github.com/Conquerix/The-InBetween/commit/f3436a14d746e1908e9123cc0addc689a895309f))
+
 ## [0.8.8](https://github.com/Conquerix/The-InBetween/compare/v0.8.7...v0.8.8) (2024-05-07)
 
 
