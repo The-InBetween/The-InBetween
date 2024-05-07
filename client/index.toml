@@ -486,11 +486,6 @@ hash = "30928528b8739f0b3d708cef1f41a0099481be25fca54de4faf67d9e47410640"
 metafile = true
 
 [[files]]
-file = "mods/amecs.pw.toml"
-hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
