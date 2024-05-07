@@ -1087,6 +1087,11 @@ hash = "fcd6df67efdcf3fb109b0d0c0051eba085a18ea92ac64f8de482e7fa44051d63"
 metafile = true
 
 [[files]]
+file = "mods/joinleavemessages.pw.toml"
+hash = "b44985a6be97304102b419607c3e54054056a38163c7450a56b662ebb4ae3da6"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "1933b4aad3a067d26efcd890c2edebcacbe159af56efe5765b5fcc694f4b82da"
 metafile = true

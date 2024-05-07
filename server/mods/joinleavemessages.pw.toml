@@ -1,0 +1,13 @@
+name = "Join Leave Messages"
+filename = "joinleavemessages-fabric-1.19.3-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0GiFWNa/versions/Yvnr7JBa/joinleavemessages-fabric-1.19.3-2.0.0.jar"
+hash-format = "sha1"
+hash = "92c864f472ab7e03d67e257cb2fec8a8b02a7ce0"
+
+[update]
+[update.modrinth]
+mod-id = "e0GiFWNa"
+version = "Yvnr7JBa"
