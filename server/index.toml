@@ -1536,6 +1536,11 @@ hash = "038b8fc5c03c60b37216d03f19ffd52d6ea4af772ff01edeefb9912c4c0a8da8"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
+metafile = true
+
+[[files]]
 file = "mods/sidekick.pw.toml"
 hash = "90f159594737dc62b622b74967605886ababb32dbf883004a33b0b0f625d490b"
 metafile = true
