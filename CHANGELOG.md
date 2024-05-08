@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [0.9.0](https://github.com/Conquerix/The-InBetween/compare/v0.8.9...v0.9.0) (2024-05-08)
+
+
+### ★ Features
+
+* **client&server:** added inventory sorter config ([7dbd66c](https://github.com/Conquerix/The-InBetween/commit/7dbd66cbb791e40d8a88c25819c0a0e21b647116))
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added inventory sorting ([afa2020](https://github.com/Conquerix/The-InBetween/commit/afa202070f4e7050be3ad619498ccfc2de76d162))
+
 ## [0.8.9](https://github.com/Conquerix/The-InBetween/compare/v0.8.8...v0.8.9) (2024-05-07)
 
 
