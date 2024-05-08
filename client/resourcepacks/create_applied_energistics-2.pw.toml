@@ -1,0 +1,13 @@
+name = "Create: Applied Energistics 2"
+filename = "Create_Applied_Energistics_2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wNukWjYj/versions/Bs7kIwYJ/Create_Applied_Energistics_2.zip"
+hash-format = "sha1"
+hash = "69d11e76d636a372f08a314d28624edd855eecae"
+
+[update]
+[update.modrinth]
+mod-id = "wNukWjYj"
+version = "Bs7kIwYJ"
