@@ -813,6 +813,11 @@ hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
+metafile = true
+
+[[files]]
 file = "mods/effect-tooltips.pw.toml"
 hash = "b6d227bed5d5e18fe5789c5209aa6668d62bd300f58add83ad826837312c5a01"
 metafile = true
