@@ -1539,6 +1539,11 @@ hash = "5f90796765960f0fd2983895ceb3f345bd723ff826d24b4f291fa6256f4ce002"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "85cae3c368c0405f81d078a73a0857f5da1db8f7a027658ab9607944ff8f225e"
+metafile = true
+
+[[files]]
 file = "mods/ponder.pw.toml"
 hash = "798aba2ebd0851aa6c5d653026753dae54595149c0e485e252a4992b4370c013"
 metafile = true
