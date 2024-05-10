@@ -1155,11 +1155,6 @@ hash = "0f71621acc8bcbc4b3199914f7b6c54b55fe01cac0cc3d3d37a64fd5a4edb354"
 metafile = true
 
 [[files]]
-file = "mods/keybindsgalore-1.20.x-(hvb007).pw.toml"
-hash = "78b504bace3ebbd103bcf7c9dfc495e06544d4d100af469e51d4c307d0267c15"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "fb9a8b75817889fe8bc7e58194eb1c092ab09c48c588505db99c96cef6e54bb3"
 metafile = true
