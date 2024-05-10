@@ -563,6 +563,11 @@ hash = "8661452972ef497ed18fc5ef81e3ab8aababe1e40ece7df049dd47c77e7b52e0"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "bcac9bb680ef83b99bacc8e96bd4f77372f5360d49083ad4d53a6b0412f386ed"
+metafile = true
+
+[[files]]
 file = "mods/biome-spawn-point.pw.toml"
 hash = "cf93ccf79cd1df83681e08b74019060ed475fe6885c780b21f682143abcd391c"
 metafile = true
