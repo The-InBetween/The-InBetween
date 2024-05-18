@@ -911,11 +911,6 @@ hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
 metafile = true
 
 [[files]]
-file = "mods/experience-remover.pw.toml"
-hash = "d839ac275b149926ec810532112eae6e64ab734eba0b38cf9e32b92109926c69"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
 metafile = true
