@@ -823,11 +823,6 @@ hash = "c3f740612bea93485d917787e8a7fa9def95b110e84b89d251227b06a97ff9b4"
 metafile = true
 
 [[files]]
-file = "mods/dusk.pw.toml"
-hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
-metafile = true
-
-[[files]]
 file = "mods/edf-remastered.pw.toml"
 hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
