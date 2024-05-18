@@ -653,11 +653,6 @@ hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
-metafile = true
-
-[[files]]
 file = "mods/commandaliases.pw.toml"
 hash = "a2b51afdbe0583fa3f7678e0337ff548f951d41fa6929d3d4d46784f5b43354e"
 metafile = true
