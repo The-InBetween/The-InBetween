@@ -643,6 +643,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
 file = "mods/clutter.pw.toml"
 hash = "171297714b2fdf90eaed2001a5aeedae87b40aac045e4a53ecc4a741a1bb2579"
 metafile = true
