@@ -1,6 +1,32 @@
 # Changelog
 
 
+## [0.9.1](https://github.com/Conquerix/The-InBetween/compare/v0.9.0...v0.9.1) (2024-05-18)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added adventurez config ([3bc4e77](https://github.com/Conquerix/The-InBetween/commit/3bc4e7769f318bd76f804714df059ed44d2b1e54))
+* **client&server:** added applied energistics 2 (and a texture pack to make it look a bit like create) ([3afd576](https://github.com/Conquerix/The-InBetween/commit/3afd5762a28a2dae93d17a0b1df6c4afaaa528b5))
+* **client&server:** added create crafts & additions to generate energy from create for ae2 ([803c4c9](https://github.com/Conquerix/The-InBetween/commit/803c4c9434c10d3914904e626b1740e40625b4c0))
+* **client&server:** added polymorphic energistics ([5a7ff52](https://github.com/Conquerix/The-InBetween/commit/5a7ff5296623dbd4a8391fc7051d544f63dbc1f2))
+* **client&server:** configured item obliterator to removed some ae2 stuff ([0c3e23c](https://github.com/Conquerix/The-InBetween/commit/0c3e23cfe70204083e87de6e449c5d31316b87c0))
+* **client&server:** deactivated channel limits in ae2 ([e690939](https://github.com/Conquerix/The-InBetween/commit/e690939edc3120f75d90157fa90ef0acdf442ef8))
+* **client&server:** removed comforts (bugs with sleeping system) ([faf9d28](https://github.com/Conquerix/The-InBetween/commit/faf9d28de9d39f146e56e53efc8d86062b20dbc2))
+* **client&server:** removed experience remover, too mech hassle ([ef7a4d7](https://github.com/Conquerix/The-InBetween/commit/ef7a4d78574b3bc8b1612a9eace1a221adca27aa))
+* **client:** added ae2 emi integration ([a970e23](https://github.com/Conquerix/The-InBetween/commit/a970e2387d24233578fda77cd46a05149ef695b3))
+* **client:** added ae2 mouse tweaks fix ([74b0175](https://github.com/Conquerix/The-InBetween/commit/74b01754d5b6beb620359db1b74e5ea6afb31f54))
+* **client:** added debug keybind ([84cca66](https://github.com/Conquerix/The-InBetween/commit/84cca667cc557a3366291cfe3672ba1ce656f92e))
+* **client:** remove keybinds galore, because of some inconsistent behaviour ([137f81c](https://github.com/Conquerix/The-InBetween/commit/137f81cc95726df224ea148a2b0c9947ae2437e5))
+* **server:** added better fabric console ([d630a61](https://github.com/Conquerix/The-InBetween/commit/d630a612807d5529ec93eb44be16b93fafd4798f))
+* **server:** added edf remastered ([8beec27](https://github.com/Conquerix/The-InBetween/commit/8beec278ca4face40f6432dde5b835e0df5bf9d3))
+* **server:** added max enchant x config, limited protection to vanilla level ([039cd5d](https://github.com/Conquerix/The-InBetween/commit/039cd5d0736ebd9a37044264454d26719cd03864))
+* **server:** added spellblades config, disabled hexblade module ([3ba22a0](https://github.com/Conquerix/The-InBetween/commit/3ba22a0e51f4c3246ef1705d0e464682adc14ed9))
+* **server:** added styled-nicknames config ([aa54f9b](https://github.com/Conquerix/The-InBetween/commit/aa54f9b6bbee6939b7496b5db62d9cd424e331b1))
+* **server:** added universal graves config (disabled timers) ([827d92a](https://github.com/Conquerix/The-InBetween/commit/827d92a9958f09c3a83fffa4e6966cf1e03f19f5))
+* **server:** removed dusk, incompatibilities with other sleep mods ([bfd5fd4](https://github.com/Conquerix/The-InBetween/commit/bfd5fd4b7048a2192a8c23c6446d9156a82a755f))
+* **server:** removed time control, fucks up sleep system ([635bf83](https://github.com/Conquerix/The-InBetween/commit/635bf8397d882df128026f9af50d37673915f2e7))
+
 ## [0.9.0](https://github.com/Conquerix/The-InBetween/compare/v0.8.9...v0.9.0) (2024-05-08)
 
 
