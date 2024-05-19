@@ -1779,11 +1779,6 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
-file = "mods/time-control.pw.toml"
-hash = "b3cc1a570e0d17cff97d7af8f4b8c4ec9d8fc704d0eb1e1575dbfaa5fe785cb2"
-metafile = true
-
-[[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
 metafile = true
