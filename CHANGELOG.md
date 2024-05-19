@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [0.9.2](https://github.com/Conquerix/The-InBetween/compare/v0.9.1...v0.9.2) (2024-05-19)
+
+
+### ☀ Modpack Changes
+
+* **client:** removed debug keybind (redundant with betterF3) ([116f198](https://github.com/Conquerix/The-InBetween/commit/116f198ba91b4bcac96f6b58bb0ec1f74078809f))
+* **server:** added clumps ([b3500ec](https://github.com/Conquerix/The-InBetween/commit/b3500ecb7bb154b143399da1f477ee5e67012ef2))
+
 ## [0.9.1](https://github.com/Conquerix/The-InBetween/compare/v0.9.0...v0.9.1) (2024-05-18)
 
 
