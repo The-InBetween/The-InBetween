@@ -653,6 +653,11 @@ hash = "171297714b2fdf90eaed2001a5aeedae87b40aac045e4a53ecc4a741a1bb2579"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "e9b44c3f02864a9955000fb77b9521a905094d5d3b66cf84d7c5b7629f53e1dd"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
 metafile = true
@@ -1533,6 +1538,11 @@ metafile = true
 [[files]]
 file = "mods/pv-addon-whisper.pw.toml"
 hash = "c3e8d0f94318d2deb4ca9d9a05f18889315e046bffc72235213d9094d5c1d634"
+metafile = true
+
+[[files]]
+file = "mods/pyrotechnic-elytra.pw.toml"
+hash = "87df14a0d9513d622d46d529912a6d3176a460565efee9ff4657fb8c23bdd525"
 metafile = true
 
 [[files]]
