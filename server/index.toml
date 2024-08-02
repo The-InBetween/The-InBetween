@@ -969,11 +969,6 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-terraformers-compat.pw.toml"
 hash = "75041065d2a8be1b1aca15e0c8f13e045ab3e90bd6c0b3cbece6895a2bc87596"
 metafile = true
