@@ -1664,6 +1664,11 @@ hash = "f1864a3746f982d935d833b9697137031ad16c68ca3a080d00703b7da4834357"
 metafile = true
 
 [[files]]
+file = "mods/slash-length.pw.toml"
+hash = "a618e4740fc2e6bef7578ee637db2c4ef2e1aec6feceacdeebb6cc689dbcc57a"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
 metafile = true

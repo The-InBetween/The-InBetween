@@ -1,0 +1,13 @@
+name = "Slash Length"
+filename = "SlashLength-0.0.1+1.19.3+21.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nyFtqnBp/versions/Yh2ZpoMS/SlashLength-0.0.1%2B1.19.3%2B21.0.jar"
+hash-format = "sha1"
+hash = "f5483672cdfb18c19789fab9322f5b07ab5c7eba"
+
+[update]
+[update.modrinth]
+mod-id = "nyFtqnBp"
+version = "Yh2ZpoMS"
