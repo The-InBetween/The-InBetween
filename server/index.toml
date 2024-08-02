@@ -1814,11 +1814,6 @@ hash = "067f76a3a854f3b1c776d0c62b4f70c3d26447ce69857e5f1dca52f81d54efee"
 metafile = true
 
 [[files]]
-file = "mods/vanish.pw.toml"
-hash = "e39b6be6d8465829fe40a2e42d3a86dbde2266a7c7cf48ba2d5741baa1749cae"
-metafile = true
-
-[[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "58aa6f9e8041a3e6c5a5ee79e4fbd42185de5e32434172c3465da394a5eb7b19"
 metafile = true
