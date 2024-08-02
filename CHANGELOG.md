@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [0.10.2](https://github.com/The-InBetween/The-InBetween/compare/v0.10.1...v0.10.2) (2024-08-02)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** removed vein mining ([be7b2d7](https://github.com/The-InBetween/The-InBetween/commit/be7b2d7936a43697e957e8adf0d67bbd97f1b20a))
+* **client:** removed nvidium ([d6b9efb](https://github.com/The-InBetween/The-InBetween/commit/d6b9efb33baf971b8697943034b6cba14b8539b7))
+* **server:** removed client only mods that shouldn't be there ([4c7b05f](https://github.com/The-InBetween/The-InBetween/commit/4c7b05f7270e1b9a3aec350e14ef51321b3fc411))
+
 ## [0.10.1](https://github.com/The-InBetween/The-InBetween/compare/v0.10.0...v0.10.1) (2024-08-02)
 
 
