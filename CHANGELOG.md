@@ -1,6 +1,20 @@
 # Changelog
 
 
+## [0.10.3](https://github.com/The-InBetween/The-InBetween/compare/v0.10.2...v0.10.3) (2024-08-02)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** remove seasons delight compat ([0689b9e](https://github.com/The-InBetween/The-InBetween/commit/0689b9ebc888653a4c711487ec8c56755f4978fa))
+* **server:** put back original version of player events ([b9ec3a2](https://github.com/The-InBetween/The-InBetween/commit/b9ec3a209c982fa6fbe19a5936fbef63009c0a2a))
+* **server:** removed better fabric console, useless on pterodactyl ([5360169](https://github.com/The-InBetween/The-InBetween/commit/5360169e8b6f7efe7e97d07804b7f447a336437e))
+* **server:** removed command aliases ([9d20713](https://github.com/The-InBetween/The-InBetween/commit/9d20713bbe18f4b2cae3c1b04e8e1a160836067a))
+* **server:** Removed jump over fences, client only ([c002c99](https://github.com/The-InBetween/The-InBetween/commit/c002c9937966acc6bd9d2db2f34713bd972c1ce7))
+* **server:** replace back player events with the remastered version ([4ac6ab7](https://github.com/The-InBetween/The-InBetween/commit/4ac6ab7aff864d9ac6b2cf933efe25120244e1fe))
+* **server:** replaced vanish mod ([a146496](https://github.com/The-InBetween/The-InBetween/commit/a1464964ee4764985bdfbe3238aa236511c41ebc))
+* **server:** updated pv-addon-lavaplayer-lib ([6d0b657](https://github.com/The-InBetween/The-InBetween/commit/6d0b657a74e92ce257ca98e13b41969fc236986a))
+
 ## [0.10.2](https://github.com/The-InBetween/The-InBetween/compare/v0.10.1...v0.10.2) (2024-08-02)
 
 
