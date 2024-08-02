@@ -1155,6 +1155,11 @@ hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
 metafile = true
 
 [[files]]
+file = "mods/invisible-storage.pw.toml"
+hash = "ede87bf30b08a73e2f0de6f6f13164e98feb316e10e8bebc198d7147229c5038"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true

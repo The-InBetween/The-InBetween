@@ -1,0 +1,13 @@
+name = "Invisible Storage"
+filename = "invisible_storage-1.0.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZO8cjW0r/versions/mZouSHVa/invisible_storage-1.0.3.2.jar"
+hash-format = "sha1"
+hash = "a1e295761b0d3d728577debfa75da91f89130e79"
+
+[update]
+[update.modrinth]
+mod-id = "ZO8cjW0r"
+version = "mZouSHVa"
