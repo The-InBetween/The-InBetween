@@ -1830,11 +1830,6 @@ hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
 metafile = true
 
 [[files]]
-file = "mods/thermoo-patches.pw.toml"
-hash = "cd2ca4a9543b22e0296780f95459ad4ff4b54d7589fd90825c4356345300596b"
-metafile = true
-
-[[files]]
 file = "mods/thoroughfabric.pw.toml"
 hash = "517da20029e8fb374a14d1a8d507493c98abc1e91eb06d62b8cd30443c961da9"
 metafile = true
