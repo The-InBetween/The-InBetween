@@ -1540,7 +1540,7 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-lavaplayer-lib.pw.toml"
-hash = "879dcca8f5408e0ec21f02aa22e25c4c04eba21e994d1ac9317b9c96ac527a6e"
+hash = "fdb08fdfa90e3256888e288f31df700f0e84857c05868a1032664a1c9841c880"
 metafile = true
 
 [[files]]
