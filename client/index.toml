@@ -856,6 +856,11 @@ hash = "b697d478121490e0cbf645c9ba5e07fa758f0e595f278345e6b3640a5737c287"
 metafile = true
 
 [[files]]
+file = "mods/emienchants.pw.toml"
+hash = "e395cd7042592ab28ff8de5d89bd1070cce98c60cef43dc18d1dfe3e34546634"
+metafile = true
+
+[[files]]
 file = "mods/emiffect.pw.toml"
 hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
 metafile = true
@@ -1217,6 +1222,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-cheese.pw.toml"
 hash = "f96e3a84010932408835fd94c3112f1c87c9f0f2f1887f4435eff69364e6c7d0"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "3ad2434156ce935c1a6d9f4bc1c55dd5f8483c587e31a56c58b64e607484f5f7"
 metafile = true
 
 [[files]]
