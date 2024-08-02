@@ -1471,11 +1471,6 @@ hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
 metafile = true
 
 [[files]]
-file = "mods/pingspam.pw.toml"
-hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "22a206c019b90be7f15dbf7efeacdb74a7cbc58d5eea84650e80b54f828acb0b"
 metafile = true
