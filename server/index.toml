@@ -1029,11 +1029,6 @@ hash = "26c1620180c65d816280a96354065a9124696e71c1795b4a020c925cef21e271"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -1429,11 +1424,6 @@ hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
-metafile = true
-
-[[files]]
 file = "mods/not-just-biomes.pw.toml"
 hash = "a4f36795afe36f1589f4e186a01505394eb1343e533b985d82cb7ec8fe73dc6c"
 metafile = true
@@ -1456,11 +1446,6 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "36c437c28626eb8771bc414133072894e2451245b1ba1c6411716b08dc077e5f"
-metafile = true
-
-[[files]]
-file = "mods/overflowing-bars.pw.toml"
-hash = "997e81246b3d8ff635679e126481e62ce4a21979659c2ad11b0a46c778f95836"
 metafile = true
 
 [[files]]
