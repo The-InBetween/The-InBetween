@@ -1244,6 +1244,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "27df30bb49ab3e71eb57790364d3d01a71ecc7d797730d5c10fae4f8144e16fd"
+metafile = true
+
+[[files]]
 file = "mods/lockbox.pw.toml"
 hash = "91da4da06c531748b1937430770cbc9e6d85b3bbb439c81dc285e70cdddce833"
 metafile = true
