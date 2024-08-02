@@ -1,6 +1,40 @@
 # Changelog
 
 
+## [0.10.0](https://github.com/The-InBetween/The-InBetween/compare/v0.9.3...v0.10.0) (2024-08-02)
+
+
+### ★ Features
+
+* **server:** added base jvm args ([a735fdb](https://github.com/The-InBetween/The-InBetween/commit/a735fdbc5b4522561509ade07f884016471f4e11))
+* **server:** disabled unobtanium generation ([60c2564](https://github.com/The-InBetween/The-InBetween/commit/60c2564a79d8747320d1995c8017b2ced9602ea3))
+* **server:** removed origins config ([90c43fd](https://github.com/The-InBetween/The-InBetween/commit/90c43fdc4f391bb6d7a89f3bacecf665fe1f2b6c))
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added chipped ([5564a7a](https://github.com/The-InBetween/The-InBetween/commit/5564a7a00beaaed25b5ac98797410703069b802f))
+* **client&server:** Added client executor, server can launch client side commands ([43afdef](https://github.com/The-InBetween/The-InBetween/commit/43afdefe22daaaa8ca2015200b2156317a4e216e))
+* **client&server:** Added door knocking mod ([a341636](https://github.com/The-InBetween/The-InBetween/commit/a3416364acffb64146b53f7e862259ae6a824745))
+* **client&server:** Added easier gamemode commands ([bf40266](https://github.com/The-InBetween/The-InBetween/commit/bf402668530eb839bb49495a7122bf5f4d994a33))
+* **client&server:** Added fancy glass ([db70f6f](https://github.com/The-InBetween/The-InBetween/commit/db70f6f71b8ee574966cc950f46f486557f36f33))
+* **client&server:** Added invisible storage (hidden in a crafting table for example) ([0d966f4](https://github.com/The-InBetween/The-InBetween/commit/0d966f428bc9e0e88a5eab89a8f535286d72115b))
+* **client&server:** Added safelogin (invincible until you move after login) ([2331778](https://github.com/The-InBetween/The-InBetween/commit/23317784e4fc1fd4780aef2dbc00bc6eba58ea06))
+* **client&server:** removed fast move ([10a927a](https://github.com/The-InBetween/The-InBetween/commit/10a927a034f70f8e19f14f832c6e17dfa57b269c))
+* **client&server:** removed hexcasting ([7d58604](https://github.com/The-InBetween/The-InBetween/commit/7d5860463b31527d5178ca90e3fabccc69b393a3))
+* **client&server:** removed origins and tinkerer's statures ([bb64be2](https://github.com/The-InBetween/The-InBetween/commit/bb64be2836e1a5785abe74063b9b85fe4cdf299a))
+* **client&server:** removed scorchful and frostiful ([5469ca9](https://github.com/The-InBetween/The-InBetween/commit/5469ca9fb75d68595d18c68c62c0999e8024ec4c))
+* **client&server:** replaced stellarity by stellarity lite ([22173e0](https://github.com/The-InBetween/The-InBetween/commit/22173e003f164f63744cb8cec6d175df6dcdd35c))
+* **client:** added mod for Emi to fetch unknown custom recipes ([a86b142](https://github.com/The-InBetween/The-InBetween/commit/a86b1425c2825f84328d59afa9255d452e80609a))
+* **client:** Added more emi compat ([d2b7af7](https://github.com/The-InBetween/The-InBetween/commit/d2b7af7328089a6dc4cadf615d245e38e04051f7))
+* **client:** removed travelers titles ([1d4a7fe](https://github.com/The-InBetween/The-InBetween/commit/1d4a7fe80843c8a548c59b2fdd29df9e648bce61))
+* **client:** replaced falling leaves with particular ([82899b6](https://github.com/The-InBetween/The-InBetween/commit/82899b6166f5b6349e0589aea8ad9eb85d03c1c1))
+* **client:** Unlocked command length limit ([bfe69f8](https://github.com/The-InBetween/The-InBetween/commit/bfe69f8b256af47ed5414ebe2eceeebda648d6ad))
+* **server:** Added player head drop ([fda6092](https://github.com/The-InBetween/The-InBetween/commit/fda6092dfb60f9452e82d6c8d4618844be3d1298))
+* **server:** added pyrotechnic elytra (firework trails) ([51cae85](https://github.com/The-InBetween/The-InBetween/commit/51cae85e177d9a0a8047e65391ac0776d9ae9182))
+* **server:** removed pingspam ([d63621b](https://github.com/The-InBetween/The-InBetween/commit/d63621bd8f85bcea54aed9e821200144f6046f89))
+* **server:** replaced player events by it remastered version ([a65f870](https://github.com/The-InBetween/The-InBetween/commit/a65f8705d3b12f91e5c25219adcb3e1bbfacbd38))
+
 ## [0.9.3](https://github.com/Conquerix/The-InBetween/compare/v0.9.2...v0.9.3) (2024-05-19)
 
 
