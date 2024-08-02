@@ -1486,8 +1486,8 @@ hash = "4114b9fa83b7e3419215e8c5a79699e4de324b29115b4e7856a71b4df6ce1c84"
 metafile = true
 
 [[files]]
-file = "mods/player-events.pw.toml"
-hash = "a62e39d977f4b9008ea823a52bf5611f09f1b6f92a17bca76ced508230122cc6"
+file = "mods/player-events-remastered.pw.toml"
+hash = "34061c13c779baa966616ab9ba9d4926c48071a68333cd7c85b3f4b6f3c548fa"
 metafile = true
 
 [[files]]
