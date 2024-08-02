@@ -1491,6 +1491,11 @@ hash = "a62e39d977f4b9008ea823a52bf5611f09f1b6f92a17bca76ced508230122cc6"
 metafile = true
 
 [[files]]
+file = "mods/player-head-drop.pw.toml"
+hash = "6d3e02a49dd5eea2283caa27106531b47caef8baae8d3a961a2735ade65d6415"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Player Head Drop"
+filename = "player-head-drop-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PXqJtoVP/versions/Z3w5mmsR/player-head-drop-1.0.jar"
+hash-format = "sha1"
+hash = "655e8a157244499e4915a1eea19c34dce40b9a8e"
+
+[update]
+[update.modrinth]
+mod-id = "PXqJtoVP"
+version = "Z3w5mmsR"
