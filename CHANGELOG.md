@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [0.10.1](https://github.com/The-InBetween/The-InBetween/compare/v0.10.0...v0.10.1) (2024-08-02)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added lithostitched (dependency of CTOV) ([631d8c5](https://github.com/The-InBetween/The-InBetween/commit/631d8c55d77ae85283afebb5f1e3f905bb70cf38))
+* **client&server:** removed thermoo patches ([ed51809](https://github.com/The-InBetween/The-InBetween/commit/ed5180985741d28a81329f85b109e1624da375a4))
+* **client&server:** updated fabric version ([026db37](https://github.com/The-InBetween/The-InBetween/commit/026db3745ce9f683b65b27dcc7ebfc59c9da3ce0))
+
 ## [0.10.0](https://github.com/The-InBetween/The-InBetween/compare/v0.9.3...v0.10.0) (2024-08-02)
 
 
