@@ -1008,11 +1008,6 @@ hash = "936dfd9475496f8acba33470fd859de60f35ceae4ef0cd9eb888113f323aa9ac"
 metafile = true
 
 [[files]]
-file = "mods/frostiful.pw.toml"
-hash = "56ae585809c375e11bc1446a26eb3479ebdab4b75c3cbee30d9e17783bdd40eb"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
@@ -1606,11 +1601,6 @@ hash = "6248ebae46ea53ecb7e48f572e5860ba1632de7ed08293144ba7fab4d763ed38"
 metafile = true
 
 [[files]]
-file = "mods/scorchful.pw.toml"
-hash = "455660b0b5f460652cfc6b5beb753076d8a9a4b28ad8f279f7c92d04b9d1d752"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
@@ -1758,11 +1748,6 @@ metafile = true
 [[files]]
 file = "mods/thermoo-patches.pw.toml"
 hash = "cd2ca4a9543b22e0296780f95459ad4ff4b54d7589fd90825c4356345300596b"
-metafile = true
-
-[[files]]
-file = "mods/thermoo.pw.toml"
-hash = "43e3b35c7fd1ddf4a87326c271db962e95500715ad7df12290e79c9fcc861b38"
 metafile = true
 
 [[files]]
