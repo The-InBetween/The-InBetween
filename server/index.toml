@@ -1691,8 +1691,8 @@ hash = "1aac9c6e5f50c67f4586862f05fc5b8a7ac5df889b6774d80e14f5fab47f2db7"
 metafile = true
 
 [[files]]
-file = "mods/stellarity.pw.toml"
-hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
+file = "mods/stellarity-lite.pw.toml"
+hash = "267aa688283e03ef3139affdfc0ff1d0ea3df4ed8823d59ec9eb5eefcfc32f67"
 metafile = true
 
 [[files]]
