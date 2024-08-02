@@ -9,6 +9,14 @@ file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
 [[files]]
+file = "config/adventurez.json5"
+hash = "b0f93fcba6d28265c8db9630c6120e538b2766c7da1f4fc405fe9382c401a892"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "73b2f3a5fe329d3f2f43674bedd5b14ded3b25e6a13c825735c1e1965453bbe5"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
 
@@ -45,28 +53,56 @@ file = "config/common.properties"
 hash = "41014a7d90e0baf941381b91533735ab6e0ffbf45215fabe5e06b1ddb58bac8f"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "d11ca42164cc292a63799fead0beda561ad96e5e5a01f0062081f844b436dc78"
+
+[[files]]
 file = "config/luckperms/luckperms.conf"
 hash = "946b17fb452ef86633241b7cbd19536371be0a49f84043a015f87f318a495d8e"
+
+[[files]]
+file = "config/maxenchantx/config.ini"
+hash = "b583d282682567251cc59fe37929a04ed45cef43cbae9261fa81b3e957c13b72"
+
+[[files]]
+file = "config/mythicmetals-config.json5"
+hash = "ecc29d97a84f6b87d537ee95bffe520d5f08067dcc00cc0779798f581ab84a7a"
 
 [[files]]
 file = "config/numismatic-overhaul.json5"
 hash = "e562a788282b183b980ef2a5092a01363e98dcbeeec8e61c52836e39650d2b60"
 
 [[files]]
-file = "config/origins_server.json"
-hash = "a4141d4559f501a03640c930484cb77461a2b4ef24d763adf51602163f5b33e4"
-
-[[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "7fa2f235ebb01af5ec834ea653659dc368c18a06d2ab94cf5cf2759fecea1ab6"
+
+[[files]]
+file = "config/spellbladenext/server.json5"
+hash = "2cdd510bbbcdbf379a54b815661a71414a5671133ea60d8865306cede417a9a3"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "de1424a61aee199bc1c06a595b8d6e57478fc04dce7f1d4c1e26eb7f64929921"
 
 [[files]]
 file = "config/supplementaries-common.json"
 hash = "72fdbe4d6d891230b8475812e551d7610567aef9b78ae13cb27afd0ab4d6458d"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "8d91c6279e08e6560d83c228adee73946c1963eb41262181507b2891a2ad11a1"
+
+[[files]]
 file = "config/yosbr/config/FabricProxy-Lite.toml"
 hash = "a0fd68e238253d5bda924628ddc6bdf056efe27b1809cdd133fd472b8e6b3612"
+
+[[files]]
+file = "config/yosbr/config/inventorysorter/blacklist.json5"
+hash = "9f36f88fdb87b6320507f049e9eff15a6622655666bac5122c1c9f694dd2e3d7"
+
+[[files]]
+file = "config/yosbr/config/inventorysorter/config.json5"
+hash = "a268d42b2f32c72e44c27b8294c5db1468cec68e733993713bc6dd1a4d3a7ee3"
 
 [[files]]
 file = "kubejs.md"
@@ -1048,10 +1084,6 @@ hash = "b9012cd40181be144e60d904d6f387443fea89b4b334515e902e8b00c5e588d6"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-609.jar"
-hash = "09b94180d129832e62376635dd0bec0db650ad2113f2f797b383469fe47ba146"
-
-[[files]]
 file = "mods/holograms.pw.toml"
 hash = "16338925ca6723d1dc4a8927583ad3231c6539334f2a0a6b480501dc31db7c6f"
 metafile = true
@@ -1440,10 +1472,6 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
-
-[[files]]
-file = "mods/paucal-fabric-1.20.1-0.6.0-pre-118.jar"
-hash = "8b30d6dbca637a0bea8adf58cab1cbe96d4b6083317162381b70305098a12361"
 
 [[files]]
 file = "mods/pehkui.pw.toml"
@@ -1957,3 +1985,7 @@ hash = "a3197b4a6fd8bd702ae3c271a2569e4d1b838d76d2ae231f3386d7dfb7647730"
 [[files]]
 file = "options.txt"
 hash = "dba8e1e58245b07a4311c97e7dcb0db40ea25a8ee743c8977a50537410dee6df"
+
+[[files]]
+file = "user_jvm_args.txt"
+hash = "37e16a33ab343f51f149ea7fafb5dc030cbd07345089b998e4de6295a88d3e42"
