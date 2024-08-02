@@ -963,6 +963,11 @@ hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
 
 [[files]]
+file = "mods/fancy-glass.pw.toml"
+hash = "40a69c6d81e0582f6c2799e15a7ed0665d064297ecbbf2e69471e54806792f1e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true

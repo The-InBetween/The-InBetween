@@ -1,0 +1,13 @@
+name = "Fancy Glass"
+filename = "Fancy Glass v1.0 - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/93l5Tj4b/versions/hrbyPJwk/Fancy%20Glass%20v1.0%20-%201.20.1.jar"
+hash-format = "sha1"
+hash = "77f3ef8891434ec370ebb58d6ef7288e6f0a031b"
+
+[update]
+[update.modrinth]
+mod-id = "93l5Tj4b"
+version = "hrbyPJwk"
