@@ -1,0 +1,13 @@
+name = "Client Execution"
+filename = "client_execution-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xh5zv1DU/versions/pZ14Vp5R/client_execution-1.0.1.jar"
+hash-format = "sha1"
+hash = "467b767cf5b665240f18c7ba666217d901878853"
+
+[update]
+[update.modrinth]
+mod-id = "xh5zv1DU"
+version = "pZ14Vp5R"
