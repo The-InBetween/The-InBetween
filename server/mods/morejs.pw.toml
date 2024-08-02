@@ -1,13 +1,13 @@
 name = "MoreJS: KubeJS Addon"
-filename = "morejs-fabric-1.20.1-0.9.0.jar"
+filename = "morejs-fabric-1.20.1-0.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mo64mR1W/versions/qLnPqIUa/morejs-fabric-1.20.1-0.9.0.jar"
+url = "https://cdn.modrinth.com/data/mo64mR1W/versions/3CjPWRIp/morejs-fabric-1.20.1-0.10.0.jar"
 hash-format = "sha1"
-hash = "70cb8bcc73ea39eca27415273e944f5ad7d73e9b"
+hash = "081c58117945754861e42c082f305c5924de564f"
 
 [update]
 [update.modrinth]
 mod-id = "mo64mR1W"
-version = "qLnPqIUa"
+version = "3CjPWRIp"

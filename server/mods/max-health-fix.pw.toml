@@ -1,13 +1,13 @@
 name = "Max Health Fix"
-filename = "MaxHealthFix-Fabric-1.20.1-12.0.2.jar"
+filename = "MaxHealthFix-Fabric-1.20.1-12.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mH8wdmqr/versions/rzYuzdQN/MaxHealthFix-Fabric-1.20.1-12.0.2.jar"
+url = "https://cdn.modrinth.com/data/mH8wdmqr/versions/PEvu8a2H/MaxHealthFix-Fabric-1.20.1-12.0.3.jar"
 hash-format = "sha1"
-hash = "2fb34a6ea5092bfad50f6ad838ba256925a265a8"
+hash = "49bab5975daaede504a1a99ccc5c35886dabdbaa"
 
 [update]
 [update.modrinth]
 mod-id = "mH8wdmqr"
-version = "rzYuzdQN"
+version = "PEvu8a2H"

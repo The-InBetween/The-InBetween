@@ -1,13 +1,13 @@
 name = "Craftify"
-filename = "Craftify-1.20.1-1.14.0-fabric.jar"
+filename = "Craftify-1.20.1-1.16.0-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nrJ2NpD0/versions/XpBBZzV9/Craftify-1.20.1-1.14.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/nrJ2NpD0/versions/re35cvGC/Craftify-1.20.1-1.16.0-fabric.jar"
 hash-format = "sha1"
-hash = "04b87f9635dff685070ff92f5ba090c5d6e4f92e"
+hash = "1fdc0084f5c9c3e304f424bc98af3199626cc285"
 
 [update]
 [update.modrinth]
 mod-id = "nrJ2NpD0"
-version = "XpBBZzV9"
+version = "re35cvGC"

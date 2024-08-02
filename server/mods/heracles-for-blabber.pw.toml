@@ -1,13 +1,13 @@
 name = "Heracles For Blabber"
-filename = "HeraclesForBlabber-0.6.1+sha.1e48035.jar"
+filename = "HeraclesForBlabber-0.6.3+sha.8d1d1c1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yGheyf6w/versions/iqYDtbVP/HeraclesForBlabber-0.6.1%2Bsha.1e48035.jar"
+url = "https://cdn.modrinth.com/data/yGheyf6w/versions/8iicHlpD/HeraclesForBlabber-0.6.3%2Bsha.8d1d1c1.jar"
 hash-format = "sha1"
-hash = "146e31d3137d8dca81c71398737a33783cf70e4f"
+hash = "cd749689109d8c317dd60c2573ad6363e023031f"
 
 [update]
 [update.modrinth]
 mod-id = "yGheyf6w"
-version = "iqYDtbVP"
+version = "8iicHlpD"

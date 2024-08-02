@@ -1,13 +1,13 @@
 name = "Create: Applied Energistics 2"
-filename = "Create_Applied_Energistics_2.zip"
+filename = "Create AE2 Datapack.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wNukWjYj/versions/Bs7kIwYJ/Create_Applied_Energistics_2.zip"
+url = "https://cdn.modrinth.com/data/wNukWjYj/versions/SotgQaOe/Create%20AE2%20Datapack.zip"
 hash-format = "sha1"
-hash = "69d11e76d636a372f08a314d28624edd855eecae"
+hash = "cf2b95c96778c7f0458b666bd6d113aa36453f98"
 
 [update]
 [update.modrinth]
 mod-id = "wNukWjYj"
-version = "Bs7kIwYJ"
+version = "SotgQaOe"
