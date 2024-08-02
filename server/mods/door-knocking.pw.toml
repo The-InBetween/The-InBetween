@@ -1,0 +1,13 @@
+name = "Door Knocking"
+filename = "door_knocking-1.0.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MyreyrL3/versions/UUMrL5of/door_knocking-1.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "99ff38d2a2eb31c270d6e374d58e5bf470d33120"
+
+[update]
+[update.modrinth]
+mod-id = "MyreyrL3"
+version = "UUMrL5of"

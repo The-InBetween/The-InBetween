@@ -811,6 +811,11 @@ hash = "9d511b6a27d908fb67f626fbf480fb184a3ebe4d7803d8535cf40879c199a051"
 metafile = true
 
 [[files]]
+file = "mods/door-knocking.pw.toml"
+hash = "8eb0122084b5e73c8e6be1c24d1ed0171bacef130abab3439a55046b5a37358b"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-difficulty.pw.toml"
 hash = "86bcf8c168eadfd3db1d87a5d90664feca1d38669957c7396c219e5498f575b2"
 metafile = true
