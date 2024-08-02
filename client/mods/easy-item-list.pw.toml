@@ -1,0 +1,13 @@
+name = "Easy Item List"
+filename = "EasyItemList-0.1.2-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VoNSGQHx/versions/z1OeD149/EasyItemList-0.1.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "b6b4f261bee3fa0444f63c8bf45eb31b718b3a18"
+
+[update]
+[update.modrinth]
+mod-id = "VoNSGQHx"
+version = "z1OeD149"

@@ -846,6 +846,11 @@ hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
+file = "mods/easy-item-list.pw.toml"
+hash = "3138420c1022e2c05e04aa85dc8f45229b5aad370f386c86c301884eab51a0b6"
+metafile = true
+
+[[files]]
 file = "mods/effect-tooltips.pw.toml"
 hash = "b6d227bed5d5e18fe5789c5209aa6668d62bd300f58add83ad826837312c5a01"
 metafile = true
