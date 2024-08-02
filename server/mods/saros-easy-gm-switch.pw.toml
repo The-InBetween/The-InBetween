@@ -1,0 +1,13 @@
+name = "Saro´s Easy GM Switch"
+filename = "Saros-Easy-Gm-Switch-Mod-1.20.1-1.1-[Fabric-Quilt].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CQczwNxa/versions/arQIQzNk/Saros-Easy-Gm-Switch-Mod-1.20.1-1.1-%5BFabric-Quilt%5D.jar"
+hash-format = "sha1"
+hash = "7b638c6bad64f76e4e71fad5648c5cb366f96572"
+
+[update]
+[update.modrinth]
+mod-id = "CQczwNxa"
+version = "arQIQzNk"
