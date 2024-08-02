@@ -1581,6 +1581,11 @@ hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
 metafile = true
 
 [[files]]
+file = "mods/safelogin.pw.toml"
+hash = "ae09689fee180dc735bfa91cf3388acf31a6b5e5d8227f50afd7d160199717d0"
+metafile = true
+
+[[files]]
 file = "mods/saros-easy-gm-switch.pw.toml"
 hash = "765f5885fc0af00c5f9864db8f2c363390f38b25c4d56ce4aa11ddb982d0ad71"
 metafile = true
