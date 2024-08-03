@@ -1,13 +1,13 @@
 name = "pv-addon-lavaplayer-lib"
-filename = "pv-addon-lavaplayer-lib-1.0.10.jar"
+filename = "pv-addon-lavaplayer-lib-1.0.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kx9d4acU/versions/eeeGlwij/pv-addon-lavaplayer-lib-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/Kx9d4acU/versions/89As9trJ/pv-addon-lavaplayer-lib-1.0.6.jar"
 hash-format = "sha1"
-hash = "28be97e1a2dcf22ecab8149dd2fe20c49491074a"
+hash = "e2f6bc05c9a7030853d0bd5721ad2cce05913098"
 
 [update]
 [update.modrinth]
 mod-id = "Kx9d4acU"
-version = "eeeGlwij"
+version = "89As9trJ"
