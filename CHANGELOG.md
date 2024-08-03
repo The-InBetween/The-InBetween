@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [0.10.4](https://github.com/The-InBetween/The-InBetween/compare/v0.10.3...v0.10.4) (2024-08-03)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** added Icarus ([a1898d4](https://github.com/The-InBetween/The-InBetween/commit/a1898d4b619f2c53dba0615aa28b91048cfc5b12))
+* **client&server:** Added packet fixer ([272a5c1](https://github.com/The-InBetween/The-InBetween/commit/272a5c1306c479ba76d5e6edd764564fdaa12190))
+* **client&server:** removed mob captains ([7d11324](https://github.com/The-InBetween/The-InBetween/commit/7d11324c1960199480292c2ecbe93eab11480331))
+
 ## [0.10.3](https://github.com/The-InBetween/The-InBetween/compare/v0.10.2...v0.10.3) (2024-08-02)
 
 
