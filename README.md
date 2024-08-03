@@ -22,3 +22,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Contributions, feedback, and improvements are warmly welcomed! Let's propel this project forward together! 🚀
+
