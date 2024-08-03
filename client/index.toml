@@ -1520,11 +1520,6 @@ hash = "4a25843fc3042ddcf14e4abbd3426d68a76a7e2fde9091db8c6bea295c04a67e"
 metafile = true
 
 [[files]]
-file = "mods/origins.pw.toml"
-hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
-metafile = true
-
-[[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "36c437c28626eb8771bc414133072894e2451245b1ba1c6411716b08dc077e5f"
 metafile = true
