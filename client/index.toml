@@ -1390,11 +1390,6 @@ hash = "a814269d93cf402a530d184ba616bcf5a2fce40f76ffad186cb5bb93c546d8d2"
 metafile = true
 
 [[files]]
-file = "mods/mob-captains.pw.toml"
-hash = "d2890336faf28e59c15902545b261bf39f020850e61174ba799169a5f67e9e52"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "48812d772e135285b61d74a9936e22220efa1d8935ec1f06f34c2727ea915836"
 metafile = true
