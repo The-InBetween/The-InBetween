@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "Icarus-Fabric-2.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/OdZ2fpej/Icarus-Fabric-2.9.2.jar"
+hash-format = "sha1"
+hash = "ff6b3f1ee74abcb553040d1fe50b4ad75b5bc956"
+
+[update]
+[update.modrinth]
+mod-id = "Dw7M6XKW"
+version = "OdZ2fpej"

@@ -709,6 +709,11 @@ hash = "04a63264b461340b3fbb4cfb76e6a9f5bf3dcafcfea915680a0673b719583cf7"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "b99d5b9487ac9f7041af14efa6c1643800b36612f5ba50b14eebdf931c522ea7"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "e6c2e19d2e8680c91d8259548946e96bf00eb5986ed9219e8182773c86519b28"
 metafile = true
@@ -1081,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/ibe-editor.pw.toml"
 hash = "fc6f6929a7293aace01528596cb4e92f63fa8bcf4d3a7b3b61b4dc161c2ab428"
+metafile = true
+
+[[files]]
+file = "mods/icarus.pw.toml"
+hash = "934b9535d9a4c69a7cb7a458a1e3102d6320786f1c0c7c1f8c001a85135a079c"
 metafile = true
 
 [[files]]
