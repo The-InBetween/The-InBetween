@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [0.10.5](https://github.com/The-InBetween/The-InBetween/compare/v0.10.4...v0.10.5) (2024-08-04)
+
+
+### ☀ Modpack Changes
+
+* **client&server:** updated music maker mod and lavaplayer lib plasmo add ([4264f55](https://github.com/The-InBetween/The-InBetween/commit/4264f554ceea9d1afe0d7f1ea85ad94059492b09))
+* **client:** removed origins ([f49418a](https://github.com/The-InBetween/The-InBetween/commit/f49418a2acdd598ae3ed04b620005f558f579b1c))
+* **client:** removed ping spam, server only mod ([0cba520](https://github.com/The-InBetween/The-InBetween/commit/0cba520706a83b87b4addd85d6a0e9fa83a7da60))
+
 ## [0.10.4](https://github.com/The-InBetween/The-InBetween/compare/v0.10.3...v0.10.4) (2024-08-03)
 
 
