@@ -1295,11 +1295,6 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "27df30bb49ab3e71eb57790364d3d01a71ecc7d797730d5c10fae4f8144e16fd"
-metafile = true
-
-[[files]]
 file = "mods/loading-window.pw.toml"
 hash = "747acc969c8dff18a7a3af0059b85a6a69eb533a22517d0a1d625339c4a27a14"
 metafile = true
